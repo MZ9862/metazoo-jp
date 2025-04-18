@@ -7,4 +7,4 @@
 
 ## 論文紹介
 ### In press・2025
-[後生動物Metazoa](Papers/Papers2025Metazoa.md)
+[後生動物Metazoa](papers/papers2025metazoa.md)

@@ -282,6 +282,6 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *PeerJ*)  
 [DOI](https://doi.org/10.7717/peerj.18864)
 
-「アヴァロンにおける初期の動物の再定着の戦略（エディアカラン紀の5億7400万–5億6000万年前）」（プレプリント・閲覧可能）  
+「アヴァロン（エディアカラン紀5億7400万–5億6000万年前）における初期の動物の再定着の戦略」（プレプリント・閲覧可能）  
 Recolonisation strategies of early animals in the Avalon (Ediacaran 574 – 560 Ma) (Stephenson et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.01.30.635654)

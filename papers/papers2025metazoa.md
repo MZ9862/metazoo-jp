@@ -5,7 +5,7 @@
 <div style="text-align: right;">最終更新：2025年4月18日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（もしくはプレプリント、一部書籍が入る場合もあり）をなるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。抜け（明確な基準はありませんが）があるかもしれませんがご了承ください（[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)で報告していただいても大丈夫です）。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。  
-とりあえず今持っている論文を適当に列挙してしまいましたが、それ以降は新たに出た論文を先頭に配置しています。
+とりあえず持っていた論文を適当に列挙してしまいましたが、それ以降は新たに出た論文を先頭に配置しています。
 
 ## In press
 「中国北部からの新たなミャオリンギアンの管棲の化石およびエディアカラン紀の『蠕虫世界』の存続」  
@@ -13,6 +13,10 @@ New Miaolingian tubicolous fossils from North China and the persistence of the E
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
 ## 2025
+「形態的に保守的な多板類において、大規模なゲノム再編成という大きな変化が潜んでいる」（オープンアクセス）  
+Still waters run deep in large-scale genome rearrangements of morphologically conservative Polyplacophora (Sigwart et al., 2025, *eLife*)  
+[DOI](https://doi.org/10.7554/eLife.102542.3)
+
 「PlaceMyFossils：バックボーン系統樹を用いて化石の系統学的配置を分析・視覚化する統合的アプローチ」（オープンアクセス）  
 PlaceMyFossils: An Integrative Approach to Analyze and Visualize the Phylogenetic Placement of Fossils Using Backbone Trees (Catalano et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf025)
@@ -273,3 +277,11 @@ Fossilized soft tissues in tentaculitids from the Upper Devonian of Armenia: Tow
 「中国南部の最初期のカンブリア紀の海における微小硬骨格化石群の出現は塩分条件と関連していた」  
 Appearance of SSFs in earliest Cambrian seas of South China linked to salinity conditions (Liu & Algeo, 2025, *Chemical Geology*)  
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
+
+「中国の下部カンブリア系からの深い海域に生息した古虫動物」（オープンアクセス）  
+Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *PeerJ*)  
+[DOI](https://doi.org/10.7717/peerj.18864)
+
+「アヴァロンにおける初期の動物の再定着の戦略（エディアカラン紀の5億7400万–5億6000万年前）」（プレプリント・閲覧可能）  
+Recolonisation strategies of early animals in the Avalon (Ediacaran 574 – 560 Ma) (Stephenson et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.01.30.635654)

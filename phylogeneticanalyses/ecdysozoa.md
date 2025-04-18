@@ -28,7 +28,7 @@ Novel genomic approaches support Xenacoelomorpha as sister to all Bilateria (Ál
 「脱皮動物のゲノム系統解析により、緩歩動物が汎節足動物の構成員として確認され、類線形動物と線形動物が姉妹群ではないかもしれないことが示唆される」（博士論文チャプター・閲覧可能）  
 Phylogenomic analyses of Ecdysozoa identify Tardigrada as a member of Panarthropoda and suggest Nematomorpha and Nematoda might not be sister taxa (Giacomelli, 2023, University of Bristol)  
 [博士論文URL](https://research-information.bris.ac.uk/en/studentTheses/investigating-tricky-nodes-in-the-tree-of-life)  
-補足：上のGiacomelli et al. (2025) とほぼ同じですが、少し内容が違います。
+補足：上の Giacomelli et al. (2025) とほぼ同じですが、少し内容が違います。
 
 ### 2022
 「脱皮動物のエディアカラン紀の起源：化石とゲノム系統学的データを統合する」（オープンアクセス）  

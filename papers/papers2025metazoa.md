@@ -13,7 +13,7 @@ New Miaolingian tubicolous fossils from North China and the persistence of the E
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
 ## 2025
-「形態的に保守的な多板類において、大規模なゲノム再編成という大きな変化が潜んでいる」（オープンアクセス）  
+「形態的に保存的な多板類において、大規模なゲノム再編成という大きな変化が潜んでいる」（オープンアクセス）  
 Still waters run deep in large-scale genome rearrangements of morphologically conservative Polyplacophora (Sigwart et al., 2025, *eLife*)  
 [DOI](https://doi.org/10.7554/eLife.102542.3)
 

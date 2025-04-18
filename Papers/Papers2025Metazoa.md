@@ -13,7 +13,7 @@ New Miaolingian tubicolous fossils from North China and the persistence of the E
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
 ## 2025
-「PlaceMyFossils：バックボーン系統樹を用いて化石の系統学的位置を分析・視覚化する統合的アプローチ」（オープンアクセス）  
+「PlaceMyFossils：バックボーン系統樹を用いて化石の系統学的配置を分析・視覚化する統合的アプローチ」（オープンアクセス）  
 PlaceMyFossils: An Integrative Approach to Analyze and Visualize the Phylogenetic Placement of Fossils Using Backbone Trees (Catalano et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf025)
 

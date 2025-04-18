@@ -25,7 +25,7 @@ PlaceMyFossils: An Integrative Approach to Analyze and Visualize the Phylogeneti
 The development and evolution of arthropod tagmata (Chipman, 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
 [DOI](https://doi.org/10.1098/rspb.2024.2950)
 
-「ジュラ紀の鉤頭虫類が鉤頭虫類の起源を解明する」  
+「ジュラ紀の鉤頭虫類により鉤頭虫類の起源が解き明かされる」  
 A Jurassic acanthocephalan illuminates the origin of thorny-headed worms (Luo et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-08830-5)
 

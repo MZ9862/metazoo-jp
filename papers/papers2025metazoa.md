@@ -227,7 +227,7 @@ The Tree of Life: Solving Science's Greatest Puzzle (Telford, 2025, John Murray 
 The Evolutionary Biology of Chelicerata (Sharma & Gavish-Regev, 2025, *Annual Review of Entomology*)  
 [DOI](https://doi.org/10.1146/annurev-ento-022024-011250)
 
-「total-evidenceの系統解析により、シャコ類（シャコ類）の進化の時間的尺度が解き明かされ、それらの分子的・形態的進化的速度に関する洞察が得られる」（オープンアクセス）  
+「total-evidenceの系統解析により、シャコ類（シャコ類）の進化の時間的尺度が解き明かされ、それらの分子的・形態的進化速度に関する洞察が得られる」（オープンアクセス）  
 Total-evidence phylogenetic analysis resolves the evolutionary timescale of mantis shrimps (Stomatopoda) and provides insights into their molecular and morphological evolutionary rates (Van Der Wal et al., 2025, *Molecular Phylogenetics and Evolution*)  
 [DOI](https://doi.org/10.1016/j.ympev.2025.108346)
 

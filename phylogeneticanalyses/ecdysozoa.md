@@ -49,12 +49,12 @@ A New Spiralian Phylogeny Places the Enigmatic Arrow Worms among Gnathiferans (M
 Revisiting metazoan phylogeny with genomic sampling of all phyla (Laumer et al., 2019a, *Proceedings of the Royal Society B: Biological Sciences*)  
 [DOI](https://doi.org/10.1098/rspb.2019.0831)  
 
-## 2017
+### 2017
 「緩歩動物*Hypsibius dujardini*と*Ramazzottius varieornatus*の比較ゲノム学」（オープンアクセス）  
 Comparative genomics of the tardigrades *Hypsibius dujardini* and *Ramazzottius varieornatus* (Yoshida et al., 2017, *PLOS Biology*)  
 [DOI](https://doi.org/10.1371/journal.pbio.2002266)
 
-## 2015
+### 2015
 「ほぼ全長の18Sおよび28S rRNA遺伝子配列から推定される胴甲動物の系統学的位置」（オープンアクセス）  
 Phylogenetic position of Loricifera inferred from nearly complete 18S and 28S rRNA gene sequences (Yamasaki et al., 2015, *Zoological Letters*)  
 [DOI](https://doi.org/10.1186/s40851-015-0017-0)
@@ -63,12 +63,12 @@ Phylogenetic position of Loricifera inferred from nearly complete 18S and 28S rR
 Spiralian Phylogeny Informs the Evolution of Microscopic Lineages (Laumer et al., 2015, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2017.11.026)
 
-## 2014
+### 2014
 「脱皮動物の系統へのトランスクリプトームによるアプローチ」  
 A transcriptome approach to ecdysozoan phylogeny (Borner et al., 2014, *Molecular Phylogenetics and Evolution*)  
 [DOI](https://doi.org/10.1016/j.ympev.2014.08.001)
 
-## 2013
+### 2013
 「分子的な年代付けされた系統樹により、カンブリア紀の陸上への定着と脱皮動物の進化の新たなシナリオが明らかになる」（オープンアクセス）  
 Molecular Timetrees Reveal a Cambrian Colonization of Land and a New Scenario for Ecdysozoan Evolution (Rota-Stabelli et al., 2013, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2013.01.026)

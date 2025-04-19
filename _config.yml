@@ -10,7 +10,6 @@ author:
   email: mz9862.github@gmail.com
 url: "https://mz9862.github.io"
 baseurl: "/metazoo-jp"
-github\_username: MZ9862
-plugins:
+gems:
   - jekyll-sitemap
   - jekyll-seo-tag

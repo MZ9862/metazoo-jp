@@ -124,10 +124,6 @@ Combining fossil taxa with and without morphological data improves dated phyloge
 Flying turtles in the earliest trees of life: scientific transparency in the phylogenetic works of Ernst Haeckel (Werneburg & Hoßfeld, 2025, *Swiss Journal of Palaeontology*)  
 [DOI](https://doi.org/10.1186/s13358-025-00355-8)
 
-「ニューファンドランド島のエディアカランからの*Charnia*の新種により、Charnida（ランゲオモルフ類）の分類学、純古生物学、古生態学に関する新たな洞察が得られる」  
-A new species of *Charnia* from the Ediacaran of Newfoundland reveals novel insights on the taxonomy, palaeobiology and palaeoecology of the Charnida (Rangeomorpha) (Pasinetti et al., 2025, *Journal of Systematic Palaeontology*)  
-[DOI](https://doi.org/10.1080/14772019.2025.2468193)
-
 「ウミグモ類（節足動物：ウミグモ類）の進化史の時間的尺度」（オープンアクセス）  
 A timescale for the evolutionary history of sea spiders (Arthropoda: Pycnogonida) (Nava et al., 2025, *Evolutionary Journal of the Linnean Society*)  
 [DOI](https://doi.org/10.1093/evolinnean/kzaf001)
@@ -148,7 +144,7 @@ New ecdysozoan fossil embryos from the basal Cambrian of China (Liu et al., 2025
 Embryology cannot establish the “Protura-sister” (Machida et al., 2025, *Proceedings of the National Academy of Sciences*)  
 [DOI](https://doi.org/10.1073/pnas.2423813122)
 
-「Machida et al.への返信：発生学は『カマアシムシ類－姉妹群仮説』を確立できないが、ゲノム系統学はできる」（オープンアクセス）  
+「Machida et al. への返信：発生学は『カマアシムシ類－姉妹群仮説』を確立できないが、ゲノム系統学はできる」（オープンアクセス）  
 Reply to Machida et al.: Although embryology cannot establish the “Protura-sister”, phylogenomics can (Du et al., 2025, *Proceedings of the National Academy of Sciences*)  
 [DOI](https://doi.org/10.1073/pnas.2425775122)
 
@@ -259,11 +255,6 @@ Two ribbon-like macrofossils in contrasting preservational styles from the Ediac
 「エディアカラン紀型の非鉱化管棲生物がバルティカ大陸においてカンブリア紀初期（テレニュービアン）まで存続していた」  
 Ediacaran-type non-mineralized tube-dwelling organisms persisted into the early Cambrian (Terreneuvian) in Baltica (Vinn et al., 2025, *Gondwana Research*)  
 [DOI](https://doi.org/10.1016/j.gr.2024.09.009)
-
-「チベット高原・ツァイダム盆地北部におけるQuanjishanの*Charnia*の群集およびエディアカラン紀の葉状生物の古生態学とタフォノミーへの意味合い」（プレプリントのみアカウント登録すれば閲覧可能）  
-The Quanjishan *Charnia* assemblage from the northern Qaidam Basin, Tibetan Plateau, and implications for palaeoecology and taphonomy of Ediacaran fronds (Wu et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
-[DOI](https://doi.org/10.1016/j.palaeo.2025.112816)  
-[プレプリントDOI](https://dx.doi.org/10.2139/ssrn.4948130)
 
 「StratoBayes：層序対比と年代のモデル化の自動化のためのベイズ的手法」（プレプリント・閲覧可能）  
 StratoBayes: A Bayesian method for automated stratigraphic correlation and age modelling (Eichenseer et al., 2025 preprint, *EGUsphere*)  

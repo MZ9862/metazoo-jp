@@ -3,6 +3,10 @@ title: MetaZoo JP
 description: 後生動物の初期の系統・進化についてまとめることを目指すWebサイトです
 markdown: kramdown
 highlighter: rouge
+email: mz9862.github@gmail.com
+url: "https://mz9862.github.io"
+baseurl: "/metazoo-jp"
+github\_username: MZ9862
 plugins:
   - jekyll-sitemap
 plugins:

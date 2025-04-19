@@ -21,6 +21,10 @@
 CAT-Posterior Mean Site Frequencies Improves Phylogenetic Modeling Under Maximum Likelihood and Resolves Tardigrada as the Sister of Arthropoda Plus Onychophora (Giacomelli et al., 2025, *Genome Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/gbe/evae273)
 
+「大きいもの、小さいもの、奇妙なもの：現生鰓曳動物のゲノム系統解析」（オープンアクセス）  
+The big, the small and the weird: A phylogenomic analysis of extant Priapulida (Raeker et al., 2025, *Molecular Phylogenetics and Evolution*)  
+[DOI](https://doi.org/10.1016/j.ympev.2025.108297)
+
 <h3 id="molecular_data_2024">2024</h3>
 
 「新たなゲノムアプローチにより、珍無腸動物が全ての左右相称動物の姉妹群として支持される」（プレプリント・閲覧可能）  
@@ -40,6 +44,10 @@ Phylogenomic analyses of Ecdysozoa identify Tardigrada as a member of Panarthrop
 「脱皮動物のエディアカラン紀の起源：化石とゲノム系統学的データを統合する」（オープンアクセス）  
 The Ediacaran origin of Ecdysozoa: integrating fossil and phylogenomic data (Howard et al., 2022, *Journal of the Geological Society*)  
 [DOI](https://doi.org/10.1144/jgs2021-107)
+
+「マッドドラゴン（動吻動物）のゲノム系統解析」（オープンアクセス）  
+Phylogenomic analyses of mud dragons (Kinorhyncha) (Herranz et al., 2022, *Molecular Phylogenetics and Evolution*)  
+[DOI](https://doi.org/10.1016/j.ympev.2021.107375)
 
 <h3 id="molecular_data_2019">2019</h3>
 

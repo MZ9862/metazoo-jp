@@ -1,7 +1,7 @@
 theme: jekyll-theme-leap-day
 title: MetaZoo JP
 description: 後生動物の初期の系統・進化についてまとめることを目指すWebサイトです
-lang: ja
+lang: ja_JP
 markdown: kramdown
 highlighter: rouge
 email: mz9862.github@gmail.com

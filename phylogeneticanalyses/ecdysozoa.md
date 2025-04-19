@@ -66,7 +66,7 @@ Revisiting metazoan phylogeny with genomic sampling of all phyla (Laumer et al.,
 
 <h3 id="molecular_data_2017">2017</h3>
 
-「緩歩動物*Hypsibius dujardini*と*Ramazzottius varieornatus*の比較ゲノム学」（オープンアクセス）  
+「緩歩動物ドゥジャルダンヤマクマムシとヨコヅナクマムシの比較ゲノム学」（オープンアクセス）  
 Comparative genomics of the tardigrades *Hypsibius dujardini* and *Ramazzottius varieornatus* (Yoshida et al., 2017, *PLOS Biology*)  
 [DOI](https://doi.org/10.1371/journal.pbio.2002266)
 

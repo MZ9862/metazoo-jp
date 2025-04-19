@@ -1,3 +1,4 @@
+<title>MetaZoo JP | 後生動物の初期の系統・進化についてまとめることを目指すWebサイトです</title>
 <h1 id="papers_2025_metazoa">論文紹介2025（後生動物Metazoa）</h1>
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 論文紹介2025（後生動物Metazoa）</span>

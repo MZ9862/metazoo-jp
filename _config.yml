@@ -9,5 +9,4 @@ baseurl: "/metazoo-jp"
 github\_username: MZ9862
 plugins:
   - jekyll-sitemap
-plugins:
   - jekyll-seo-tag

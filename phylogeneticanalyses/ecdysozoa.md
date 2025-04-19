@@ -1,4 +1,3 @@
-<title>MetaZoo JP | 後生動物の初期の系統・進化についてまとめることを目指すWebサイトです</title>
 <h1 id="phyloanalyses_papers_ecdysozoa">系統解析論文紹介（脱皮動物Ecdysozoa）</h1>
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（脱皮動物Ecdysozoa）</span>

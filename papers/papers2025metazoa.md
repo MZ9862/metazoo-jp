@@ -1,3 +1,8 @@
+---
+title: 論文紹介2025（後生動物Metazoa）
+description: 後生動物Metazoaの初期の系統・進化に関する2025年に出版された論文をなるべく網羅的に紹介しています
+lang: ja_JP
+---
 <h1 id="papers_2025_metazoa">論文紹介2025（後生動物Metazoa）</h1>
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 論文紹介2025（後生動物Metazoa）</span>

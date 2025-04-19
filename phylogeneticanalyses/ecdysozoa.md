@@ -1,3 +1,8 @@
+---
+title: 系統解析論文紹介（脱皮動物Ecdysozoa）
+description: 脱皮動物Ecdysozoaの系統解析の論文を可能な限り網羅的に解説しています
+lang: ja_JP
+---
 <h1 id="phyloanalyses_papers_ecdysozoa">系統解析論文紹介（脱皮動物Ecdysozoa）</h1>
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（脱皮動物Ecdysozoa）</span>

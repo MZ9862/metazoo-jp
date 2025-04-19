@@ -1,4 +1,4 @@
-# 論文紹介2025（後生動物Metazoa）
+<h1 id="papers_2025_metazoa">論文紹介2025（後生動物Metazoa）</h1>
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 論文紹介2025（後生動物Metazoa）</span>
 </div>
@@ -8,12 +8,14 @@
 
 とりあえず持っていた論文を適当に列挙してしまいましたが、それ以降は新たに出た論文を先頭に配置しています。
 
-## In press
+<h2 id="in_press">In press</h2>
+
 「中国北部からの新たなミャオリンギアンの管棲の化石およびエディアカラン紀の『蠕虫世界』の存続」  
 New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., in press, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
-## 2025
+<h2 id="2025">2025</h2>
+
 「形態的に保存的な多板類において、大規模なゲノム再編成という大きな変化が潜んでいる」（オープンアクセス）  
 Still waters run deep in large-scale genome rearrangements of morphologically conservative Polyplacophora (Sigwart et al., 2025, *eLife*)  
 [DOI](https://doi.org/10.7554/eLife.102542.3)

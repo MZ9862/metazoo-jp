@@ -1,9 +1,3 @@
----
-title: MetaZoo JP
-description: 後生動物の初期の系統・進化についてまとめることを目指すWebサイトです
-lang: ja_JP
----
-
 <h1 id="metazoo_jp">MetaZoo JP</h1>
 <div style="text-align: right;">最終更新：2025年4月19日</div><br>
 

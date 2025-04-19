@@ -11,5 +11,7 @@ author:
 url: "https://mz9862.github.io"
 baseurl: "/metazoo-jp"
 gems:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
+sitemap:
+  file: "/sitemap.xml"

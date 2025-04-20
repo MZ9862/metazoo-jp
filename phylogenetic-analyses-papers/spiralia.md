@@ -4,7 +4,7 @@ description: 螺旋動物Spiraliaの系統解析の論文を可能な限り網�
 lang: ja_JP
 ---
 
-# 系統解析論文紹介（螺旋動物Spiralia
+# 系統解析論文紹介（螺旋動物Spiralia）
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（螺旋動物Spiralia）</span>
 </div>

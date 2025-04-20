@@ -61,7 +61,7 @@ Phylogenomic analyses of mud dragons (Kinorhyncha) (Herranz et al., 2022, *Molec
 Improved phylogenomic sampling of free-living nematodes enhances resolution of higher-level nematode phylogeny (Smythe et al., 2019, *BMC Ecology and Evolution*)  
 [DOI](https://doi.org/10.1186/s12862-019-1444-x)
 
-「螺旋動物の新しい系統により、謎のヤムシ類が担顎動物の中に位置付けられる」（オープンアクセス）  
+「螺旋動物の新しい系統により、謎めいたヤムシ類が担顎動物の中に位置付けられる」（オープンアクセス）  
 A New Spiralian Phylogeny Places the Enigmatic Arrow Worms among Gnathiferans (Marlétaz et al., 2019, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2018.11.042)  
 補足：この論文（Marlétaz et al., 2019）は毛顎動物門Chaetognathaを担顎動物Gnathifera（元々、顎口動物門、微顎動物門、輪形動物門を含んでいた）に含めることを提唱しましたが、現在は古生物学的・形態的データにより、毛顎動物門が（顎口動物門＋（微顎動物門＋輪形動物門））の姉妹群であることが広く認められており（[Bekkouche & Gąsiorowski, 2022](https://doi.org/10.1080/14772019.2022.2109217)（[PDF](https://hal.science/hal-03828531/)）；[Park et al., 2024](https://doi.org/10.1126/sciadv.adi6678)；[Luo et al., 2025](https://doi.org/10.1038/s41586-025-08830-5)）、[Bekkouche & Gąsiorowski (2022)](https://doi.org/10.1080/14772019.2022.2109217) が提唱した、（毛顎動物門＋（顎口動物門＋（微顎動物門＋輪形動物門）））をChaetognathiferaと呼び、（顎口動物門＋（微顎動物門＋輪形動物門））を担顎動物Gnathiferaと呼ぶ命名法が通常使われています（[Conway Morris et al., 2020](https://doi.org/10.1017/jpa.2020.4)（[PDF](https://www.researchgate.net/publication/337797542_A_possible_Cambrian_stem-group_gnathiferan-chaetognath_from_the_Weeks_Formation_Miaolingian_of_Utah)）；[Park et al., 2024](https://doi.org/10.1126/sciadv.adi6678)；[Luo et al., 2025](https://doi.org/10.1038/s41586-025-08830-5)；[Peel, 2025](https://doi.org/10.1080/03115518.2025.2455702)；[Slater, 2025](https://doi.org/10.1098/rspb.2024.2386)）。

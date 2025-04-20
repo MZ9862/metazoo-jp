@@ -55,7 +55,7 @@ Distinctive spermiogenesis in Aplacophora (Mollusca) has phylogenetic implicatio
 [DOI](https://doi.org/10.1007/s00435-024-00688-x)  
 [プレプリントDOI](https://doi.org/10.21203/rs.3.rs-4902173/v1)
 
-「謎の甲殻類y幼生のゲノム系統学により、フジツボにおける寄生性の複数回の起源が明らかになる」（プレプリント・アカウント登録すれば閲覧可能）  
+「謎めいた甲殻類y幼生のゲノム系統学により、フジツボにおける寄生性の複数回の起源が明らかになる」（プレプリント・アカウント登録すれば閲覧可能）  
 Phylogenomics of Enigmatic Crustacean Y-Larvae Reveals Multiple Origins of Parasitism in Barnacles (Dreyer et al., 2025 preprint, *SSRN*)  
 [DOI](https://dx.doi.org/10.2139/ssrn.5191731)
 
@@ -198,7 +198,7 @@ Exotic cuticular specializations in a Cambrian scalidophoran (Mussini & Butterfi
 Exceptionally Preserved Setae: A Possible Morphological Synapomorphy of Cambrian Lophotrochozoans (Liang et al., 2025, *Evolution and Development*)  
 [DOI](https://doi.org/10.1111/ede.70001)
 
-「中国南西部のエディアカラン紀のJiangchuan biotaからの、中心に輪を持つ謎の円盤状の大型化石」  
+「中国南西部のエディアカラン紀のJiangchuan biotaからの、中心に輪を持つ謎めいた円盤状の大型化石」  
 Enigmatic discoidal macrofossils with central ring from the Ediacaran Jiangchuan biota, Southwest China (Zhao et al., 2025, *Papers in Palaeontology*)  
 [DOI](https://doi.org/10.1002/spp2.70005)
 

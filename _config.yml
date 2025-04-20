@@ -13,3 +13,4 @@ baseurl: "/metazoo-jp"
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
+google_analytics: G-TRZTCBF6R7

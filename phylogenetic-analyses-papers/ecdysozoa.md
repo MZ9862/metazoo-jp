@@ -8,7 +8,7 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（脱皮動物Ecdysozoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年4月19日</div><br>
+<div style="text-align: right;">最終確認：2025年4月19日</div><br>
 
 脱皮動物Ecdysozoaは定期的に「脱皮」によって交換されるクチクラを持つことで特徴付けられる、左右相称動物の大きなクレードの一つです。胴甲動物門Loricifera、動吻動物門Kinorhyncha、鰓曳動物門Priapulida、類線形動物門Nematomorpha、線形動物門Nematoda、緩歩動物門Tardigrada、有爪動物門Onychophora、節足動物門Arthropodaの8つの動物門から構成されます。
 

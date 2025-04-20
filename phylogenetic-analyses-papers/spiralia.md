@@ -8,7 +8,7 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（螺旋動物Spiralia）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年4月20日</div><br>
+<div style="text-align: right;">最終確認：2025年4月21日</div><br>
 
 螺旋動物（螺旋卵割動物）Spiralia（しばしば冠輪動物Lophotrochozoaと同義とされるが、冠輪動物は本来は通常螺旋動物より狭い範囲を示す；[Bleidorn et al., 2019](https://doi.org/10.1007/s13127-019-00412-4)（[PDF](https://www.gfbs-home.de/fileadmin/user_upload/ode2mods/ode/ode19/ode19_0412/article.pdf)）を参照のこと）は、螺旋卵割を共有派生形質とする可能性がある（[Marlétaz et al., 2019](https://doi.org/10.1016/j.cub.2018.11.042)）左右相称動物の大きなクレードの一つです。以下の16動物門で構成されています。
 

@@ -10,7 +10,7 @@ lang: ja_JP
 </div>
 <div style="text-align: right;">最終更新：2025年4月19日</div><br>
 
-脱皮動物Ecdysozoaは定期的に「脱皮」によって交換されるクチクラを持つことで特徴付けられる、左右相称動物の大きなクレードの一つです。胴甲動物門Loricifera、動吻動物門Kinorhyncha、鰓曳動物門Priapulida、類線形動物門Nematomorpha、線形動物門Nematoda、緩歩動物門Tardigrada、有爪動物門Onychophora、節足動物門Arthropoda（真節足動物門Euarthropoda）の8つの動物門から構成されます。
+脱皮動物Ecdysozoaは定期的に「脱皮」によって交換されるクチクラを持つことで特徴付けられる、左右相称動物の大きなクレードの一つです。胴甲動物門Loricifera、動吻動物門Kinorhyncha、鰓曳動物門Priapulida、類線形動物門Nematomorpha、線形動物門Nematoda、緩歩動物門Tardigrada、有爪動物門Onychophora、節足動物門Arthropodaの8つの動物門から構成されます。
 
 脱皮動物内部では、有棘動物Scalidophora（胴甲動物門＋動吻動物門＋鰓曳動物門）、糸形動物Nematoida（類線形動物門＋線形動物門）、汎節足動物Panarthropoda（緩歩動物門＋有爪動物門＋節足動物門）の3つのクレードが一般的には認められていますが（[Giribet & Edgecombe, 2017](https://doi.org/10.1093/icb/icx072)）、近年の系統学的研究にはこれらの3つのクレードを支持するものとむしろ別の仮説を支持するものがあり、内部系統は十分に解決していません。
 

@@ -42,7 +42,7 @@ Multiple Displacement Amplification Facilitates SMRT Sequencing of Microscopic A
 [DOI](https://doi.org/10.1093/gbe/evae254)
 
 「腕足動物のゲノムにより、左右相称動物のbody patterningにおけるBMP–Chordin networkの進化が明らかになる」（プレプリント・閲覧可能）  
-Brachiopod genome unveils the evolution of the BMP–Chordin network in bilaterian body patterning (Lewin et al., 2024, *bioRxiv*)  
+Brachiopod genome unveils the evolution of the BMP–Chordin network in bilaterian body patterning (Lewin et al., 2024 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2024.05.28.596352)
 
 ### 2022

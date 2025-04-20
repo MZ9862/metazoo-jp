@@ -16,4 +16,5 @@
 
 定量的な系統解析により後生動物の系統を調べた論文を分類群ごとにリストアップしています。
 
+[螺旋動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/spiralia.md)  
 [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)

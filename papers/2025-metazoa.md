@@ -42,7 +42,7 @@ A Jurassic acanthocephalan illuminates the origin of thorny-headed worms (Luo et
 Morphogenesis of *Fractofusus andersoni* and the nature of early animal development (Dunn et al., 2025, *Nature Communications*)  
 [DOI](https://doi.org/10.1038/s41467-025-58605-9)
 
-「形質の依存性とimplied weightingの適用を比較した軟甲類の新しい形態系統」（オープンアクセス）  
+「形質の依存性とimplied weightingの適用を比較した軟甲類の新たな形態系統」（オープンアクセス）  
 A new morphological phylogeny of Malacostraca comparing the application of character dependencies and implied weighting (Grams et al., 2025, *Cladistics*)  
 [DOI](https://doi.org/10.1111/cla.12611)
 

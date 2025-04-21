@@ -55,7 +55,7 @@ Polyzoa is back: The effect of complete gene sets on the placement of Ectoprocta
 [DOI](https://doi.org/10.1126/sciadv.abo4400)
 
 ### 2019
-「直泳動物のミトコンドリアゲノムの比較解析：無脊椎動物への寄生虫の種の進化への洞察」  
+「直泳動物のミトコンドリアゲノムの比較解析：無脊椎動物の寄生虫の種の進化への洞察」  
 Comparative analysis of the mitochondrial genomes of Orthonectida: insights into the evolution of an invertebrate parasite species (Bondarenko et al., 2019, *Molecular Genetics and Genomics*)  
 [DOI](https://doi.org/10.1007/s00438-019-01543-1)
 

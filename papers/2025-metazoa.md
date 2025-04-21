@@ -9,17 +9,19 @@ lang: ja_JP
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
 <div style="text-align: right;">最終更新：2025年4月21日</div>
-<div style="text-align: right;">最終確認：2025年4月19日</div><br>
+<div style="text-align: right;">最終確認：2025年4月21日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍が入る場合もあり）をなるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
-
-とりあえず持っていた論文を適当に列挙してしまいましたが、それ以降は新たに出た論文を先頭に配置しています。
 
 <h2 id="in_press">In press</h2>
 
 「中国北部からの新たなミャオリンギアンの管棲の化石およびエディアカラン紀の『蠕虫世界』の存続」  
 New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., in press, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
+
+「冠輪動物の進化と系統」（未出版のonline Reference Collectionのチャプター）  
+Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, in press, Elsevier)  
+[DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)
 
 <h2 id="2025">2025</h2>
 

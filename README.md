@@ -15,6 +15,17 @@
 <h2 id="phyloanalyses_papers">系統解析論文紹介</h2>
 
 定量的な系統解析により後生動物の系統を調べた論文を分類群ごとにリストアップしています。
-
-[螺旋動物Spiralia（一部準備中）](phylogenetic-analyses-papers/spiralia.md)  
-[脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
+- 後生動物Metazoa
+  - 有櫛動物Ctenophora
+  - Myriazoa
+    - 海綿動物Porifera
+    - ParaHoxozoa
+      - 平板動物Placozoa
+      - 刺胞動物Cnidaria
+      - 左右相称動物Bilateria
+        - 珍無腸形動物Xenacoelomorpha
+        - 歩帯動物Ambulacraria
+        - 脊索動物Chordata
+        - 旧口動物Protostomia
+          - [螺旋動物Spiralia（一部準備中）](phylogenetic-analyses-papers/spiralia.md)  
+          - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)

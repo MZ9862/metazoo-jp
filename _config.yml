@@ -7,7 +7,6 @@ highlighter: rouge
 email: mz9862.github@gmail.com
 author:
   name: MZ9862
-  email: mz9862.github@gmail.com
 url: "https://mz9862.github.io"
 baseurl: "/metazoo-jp"
 gems:

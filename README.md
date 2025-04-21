@@ -26,6 +26,6 @@
         - 珍無腸形動物Xenacoelomorpha
         - 歩帯動物Ambulacraria
         - 脊索動物Chordata
-        - 旧口動物Protostomia
+        - 前口動物Protostomia
           - [螺旋動物Spiralia（一部準備中）](phylogenetic-analyses-papers/spiralia.md)  
           - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)

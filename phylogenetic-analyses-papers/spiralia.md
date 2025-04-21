@@ -88,10 +88,18 @@ Nemertean and phoronid genomes reveal lophotrochozoan evolution and the origin o
 The phylogenetic position of dicyemid mesozoans offers insights into spiralian evolution (Lu et al., 2017, *Zoological Letters*)  
 [DOI](https://doi.org/10.1186/s40851-017-0068-5)
 
+「系統誤差を考慮した冠輪動物のゲノム系統学」  
+Phylogenomics of Lophotrochozoa with Consideration of Systematic Error (Kocot et al., 2017, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syw079)
+
 ### 2016
 「*Intoshia linei*のゲノムにより、直泳動物が高度に単純化した螺旋動物であることがはっきりと確認される」（オープンアクセス）  
 The Genome of *Intoshia linei* Affirms Orthonectids as Highly Simplified Spiralians (Mikhailov et al., 2016, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2016.05.007)
+
+「ミトゲノム系統解析により、毛顎動物と前口動物の姉妹群関係が支持される」  
+Phylomitogenomic analyses strongly support the sister relationship of the Chaetognatha and Protostomia (Shen et al., 2016, *Zoologica Scripta*)  
+[DOI](https://doi.org/10.1111/zsc.12140)
 
 ### 2015
 「螺旋動物の系統により微視的な系統の進化が解明される」（オープンアクセス）  

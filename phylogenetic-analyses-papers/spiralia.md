@@ -97,7 +97,7 @@ Phylogenomics of Lophotrochozoa with Consideration of Systematic Error (Kocot et
 The Genome of *Intoshia linei* Affirms Orthonectids as Highly Simplified Spiralians (Mikhailov et al., 2016, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2016.05.007)
 
-「ミトゲノム系統解析により、毛顎動物と前口動物の姉妹群関係が支持される」  
+「ミトゲノム系統解析により、毛顎動物と前口動物の姉妹群関係が強く支持される」  
 Phylomitogenomic analyses strongly support the sister relationship of the Chaetognatha and Protostomia (Shen et al., 2016, *Zoologica Scripta*)  
 [DOI](https://doi.org/10.1111/zsc.12140)
 

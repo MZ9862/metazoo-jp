@@ -21,7 +21,7 @@
     - ParaHoxozoa
       - 平板動物Placozoa
       - 刺胞動物Cnidaria
-      - 左右相称動物Bilateria
+      - [左右相称動物Bilateria（一部準備中）](phylogenetic-analyses-papers/bilateria.md)
         - 珍無腸形動物Xenacoelomorpha
         - 歩帯動物Ambulacraria
         - 脊索動物Chordata

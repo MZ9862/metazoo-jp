@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年4月21日</div>
-<div style="text-align: right;">最終確認：2025年4月21日</div><br>
+<div style="text-align: right;">最終更新：2025年4月23日</div>
+<div style="text-align: right;">最終確認：2025年4月23日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍が入る場合もあり）をなるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -24,6 +24,20 @@ Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, in press, Elsevier
 [DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)
 
 <h2 id="2025">2025</h2>
+
+「化石から系統へ：ベイズ系統推定への古生物学的データの統合を探る」（オープンアクセス）  
+From fossils to phylogenies: exploring the integration of paleontological data into Bayesian phylogenetic inference (Mulvey et al., 2025, *Paleobiology*)  
+[DOI](https://doi.org/10.1017/pab.2024.47)
+
+「エストニアのカンブリア系最上部からの凝集した蠕虫の管の最初の記録」（オープンアクセス）  
+First record of agglutinated worm tubes from the uppermost Cambrian of Estonia (Vinn et al., 2025, *Acta Geologica Polonica*)  
+[DOI](https://doi.org/10.24425/agp.2024.152663)
+
+「地球におけるカンブリア紀の後生動物の爆発的放散についての組織のレゴブロック仮説」（オープンアクセス・中国語）  
+寒武纪大爆发组织拼图假说与地球后生动物门类起源  
+Lego Blocks of Tissues Hypothesis on the explosive radiation of Cambrian metazoans on the Earth (Zhang et al., 2025, *Chinese Journal of Nature*)  
+[URL](https://www.jas.shu.edu.cn/CN/abstract/abstract21212.shtml)  
+[DOI（2025年4月23日現在無効）](https://doi.org/10.3969/j.issn.0253-9608.2025.02.003)
 
 「形態的に保存的な多板類において、大規模なゲノム再編成という大きな変化が潜んでいる」（オープンアクセス）  
 Still waters run deep in large-scale genome rearrangements of morphologically conservative Polyplacophora (Sigwart et al., 2025, *eLife*)  

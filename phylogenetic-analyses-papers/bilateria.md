@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（左右相称動物Bilateria）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年4月23日</div>
-<div style="text-align: right;">最終確認：2025年4月23日</div><br>
+<div style="text-align: right;">最終更新：2025年4月24日</div>
+<div style="text-align: right;">最終確認：2025年4月24日</div><br>
 
 左右相称動物Bilateriaは3つの肺葉（内肺葉、中胚葉、外肺葉）を持つことと、前後方向の体軸を持つことなどで特徴付けられる後生動物の主要クレードの一つです。左右相称動物の内部では以下の4系統がほぼ確実に単系統であると認められていますが、相互的な系統関係は十分に明らかになっていません（下の論文を参照のこと）。
 

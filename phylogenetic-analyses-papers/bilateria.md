@@ -45,7 +45,7 @@ A taxon-rich and genome-scale phylogeny of Opisthokonta (Liu et al., 2024, *PLOS
 [DOI](https://doi.org/10.1371/journal.pbio.3002794)
 
 「無腸動物の単系統性は、無腸類と珍渦虫類から構成されるクレードを覆い隠す、長枝誘引によるアーティファクトである」（オープンアクセス）  
-Acoelomorph flatworm monophyly is a long-branch attraction artefact obscuring a clade of Acoela and Xenoturbellida (Redmond, 2025, **Proceedings of the Royal Society B: Biological Sciences*)  
+Acoelomorph flatworm monophyly is a long-branch attraction artefact obscuring a clade of Acoela and Xenoturbellida (Redmond, 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
 [DOI](https://doi.org/10.1098/rspb.2024.0329)
 
 ### 2022

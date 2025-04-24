@@ -13,17 +13,23 @@ lang: ja_JP
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍が入る場合もあり）をなるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
-<h2 id="in_press">In press</h2>
+<h2 id="2025">In press・2025</h2>
 
 「中国北部からの新たなミャオリンギアンの管棲の化石およびエディアカラン紀の『蠕虫世界』の存続」  
-New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., in press, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
+New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
 「冠輪動物の進化と系統」（未出版のonline Reference Collectionのチャプター）  
-Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, in press, Elsevier)  
+Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, Elsevier)  
 [DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)
 
-<h2 id="2025">2025</h2>
+「形質の依存性とimplied weightingの適用を比較した軟甲類の新たな形態系統」（オープンアクセス）  
+A new morphological phylogeny of Malacostraca comparing the application of character dependencies and implied weighting (Grams et al., 2025, *Cladistics*)  
+[DOI](https://doi.org/10.1111/cla.12611)
+
+「形態データ、ゲノム系統学、そして反抗的なノード」  
+Morphological data, phylogenomics and recalcitrant nodes (DeSalle & Tessler, 2025, *Cladistics*)  
+[DOI](https://doi.org/10.1111/cla.12615)
 
 「化石から系統へ：ベイズ系統推定への古生物学的データの統合を探る」（オープンアクセス）  
 From fossils to phylogenies: exploring the integration of paleontological data into Bayesian phylogenetic inference (Mulvey et al., 2025, *Paleobiology*)  
@@ -58,10 +64,6 @@ A Jurassic acanthocephalan illuminates the origin of thorny-headed worms (Luo et
 「*Fractofusus andersoni*の形態形成および初期の動物の発生の性質」（オープンアクセス）  
 Morphogenesis of *Fractofusus andersoni* and the nature of early animal development (Dunn et al., 2025, *Nature Communications*)  
 [DOI](https://doi.org/10.1038/s41467-025-58605-9)
-
-「形質の依存性とimplied weightingの適用を比較した軟甲類の新たな形態系統」（オープンアクセス）  
-A new morphological phylogeny of Malacostraca comparing the application of character dependencies and implied weighting (Grams et al., 2025, *Cladistics*)  
-[DOI](https://doi.org/10.1111/cla.12611)
 
 「カンブリア紀初期のArtiopoda類*Acanthomeridion serratum*の再評価により、durophagyに特化した頭部付属肢が明らかになる」  
 A reappraisal of the early Cambrian artiopod *Acanthomeridion serratum* reveals cephalic appendages specialized for durophagy (Wu et al., 2025, *Journal of the Geological Society*)  

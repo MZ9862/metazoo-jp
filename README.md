@@ -7,7 +7,7 @@
 何か誤りや問題、ご意見などがありましたら、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にてご報告をいただければ幸いです。
 
 <h2 id="phyevo_papers">系統・進化論文紹介</h2>
-<h3 id="phyevo_papers_in_press_2025">In press・2025</h3>
+<h3 id="phyevo_papers_2025">In press・2025</h3>
 
 [後生動物Metazoa](papers/2025-metazoa.md)
 
@@ -16,15 +16,13 @@
 定量的な系統解析により後生動物の系統を調べた論文をクレードごとにリストアップしています。
 - 後生動物Metazoa
   - 有櫛動物Ctenophora
-  - Myriazoa
-    - 海綿動物Porifera
-    - ParaHoxozoa
-      - 平板動物Placozoa
-      - 刺胞動物Cnidaria
-      - [左右相称動物Bilateria（一部準備中）](phylogenetic-analyses-papers/bilateria.md)
-        - 珍無腸形動物Xenacoelomorpha
-        - 歩帯動物Ambulacraria
-        - 脊索動物Chordata
-        - 前口動物Protostomia
-          - [螺旋動物Spiralia（一部準備中）](phylogenetic-analyses-papers/spiralia.md)  
-          - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
+  - 海綿動物Porifera
+  - 平板動物Placozoa
+  - 刺胞動物Cnidaria
+  - [左右相称動物Bilateria（一部準備中）](phylogenetic-analyses-papers/bilateria.md)
+    - 珍無腸形動物Xenacoelomorpha
+    - 歩帯動物Ambulacraria
+    - 脊索動物Chordata
+    - 前口動物Protostomia
+      - [螺旋動物Spiralia（一部準備中）](phylogenetic-analyses-papers/spiralia.md)  
+      - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)

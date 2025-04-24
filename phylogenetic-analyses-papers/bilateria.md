@@ -38,7 +38,7 @@ Support for the deuterostome clade comes from systematic errors (Silva et al., 2
 「新たなゲノムアプローチにより、珍無腸形動物が全ての左右相称動物の姉妹群として支持される」（プレプリント・閲覧可能）  
 Novel genomic approaches support Xenacoelomorpha as sister to all Bilateria (Álvarez-Presas et al., 2025, *Research Square*)  
 [DOI](https://doi.org/10.21203/rs.3.rs-5529390/v1)  
-補足：プレプリントのコメントで指摘されていますが、タイトルが少し変です。珍無腸動物はれっきとした左右相称動物（Bilateria）であり、タイトルの「sister to all Bilateria」は「sister to all other Bilateria」、「sister to other Bilateria」、「sister to remaining Bilateria」などに修正されるべきです。
+補足：プレプリントのコメントで指摘されていますが、タイトルが少し変です。珍無腸形動物はれっきとした左右相称動物（Bilateria）であり、タイトルの「sister to all Bilateria」は「sister to all other Bilateria」、「sister to other Bilateria」、「sister to remaining Bilateria」などに修正されるべきです。
 
 「分類群豊富でゲノム規模のオピストコンタの系統」（オープンアクセス）  
 A taxon-rich and genome-scale phylogeny of Opisthokonta (Liu et al., 2024, *PLOS Biology*)  

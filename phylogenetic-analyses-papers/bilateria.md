@@ -16,7 +16,7 @@ lang: ja_JP
 - 珍無腸形（珍無腸）動物門Xenacoelomorpha
 - 歩帯動物Ambulacraria（棘皮動物門＋半索動物門）
 - 脊索動物Chordata（頭索動物門＋尾索動物門＋脊椎動物門）
-- 旧口動物Protostomia
+- 前口動物Protostomia
   - [螺旋動物Spiralia](spiralia.md)
   - [脱皮動物Ecdysozoa](ecdysozoa.md)
 

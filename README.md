@@ -26,3 +26,6 @@
     - 前口動物Protostomia
       - [螺旋動物Spiralia（一部準備中）](phylogenetic-analyses-papers/spiralia.md)  
       - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
+
+## お知らせ（2025/5/4～）
+2025/5/4：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文を追加しました

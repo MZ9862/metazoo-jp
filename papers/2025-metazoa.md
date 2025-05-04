@@ -15,6 +15,10 @@ lang: ja_JP
 
 <h2 id="2025">In press・2025</h2>
 
+「海洋の酸化還元変化と関連した古生代初期の三葉虫類の断続的な体サイズの変動」（オープンアクセス）  
+Episodic body size variations of early Paleozoic trilobites associated with marine redox changes (Sun et al., 2025, *Science Advances*)  
+[DOI](https://doi.org/10.1126/sciadv.adt7572)
+
 「鋏角類における脚節の進化と相同性：1世紀に渡る課題に対する進化発生生物学的解決策」  
 Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to century-old challenges (Klementz et al., 2025, *Arthropod Structure & Development*)  
 [DOI](https://doi.org/10.1016/j.asd.2025.101446)

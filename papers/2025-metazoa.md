@@ -15,6 +15,18 @@ lang: ja_JP
 
 <h2 id="2025">In press・2025</h2>
 
+「鋏角類における脚節の進化と相同性：1世紀に渡る課題に対する進化発生生物学的解決策」  
+Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to century-old challenges (Klementz et al., 2025, *Arthropod Structure & Development*)  
+[DOI](https://doi.org/10.1016/j.asd.2025.101446)
+
+「完全かつ動的な鳥類の系統樹」（オープンアクセス）  
+A complete and dynamic tree of birds (McTavish et al., 2025, *Proceedings of the National Academy of Sciences*)  
+[DOI](https://doi.org/10.1073/pnas.2409658122)
+
+「顎体部はダニ類の単系統性の証拠ではなく悪い形質である」（オープンアクセス）  
+The gnathosoma is a bad character rather than evidence for mite monophyly (Bolton, 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
+[DOI](https://doi.org/10.1098/rspb.2025.0368)
+
 「カンブリア紀中期の棘皮動物における共生関係により、後口動物上での最古の寄生関係が明らかになる」（オープンアクセス）  
 Symbiotic interactions on middle Cambrian echinoderms reveal the oldest parasitism on deuterostomes (Goñi et al., 2025, *Scientific Reports*)  
 [DOI](https://doi.org/10.1038/s41598-025-97932-1)

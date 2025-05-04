@@ -8,14 +8,14 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年4月25日</div>
+<div style="text-align: right;">最終更新：2025年5月4日</div>
 <div style="text-align: right;">最終確認：2025年4月25日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍が入る場合もあり）をなるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 <h2 id="2025">In press・2025</h2>
 
-「カンブリア紀中期の棘皮動物における共生関係により、後口動物上での最古の寄生関係が明らかになる」  
+「カンブリア紀中期の棘皮動物における共生関係により、後口動物上での最古の寄生関係が明らかになる」（オープンアクセス）  
 Symbiotic interactions on middle Cambrian echinoderms reveal the oldest parasitism on deuterostomes (Goñi et al., 2025, *Scientific Reports*)  
 [DOI](https://doi.org/10.1038/s41598-025-97932-1)
 

@@ -13,7 +13,7 @@ lang: ja_JP
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
-## In press
+## 未出版
 「鋏角類における脚節の進化と相同性：1世紀に渡る課題に対する進化発生生物学的解決策」  
 Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to century-old challenges (Klementz et al., 2025, *Arthropod Structure & Development*)  
 [DOI](https://doi.org/10.1016/j.asd.2025.101446)

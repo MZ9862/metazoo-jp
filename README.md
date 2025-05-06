@@ -7,7 +7,7 @@
 何か誤りや問題、ご意見などがありましたら、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にてご報告をいただければ幸いです。
 
 <h2 id="phyevo_papers">系統・進化論文紹介</h2>
-<h3 id="phyevo_papers_2025">In press・2025</h3>
+<h3 id="phyevo_papers_2025">2025</h3>
 
 [後生動物Metazoa](papers/2025-metazoa.md)
 

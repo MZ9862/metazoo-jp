@@ -43,6 +43,10 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
+「*Shishania*はカンブリア紀の軟体動物ではなくchancelloriidである」  
+*Shishania* is a chancelloriid and not a Cambrian mollusk (Yang et al., 2025, *Science*)  
+[DOI](https://doi.org/10.1126/science.adv4635)
+
 「IQ2MC：混合モデルによりIQ-TREE 3とMCMCTreeを用いて年代付けされた系統樹を推定する新たな枠組み」（プレプリント・閲覧可能）  
 IQ2MC: A New Framework to Infer Phylogenetic Time Trees Using IQ-TREE 3 and MCMCTree with Mixture Models (Demotte et al., 2025 preprint, *EcoEvoRxiv*)  
 [DOI](https://doi.org/10.32942/X2CD2X)

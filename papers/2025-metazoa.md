@@ -43,7 +43,7 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
-「*Shishania*はカンブリア紀の軟体動物ではなくchancelloriidである」  
+「*Shishania*はchancelloriidであり、カンブリア紀の軟体動物ではない」  
 *Shishania* is a chancelloriid and not a Cambrian mollusk (Yang et al., 2025, *Science*)  
 [DOI](https://doi.org/10.1126/science.adv4635)
 

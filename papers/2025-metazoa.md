@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年5月9日</div>
-<div style="text-align: right;">最終確認：2025年5月9日</div><br>
+<div style="text-align: right;">最終更新：2025年5月11日</div>
+<div style="text-align: right;">最終確認：2025年5月11日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -43,6 +43,10 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
+「海綿動物、有櫛動物およびシンテニーの統計的有意性」（プレプリント・閲覧可能）  
+Sponges, ctenophores and the statistical significance of syntenies (Copley, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.05.07.652388)
+
 「*Shishania*はchancelloriidであり、カンブリア紀の軟体動物ではない」  
 *Shishania* is a chancelloriid and not a Cambrian mollusk (Yang et al., 2025, *Science*)  
 [DOI](https://doi.org/10.1126/science.adv4635)

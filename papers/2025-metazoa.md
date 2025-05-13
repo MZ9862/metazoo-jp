@@ -43,12 +43,12 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
-「『*Omnidens*の付属肢とラディオドンタ類の起源」へのコメント」  
+「『*Omnidens*の付属肢とラディオドンタ類の口器の起源」へのコメント」  
 Comment on: *Omnidens* appendages and the origin of radiodont mouthparts (McCall, 2025, *Papers in Palaeontology*)  
 [DOI](https://doi.org/10.1002/spp2.70015)
 
-「『*Omnidens*の付属肢とラディオドンタ類の起源」へのコメントに対する返信」  
-Reply to Comment on: Omnidens appendages and the origin of radiodont mouthparts (Li et al., 2025, *Papers in Palaeontology*)  
+「『*Omnidens*の付属肢とラディオドンタ類の口器の起源」へのコメントに対する返信」  
+Reply to Comment on: *Omnidens* appendages and the origin of radiodont mouthparts (Li et al., 2025, *Papers in Palaeontology*)  
 [DOI](https://doi.org/10.1002/spp2.70016)
 
 「最初期の軟体動物の系統：改善された地質年代学、改訂された相同性」（eLetter・閲覧可能）  

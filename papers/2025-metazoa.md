@@ -63,7 +63,7 @@ Reply to Comment on: *Omnidens* appendages and the origin of radiodont mouthpart
 Earliest mollusk phylogeny: Improved geochronology, revised homologies (Landing & Geyer, 2025, *Science*)  
 [DOI（下の方までスクロールすると見つかります）](https://www.science.org/doi/10.1126/science.ads0215)
 
-「海綿動物、有櫛動物およびシンテニーの統計的有意性」（プレプリント・閲覧可能）  
+「海綿動物、有櫛動物、およびシンテニーの統計的有意性」（プレプリント・閲覧可能）  
 Sponges, ctenophores and the statistical significance of syntenies (Copley, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.05.07.652388)
 

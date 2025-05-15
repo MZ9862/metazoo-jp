@@ -43,6 +43,14 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
+「バージェス頁岩からの新たなラディオドンタ類により例証される節足動物の合体節の初期の進化可能性」（オープンアクセス）  
+Early evolvability in arthropod tagmosis exemplified by a new radiodont from the Burgess Shale (Moysiuk & Caron, 2025, *Royal Society Open Science*)  
+[DOI](https://doi.org/10.1098/rsos.242122)
+
+「最初期の有羊膜類の足跡により四肢動物の進化の年表が再較正される」（オープンアクセス）  
+Earliest amniote tracks recalibrate the timeline of tetrapod evolution (Long et al., 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/s41586-025-08884-5)
+
 「『*Omnidens*の付属肢とラディオドンタ類の口器の起源」へのコメント」  
 Comment on: *Omnidens* appendages and the origin of radiodont mouthparts (McCall, 2025, *Papers in Palaeontology*)  
 [DOI](https://doi.org/10.1002/spp2.70015)
@@ -80,6 +88,10 @@ Copepod phylogenomics supports Canuelloida as a valid order separate from Harpac
 [DOI](https://doi.org/10.1016/j.ympev.2025.108311)
 
 ## 4月
+「軟体動物の殻、骨片、軟甲は進化的に深く保存されている」（オープンアクセス）  
+Molluscan Shells, Spicules, and Gladii Are Evolutionarily Deeply Conserved (Barrera Grijalba et al., 2025, *Journal of Experimental Zoology Part B: Molecular and Developmental Evolution*)  
+[DOI](https://doi.org/10.1002/jez.b.23294)
+
 「ヒオリテス類の生物学と解剖学における初期の個体発生および他の潜在的な軟体動物としての特徴」（オープンアクセス）  
 Early ontogeny and other possible molluscan traits in hyolith biology and anatomy (Dzik, 2025, *Lethaia*)  
 [DOI](https://doi.org/10.18261/let.58.2.2)

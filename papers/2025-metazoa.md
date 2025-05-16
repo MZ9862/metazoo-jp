@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 6月以降
+「雲南省東部における、エディアカラン紀－カンブリア紀の移行期からの後生動物の穿孔行動の進化と革新」  
+Evolution and innovation of the metazoan burrowing behaviour from Ediacaran-Cambrian transition, eastern Yunnan (Li et al., 2025, *Precambrian Research*)  
+[DOI](https://doi.org/10.1016/j.precamres.2025.107796)
+
 「鋏角類における脚節の進化と相同性：1世紀に渡る課題に対する進化発生生物学的解決策」  
 Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to century-old challenges (Klementz et al., 2025, *Arthropod Structure & Development*)  
 [DOI](https://doi.org/10.1016/j.asd.2025.101446)
@@ -51,11 +55,11 @@ Early evolvability in arthropod tagmosis exemplified by a new radiodont from the
 Earliest amniote tracks recalibrate the timeline of tetrapod evolution (Long et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-08884-5)
 
-「『*Omnidens*の付属肢とラディオドンタ類の口器の起源」へのコメント」  
+「『*Omnidens*の付属肢とラディオドンタ類の口器の起源』へのコメント」  
 Comment on: *Omnidens* appendages and the origin of radiodont mouthparts (McCall, 2025, *Papers in Palaeontology*)  
 [DOI](https://doi.org/10.1002/spp2.70015)
 
-「『*Omnidens*の付属肢とラディオドンタ類の口器の起源」へのコメントに対する返信」  
+「『*Omnidens*の付属肢とラディオドンタ類の口器の起源』へのコメントに対する返信」  
 Reply to Comment on: *Omnidens* appendages and the origin of radiodont mouthparts (Li et al., 2025, *Papers in Palaeontology*)  
 [DOI](https://doi.org/10.1002/spp2.70016)
 

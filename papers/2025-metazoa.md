@@ -47,6 +47,10 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
+「地球最初の骨格のある動物を再構築する：*Corumbella*（エディアカラン紀、ブラジル）の元々の形態」（オープンアクセス）  
+Rebuilding Earth’s first skeletal animals: the original morphology of *Corumbella* (Ediacaran, Brazil) (Becker-Kerber et al., 2025, *Royal Society Open Science*)  
+[DOI](https://doi.org/10.1098/rsos.250206)
+
 「エディアカラン紀－カンブリア紀の後生動物における生殖の進化」（オープンアクセス）  
 The evolution of reproduction in Ediacaran–Cambrian metazoans (Wood & Droser, 2025, *Biological Reviews*)  
 [DOI](https://doi.org/10.1111/brv.70036)

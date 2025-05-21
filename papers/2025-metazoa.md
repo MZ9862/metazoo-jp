@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年5月19日</div>
-<div style="text-align: right;">最終確認：2025年5月19日</div><br>
+<div style="text-align: right;">最終更新：2025年5月22日</div>
+<div style="text-align: right;">最終確認：2025年5月22日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -187,6 +187,10 @@ StratoBayes: A Bayesian method for automated stratigraphic correlation and age m
 [DOI](https://doi.org/10.5194/egusphere-2025-1355)
 
 ## 3月
+「汚染された宿主データから集められたミクソゾア類寄生虫のゲノムにより、広範な遺伝子配列の保存と急速な配列進化が明らかになる」（オープンアクセス）  
+Myxozoan parasite genomes assembled from contaminated host data reveal extensive gene order conservation and rapid sequence evolution (Weber et al., 2025, *G3 Genes|Genomes|Genetics*)  
+[DOI](https://doi.org/10.1093/g3journal/jkaf061)
+
 「謎めいた甲殻類y幼生のゲノム系統学により、フジツボにおける寄生性の複数回の起源が明らかになる」（プレプリント・アカウント登録すれば閲覧可能）  
 Phylogenomics of Enigmatic Crustacean Y-Larvae Reveals Multiple Origins of Parasitism in Barnacles (Dreyer et al., 2025 preprint, *SSRN*)  
 [DOI](https://dx.doi.org/10.2139/ssrn.5191731)

@@ -47,6 +47,10 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
+「脊椎動物の歯の起源と感覚外骨格の進化」（オープンアクセス）  
+The origin of vertebrate teeth and evolution of sensory exoskeletons (Haridy et al., 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/s41586-025-08944-w)
+
 「地球最初の骨格のある動物を再構築する：*Corumbella*（エディアカラン紀、ブラジル）の元々の形態」（オープンアクセス）  
 Rebuilding Earth’s first skeletal animals: the original morphology of *Corumbella* (Ediacaran, Brazil) (Becker-Kerber et al., 2025, *Royal Society Open Science*)  
 [DOI](https://doi.org/10.1098/rsos.250206)

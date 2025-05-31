@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年5月22日</div>
-<div style="text-align: right;">最終確認：2025年5月22日</div><br>
+<div style="text-align: right;">最終更新：2025年5月31日</div>
+<div style="text-align: right;">最終確認：2025年5月31日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 6月以降
+「Aguinaldo, et al. (1997) および進化発生生物学の誕生」  
+Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
+[DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
+
 「雲南省東部における、エディアカラン紀－カンブリア紀の移行期からの後生動物の穿孔行動の進化と革新」  
 Evolution and innovation of the metazoan burrowing behaviour from Ediacaran-Cambrian transition, eastern Yunnan (Li et al., 2025, *Precambrian Research*)  
 [DOI](https://doi.org/10.1016/j.precamres.2025.107796)
@@ -47,6 +51,14 @@ Appearance of SSFs in earliest Cambrian seas of South China linked to salinity c
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 ## 5月
+「ゲノミクスにより、祖先的な左右相称動物のオプシンレパートリーに新たな視点が提供され、珍無腸形動物における感桿型光シグナル伝達が示唆される」（オープンアクセス）  
+Genomics Sheds New Light on the Ancestral Bilaterian Opsin Repertoire and Suggests Rhabdomeric Phototransduction in Xenacoelomorpha (Abalde & Jondelius, 2025, *Genome Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/gbe/evaf078)
+
+「熱のタフォノミー実験により、澄江のyunnanozoansの微細構造の保存に疑問が投げかけられる」  
+Thermal taphonomy experiments challenge ultrastructural preservation in the Chengjiang yunnanozoans (He et al., 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
+[DOI](https://doi.org/10.1098/rspb.2025.0567)
+
 「脊椎動物の歯の起源と感覚外骨格の進化」（オープンアクセス）  
 The origin of vertebrate teeth and evolution of sensory exoskeletons (Haridy et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-08944-w)

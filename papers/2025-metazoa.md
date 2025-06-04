@@ -8,12 +8,20 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年5月31日</div>
-<div style="text-align: right;">最終確認：2025年5月31日</div><br>
+<div style="text-align: right;">最終更新：2025年6月5日</div>
+<div style="text-align: right;">最終確認：2025年6月5日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 6月以降
+「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
+Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), Academic Press)  
+[DOI](https://doi.org/10.1016/C2018-0-00366-7)
+
+「ロシアのウラル地方中部からのエディアカラン紀の体の柔らかい動物相の新発見」  
+A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
+[DOI](https://doi.org/10.1016/j.gr.2025.05.008)
+
 「Aguinaldo, et al. (1997) および進化発生生物学の誕生」  
 Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
@@ -30,27 +38,36 @@ Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to cen
 New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
-「冠輪動物の進化と系統」（未出版のonline Reference Collectionのチャプター）  
-Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, Elsevier)  
-[DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)
-
-ゆびでたどる進化のえほん（書籍・日本語）  
-（三上監修・著，2025，KADOKAWA）  
-[AmazonURL](https://www.amazon.co.jp/dp/4041157293)
-
-「total-evidenceの系統解析により、シャコ類（シャコ類）の進化の時間的尺度が解き明かされ、それらの分子的・形態的進化速度に関する洞察が得られる」（オープンアクセス）  
-Total-evidence phylogenetic analysis resolves the evolutionary timescale of mantis shrimps (Stomatopoda) and provides insights into their molecular and morphological evolutionary rates (Van Der Wal et al., 2025, *Molecular Phylogenetics and Evolution*)  
-[DOI](https://doi.org/10.1016/j.ympev.2025.108346)
+## 6月
+「中国南部の最初期のカンブリア紀の海における微小硬骨格化石群の出現は塩分条件と関連していた」  
+Appearance of SSFs in earliest Cambrian seas of South China linked to salinity conditions (Liu & Algeo, 2025, *Chemical Geology*)  
+[DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
 
 「アルメニアの上部デボン系からのtentaculitidsの化石化した軟組織：系統的類縁性の謎の解明に向けて」  
 Fossilized soft tissues in tentaculitids from the Upper Devonian of Armenia: Towards solving the mystery of their phylogenetic affinities (Vinn et al., 2025, *Palaeoworld*)  
 [DOI](https://doi.org/10.1016/j.palwor.2024.10.004)
 
-「中国南部の最初期のカンブリア紀の海における微小硬骨格化石群の出現は塩分条件と関連していた」  
-Appearance of SSFs in earliest Cambrian seas of South China linked to salinity conditions (Liu & Algeo, 2025, *Chemical Geology*)  
-[DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
+「total-evidenceの系統解析により、シャコ類（シャコ類）の進化の時間的尺度が解き明かされ、それらの分子的・形態的進化速度に関する洞察が得られる」（オープンアクセス）  
+Total-evidence phylogenetic analysis resolves the evolutionary timescale of mantis shrimps (Stomatopoda) and provides insights into their molecular and morphological evolutionary rates (Van Der Wal et al., 2025, *Molecular Phylogenetics and Evolution*)  
+[DOI](https://doi.org/10.1016/j.ympev.2025.108346)
+
+ゆびでたどる進化のえほん（書籍・日本語）  
+（三上監修・著，2025，KADOKAWA）  
+[Amazon URL](https://www.amazon.co.jp/dp/4041157293)
 
 ## 5月
+「完全なプランクトン性の生活環への独立した移行により、表層域におけるクラゲ類の全球的な分布が形作られた」  
+Independent transitions to fully planktonic life cycles shaped the global distribution of medusozoans in the epipelagic zone (Boosten et al., 2025, *Proceedings of the National Academy of Sciences*)  
+[DOI](https://doi.org/10.1073/pnas.2415979122)
+
+「古代のカブトガニ類における卵巣の例外的な保存」（オープンアクセス）  
+Exceptionally preserved ovaries in an ancient horseshoe crab (Lamsdell et al., 2025, *Geology*)  
+[DOI](https://doi.org/10.1130/G53317.1)
+
+「小さなカンブリア紀のステム大顎類により、初期の真節足動物における付属肢の節融合と特殊化の独立した進化が明らかになる」（オープンアクセス）  
+A tiny Cambrian stem-mandibulate reveals independent evolution of limb tagmatization and specialization in early euarthropods (Liu et al., 2025, *Scientific Reports*)  
+[DOI](https://doi.org/10.1038/s41598-025-03544-0)
+
 「ゲノミクスにより、祖先的な左右相称動物のオプシンレパートリーに新たな視点が提供され、珍無腸形動物における感桿型光シグナル伝達が示唆される」（オープンアクセス）  
 Genomics Sheds New Light on the Ancestral Bilaterian Opsin Repertoire and Suggests Rhabdomeric Phototransduction in Xenacoelomorpha (Abalde & Jondelius, 2025, *Genome Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/gbe/evaf078)
@@ -116,6 +133,10 @@ Copepod phylogenomics supports Canuelloida as a valid order separate from Harpac
 [DOI](https://doi.org/10.1016/j.ympev.2025.108311)
 
 ## 4月
+「冠輪動物の進化と系統」（未出版のonline Reference Collectionのチャプター）  
+Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, Elsevier)  
+[DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)
+
 「軟体動物の殻、骨片、軟甲は進化的に深く保存されている」（オープンアクセス）  
 Molluscan Shells, Spicules, and Gladii Are Evolutionarily Deeply Conserved (Barrera Grijalba et al., 2025, *Journal of Experimental Zoology Part B: Molecular and Developmental Evolution*)  
 [DOI](https://doi.org/10.1002/jez.b.23294)
@@ -199,8 +220,8 @@ Fortunian archaeocyath sponges acquired biomineralization in the beginning of th
 
 「生命の樹：科学最大の謎を解く」（書籍・Kindle版あり）  
 The Tree of Life: Solving Science's Greatest Puzzle (Telford, 2025, John Murray Publishers Ltd or W. W. Norton & Company)  
-[AmazonURL1](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1399806378)  
-[AmazonURL2](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1324065427)
+[Amazon URL 1](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1399806378)  
+[Amazon URL 2](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1324065427)
 
 「StratoBayes：層序対比と年代のモデル化の自動化のためのベイズ的手法」（プレプリント・閲覧可能）  
 StratoBayes: A Bayesian method for automated stratigraphic correlation and age modelling (Eichenseer et al., 2025 preprint, *EGUsphere*)  

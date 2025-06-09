@@ -13,7 +13,7 @@ lang: ja_JP
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
-## 6月以降
+## 7月以降
 「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
 Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), Academic Press)  
 [DOI](https://doi.org/10.1016/C2018-0-00366-7)
@@ -39,6 +39,10 @@ New Miaolingian tubicolous fossils from North China and the persistence of the E
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
 ## 6月
+「輻鰭類の系統を深く掘り下げる」  
+A deep dive into the coelacanth phylogeny (Ferrante & Cavin, 2025, *PLOS One*)  
+[DOI](https://doi.org/10.1371/journal.pone.0320214)
+
 「中国南部の最初期のカンブリア紀の海における微小硬骨格化石群の出現は塩分条件と関連していた」  
 Appearance of SSFs in earliest Cambrian seas of South China linked to salinity conditions (Liu & Algeo, 2025, *Chemical Geology*)  
 [DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)

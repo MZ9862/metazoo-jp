@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年6月10日</div>
-<div style="text-align: right;">最終確認：2025年6月10日</div><br>
+<div style="text-align: right;">最終更新：2025年6月13日</div>
+<div style="text-align: right;">最終確認：2025年6月13日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -39,6 +39,22 @@ New Miaolingian tubicolous fossils from North China and the persistence of the E
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
 ## 6月
+「Codexウミサソリ類：一致した最節約法およびベイズ法の系統解析に基づく改訂された分類体系」（オープンアクセス）  
+Codex Eurypterida: A Revised Taxonomy Based on Concordant Parsimony and Bayesian Phylogenetic Analyses (Lamsdell, 2025, *Bulletin of the American Museum of Natural History*)  
+[DOI](https://doi.org/10.1206/0003-0090.473.1.1)
+
+「初期の鋏角類（Offacolidae）における懸濁物食の仮説」（オープンアクセス）  
+A Hypothesis on Suspension Feeding in Early Chelicerates (Offacolidae) (Lustri et al., 2025, *Diversity*)  
+[DOI](https://doi.org/10.3390/d17060412)
+
+「新たな化石により、中生代における現生鳥類のより深い起源が暗示される」（オープンアクセス）  
+New Fossils Imply a Deeper Origin of Modern Birds in the Mesozoic (Wu et al., 2025, *National Science Review*)  
+[DOI](https://doi.org/10.1093/nsr/nwaf238)
+
+「群体制のフデイシ類（半索動物：翼鰓類）における単軸性および仮軸性の成長様式」（オープンアクセス）  
+Monopodial and Sympodial Growth Modes in the Colonial Graptolithina (Hemichordata, Pterobranchia) (Maletz & Lerosey-Aubril, 2025, *Evolution and Development*)  
+[DOI](https://doi.org/10.1111/ede.70010)
+
 「輻鰭類の系統を深く掘り下げる」  
 A deep dive into the coelacanth phylogeny (Ferrante & Cavin, 2025, *PLOS One*)  
 [DOI](https://doi.org/10.1371/journal.pone.0320214)

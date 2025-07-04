@@ -8,12 +8,12 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年6月13日</div>
-<div style="text-align: right;">最終確認：2025年6月13日</div><br>
+<div style="text-align: right;">最終更新：2025年7月5日</div>
+<div style="text-align: right;">最終確認：2025年7月5日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
-## 7月以降
+## 8月以降
 「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
 Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), Academic Press)  
 [DOI](https://doi.org/10.1016/C2018-0-00366-7)
@@ -26,6 +26,7 @@ A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kol
 Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
+## 7月
 「雲南省東部における、エディアカラン紀－カンブリア紀の移行期からの後生動物の穿孔行動の進化と革新」  
 Evolution and innovation of the metazoan burrowing behaviour from Ediacaran-Cambrian transition, eastern Yunnan (Li et al., 2025, *Precambrian Research*)  
 [DOI](https://doi.org/10.1016/j.precamres.2025.107796)
@@ -38,7 +39,28 @@ Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to cen
 New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
 [DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
+「グリーンランドのクマムシ類により、頭部の外部感覚器官の新たな形態学的特徴が明らかになる」（オープンアクセス）  
+Greenlandic water bears reveal a new morphological trait of external head sensory organs (Kihm et al., 2025, *Scientific Reports*)  
+[DOI](https://doi.org/10.1038/s41598-025-06766-4)
+
 ## 6月
+「デジタル化石発掘法によりイカ類の起源と放散が明らかになる」（ResearchGateから全文のPDFが入手可能）  
+Origin and radiation of squids revealed by digital fossil-mining (Ikegami et al., 2025, *Science*)  
+[DOI](https://doi.org/10.1126/science.adu6248)  
+[ResearchGate全文PDF](https://www.researchgate.net/publication/393063068_Origin_and_radiation_of_squids_revealed_by_digital_fossil-mining)
+
+「新たなカンブリア紀のステム棘皮動物により、前後軸の進化が明らかになる」（オープンアクセス）  
+A new Cambrian stem-group echinoderm reveals the evolution of the anteroposterior axis (Woodgate et al., 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.05.065)
+
+「鳥類の放散に関するゲノム系統学と比較ゲノム学的視点」  
+Phylogenomics and comparative genomic perspective on the avian radiation (Chen et al., 2024, *Nature Reviews Biodiversity*)  
+[DOI](https://doi.org/10.1038/s44358-025-00062-9)
+
+「シルル紀からの初めてのカブトガニ類により、カブトガニ類の基本構造の詳細が明らかになる」（オープンアクセス）  
+The first Silurian horseshoe crab reveals details of the xiphosuran ground plan (Lamsdell, 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
+[DOI](https://doi.org/10.1098/rspb.2025.0874)
+
 「Codexウミサソリ類：一致した最節約法およびベイズ法の系統解析に基づく改訂された分類体系」（オープンアクセス）  
 Codex Eurypterida: A Revised Taxonomy Based on Concordant Parsimony and Bayesian Phylogenetic Analyses (Lamsdell, 2025, *Bulletin of the American Museum of Natural History*)  
 [DOI](https://doi.org/10.1206/0003-0090.473.1.1)
@@ -248,6 +270,10 @@ StratoBayes: A Bayesian method for automated stratigraphic correlation and age m
 [DOI](https://doi.org/10.5194/egusphere-2025-1355)
 
 ## 3月
+「北グリーンランド（ローレンシア大陸）からのカンブリア紀中期（ウリューアン期）の微小硬骨格化石群」（オープンアクセス）  
+Middle Cambrian (Wuliuan Stage) Small Shelly Fossils from North Greenland (Laurentia) (Peel, 2025, *Bulletin of Geosciences*)  
+[DOI](https://doi.org/10.3140/bull.geosci.1912)
+
 「汚染された宿主データから集められたミクソゾア類寄生虫のゲノムにより、広範な遺伝子配列の保存と急速な配列進化が明らかになる」（オープンアクセス）  
 Myxozoan parasite genomes assembled from contaminated host data reveal extensive gene order conservation and rapid sequence evolution (Weber et al., 2025, *G3 Genes|Genomes|Genetics*)  
 [DOI](https://doi.org/10.1093/g3journal/jkaf061)

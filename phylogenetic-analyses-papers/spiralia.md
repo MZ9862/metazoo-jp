@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（螺旋動物Spiralia）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年4月21日</div>
-<div style="text-align: right;">最終確認：2025年4月21日</div><br>
+<div style="text-align: right;">最終更新：2025年7月5日</div>
+<div style="text-align: right;">最終確認：2025年7月5日</div><br>
 
 螺旋動物（螺旋卵割動物）Spiralia（しばしば冠輪動物Lophotrochozoaと同義とされるが、冠輪動物は元々は通常、螺旋動物より狭い範囲を示す；[Halanych et al., 1995](https://doi.org/10.1126/science.7886451)（[PDF](https://www.researchgate.net/publication/200557594_Evidence_from_18S_ribosomal_DNA_that_lophophorates_are_protostome_animals)）および [Bleidorn, 2019](https://doi.org/10.1007/s13127-019-00412-4)（[PDF](https://www.gfbs-home.de/fileadmin/user_upload/ode2mods/ode/ode19/ode19_0412/article.pdf)）を参照のこと）は、螺旋卵割を共有派生形質とする可能性がある（[Martín-Durán & Marlétaz, 2020](https://doi.org/10.1242/dev.181081)）左右相称動物の大きなクレードの一つです。以下の16動物門で構成されています。
 
@@ -63,7 +63,7 @@ Comparative analysis of the mitochondrial genomes of Orthonectida: insights into
 「螺旋動物の新しい系統により、謎めいたヤムシ類が担顎動物の中に位置付けられる」（オープンアクセス）  
 A New Spiralian Phylogeny Places the Enigmatic Arrow Worms among Gnathiferans (Marlétaz et al., 2019, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2018.11.042)  
-補足：この論文（Marlétaz et al., 2019）は毛顎動物門Chaetognathaを担顎動物Gnathifera（元々、顎口動物門、微顎動物門、輪形動物門を含んでいた）に含めることを提唱しましたが、現在は古生物学的・形態的データにより、毛顎動物門が（顎口動物門＋（微顎動物門＋輪形動物門））の姉妹群であることが広く認められており（[Bekkouche & Gąsiorowski, 2022](https://doi.org/10.1080/14772019.2022.2109217)（[PDF](https://hal.science/hal-03828531/)）；[Park et al., 2024](https://doi.org/10.1126/sciadv.adi6678)；[Luo et al., 2025](https://doi.org/10.1038/s41586-025-08830-5)）、[Bekkouche & Gąsiorowski (2022)](https://doi.org/10.1080/14772019.2022.2109217) が提唱した、（毛顎動物門＋（顎口動物門＋（微顎動物門＋輪形動物門）））をChaetognathiferaと呼び、（顎口動物門＋（微顎動物門＋輪形動物門））を担顎動物Gnathiferaと呼ぶ命名法が通常使われています（[Conway Morris et al., 2020](https://doi.org/10.1017/jpa.2020.4)（[PDF](https://www.researchgate.net/publication/337797542_A_possible_Cambrian_stem-group_gnathiferan-chaetognath_from_the_Weeks_Formation_Miaolingian_of_Utah)）；[Park et al., 2024](https://doi.org/10.1126/sciadv.adi6678)；[Luo et al., 2025](https://doi.org/10.1038/s41586-025-08830-5)；[Peel, 2025](https://doi.org/10.1080/03115518.2025.2455702)；[Slater, 2025](https://doi.org/10.1098/rspb.2024.2386)）。
+補足：この論文（Marlétaz et al., 2019）は毛顎動物門Chaetognathaを担顎動物Gnathifera（元々、顎口動物門、微顎動物門、輪形動物門を含んでいた）に含めることを提唱しましたが、現在はその後のゲノム系統学的（[Laumer et al., 2019](https://doi.org/10.1098/rspb.2019.0831), Fig. 2b）・古生物学的・形態学的研究（[Bekkouche & Gąsiorowski, 2022](https://doi.org/10.1080/14772019.2022.2109217)（[PDF](https://hal.science/hal-03828531/)）；[Park et al., 2024](https://doi.org/10.1126/sciadv.adi6678)；[Luo et al., 2025](https://doi.org/10.1038/s41586-025-08830-5)）により、毛顎動物門が（顎口動物門＋（微顎動物門＋輪形動物門））の姉妹群であることが広く認められており、[Bekkouche & Gąsiorowski (2022)](https://doi.org/10.1080/14772019.2022.2109217) が提唱した、（毛顎動物門＋（顎口動物門＋（微顎動物門＋輪形動物門）））をChaetognathiferaと呼び、（顎口動物門＋（微顎動物門＋輪形動物門））を担顎動物Gnathiferaと呼ぶ命名法が通常使われています（[Conway Morris et al., 2020](https://doi.org/10.1017/jpa.2020.4)（[PDF](https://www.researchgate.net/publication/337797542_A_possible_Cambrian_stem-group_gnathiferan-chaetognath_from_the_Weeks_Formation_Miaolingian_of_Utah)）；[Park et al., 2024](https://doi.org/10.1126/sciadv.adi6678)；[Luo et al., 2025](https://doi.org/10.1038/s41586-025-08830-5)；[Peel, 2025](https://doi.org/10.1080/03115518.2025.2455702)；[Slater, 2025](https://doi.org/10.1098/rspb.2024.2386)）。
 
 「全ての門のゲノムサンプリングによる後生動物の系統の再検討」（オープンアクセス）  
 Revisiting metazoan phylogeny with genomic sampling of all phyla (Laumer et al., 2019a, *Proceedings of the Royal Society B: Biological Sciences*)  

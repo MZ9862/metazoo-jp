@@ -44,7 +44,7 @@ Greenlandic water bears reveal a new morphological trait of external head sensor
 [DOI](https://doi.org/10.1038/s41598-025-06766-4)
 
 ## 6月
-「デジタル化石発掘法によりイカ類の起源と放散が明らかになる」（ResearchGateから全文のPDFが入手可能）  
+「デジタル化石発掘法により明らかになったイカ類の起源と放散」（ResearchGateから全文のPDFが入手可能）  
 Origin and radiation of squids revealed by digital fossil-mining (Ikegami et al., 2025, *Science*)  
 [DOI](https://doi.org/10.1126/science.adu6248)  
 [ResearchGate全文PDF](https://www.researchgate.net/publication/393063068_Origin_and_radiation_of_squids_revealed_by_digital_fossil-mining)

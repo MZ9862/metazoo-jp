@@ -27,6 +27,10 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 7月
+「古生代初期からの*Skolithos linearis*：鰓曳動物の巣穴？」  
+*Skolithos linearis* from the early Palaeozoic: The burrow of a priapulid? (Knaust, 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
+[DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
+
 「後口動物クレードはアーティファクトか？」（オープンアクセス）  
 Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)

@@ -31,7 +31,7 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)
 
-「Příbram–Jince盆地の下部Jince Formation（カンブリア紀，ミャオリンギアン）からの*Hallucigenia*様葉足動物の初記録」  
+「Příbram–Jince盆地の下部Jince Formation（カンブリア紀，ミャオリンギアン）からの*Hallucigenia*様葉足動物の初記録」（オープンアクセス）  
 The first record of *Hallucigenia*-like lobopodians from the lower Jince Formation (Cambrian, Miaolingian) of the Příbram–Jince Basin (Kovář & Fatka, 2025, *Swiss Journal of Palaeontology*)  
 [DOI](https://doi.org/10.1186/s13358-025-00381-6)
 

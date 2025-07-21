@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（螺旋動物Spiralia）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月5日</div>
-<div style="text-align: right;">最終確認：2025年7月5日</div><br>
+<div style="text-align: right;">最終更新：2025年7月21日</div>
+<div style="text-align: right;">最終確認：2025年7月21日</div><br>
 
 螺旋動物（螺旋卵割動物）Spiralia（しばしば冠輪動物Lophotrochozoaと同義とされるが、冠輪動物は元々は通常、螺旋動物より狭い範囲を示す；[Halanych et al., 1995](https://doi.org/10.1126/science.7886451)（[PDF](https://www.researchgate.net/publication/200557594_Evidence_from_18S_ribosomal_DNA_that_lophophorates_are_protostome_animals)）および [Bleidorn, 2019](https://doi.org/10.1007/s13127-019-00412-4)（[PDF](https://www.gfbs-home.de/fileadmin/user_upload/ode2mods/ode/ode19/ode19_0412/article.pdf)）を参照のこと）は、螺旋卵割を共有派生形質とする可能性がある（[Martín-Durán & Marlétaz, 2020](https://doi.org/10.1242/dev.181081)）左右相称動物の大きなクレードの一つです。以下の16動物門で構成されています。
 
@@ -33,8 +33,6 @@ lang: ja_JP
 本ページでは、螺旋動物の門レベル以上の系統関係（古生物も含む）について、定量的な系統解析によりアプローチした2014年以降の論文等を、分子データ、形態データ、その他のデータの3つに分けて可能な限り網羅的に紹介します。螺旋動物以外の分類群や螺旋動物内部の特定の分類群に焦点を当てていて、螺旋動物全体のタクソンサンプリングが少なくほとんど意味をなさないと考えられたものについては除外しました。
 
 もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。
-
-今後余裕があれば、各研究が支持しているクレードについて明記したり、一言コメントを添えたりするかもしれません。
 
 ## 分子データ
 ### 2024

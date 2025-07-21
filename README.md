@@ -5,7 +5,7 @@
 
 何か誤りや問題、ご意見、管理人へのご連絡などがありましたら、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)でissueを作成するか、メール（<mz9862.github@gmail.com>）をしていただければ幸いです。
 
-姉妹サイト、[phylozoarca](https://mz9862.github.io/phylozoarca/)では、最新の研究に基づく後生動物全体の系統の理解を日本語で発信することを目指しています。まだほとんど進捗がありませんが、こちらについてもよろしくお願いいたします。
+姉妹サイト、[phylozoarca](https://mz9862.github.io/phylozoarca/)では、最新の研究に基づく後生動物全体の系統を日本語で紹介することを目指しています。まだほとんど進捗がありませんが、こちらについても是非よろしくお願いいたします。
 
 ## 系統・進化論文紹介
 分類群ごと（現状は後生動物のみ）に、系統・進化に関する論文等を出版年・月ごとに紹介しています。
@@ -29,7 +29,9 @@
       - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
 
 ## お知らせ（2025/5/4～）
-2025/7/20：姉妹サイト、[phylozoarca](https://mz9862.github.io/phylozoarca/)を開設しました。こちらでは、最新の研究から推定される後生動物の系統をまとめています。  
+2025/7/21：[左右相称動物の系統解析の論文リスト](phylogenetic-analyses-papers/bilateria.md)に [Serra Silva et al. (2025)](https://doi.org/10.1016/j.cub.2025.06.045) を追加しました  
+2025/7/21：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文・プレプリントを追加しました  
+2025/7/20：姉妹サイト、[Phylozoarca](https://mz9862.github.io/phylozoarca/)を開設しました。こちらでは、最新の研究から推察される後生動物の系統をまとめています。  
 2025/7/5：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文を追加しました  
 2025/6/13：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文を追加しました  
 2025/6/10：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文を追加しました  

@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月5日</div>
-<div style="text-align: right;">最終確認：2025年7月5日</div><br>
+<div style="text-align: right;">最終更新：2025年7月21日</div>
+<div style="text-align: right;">最終確認：2025年7月21日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -27,6 +27,14 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 7月
+「後口動物クレードはアーティファクトか？」（オープンアクセス）  
+Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.06.045)
+
+「Příbram–Jince盆地の下部Jince Formation（カンブリア紀，ミャオリンギアン）からの*Hallucigenia*様葉足動物の初記録」  
+The first record of *Hallucigenia*-like lobopodians from the lower Jince Formation (Cambrian, Miaolingian) of the Příbram–Jince Basin (Kovář & Fatka, 2025, *Swiss Journal of Palaeontology*)  
+[DOI](https://doi.org/10.1186/s13358-025-00381-6)
+
 「雲南省東部における、エディアカラン紀－カンブリア紀の移行期からの後生動物の穿孔行動の進化と革新」  
 Evolution and innovation of the metazoan burrowing behaviour from Ediacaran-Cambrian transition, eastern Yunnan (Li et al., 2025, *Precambrian Research*)  
 [DOI](https://doi.org/10.1016/j.precamres.2025.107796)
@@ -43,7 +51,23 @@ New Miaolingian tubicolous fossils from North China and the persistence of the E
 Greenlandic water bears reveal a new morphological trait of external head sensory organs (Kihm et al., 2025, *Scientific Reports*)  
 [DOI](https://doi.org/10.1038/s41598-025-06766-4)
 
+「中国南部、三峡地域のカンブリア系下部Yanjiahe Formationから得られた最初期の海綿動物の骨片の房」  
+The earliest sponge spicule tufts from the Cambrian Lower Yanjiahe Formation, Three Gorges area, South China (Zhang et al., 2025, *Palaeoworld*)  
+[DOI](https://doi.org/10.1016/j.palwor.2025.200995)
+
+「ディノキドン類の系統のjoint estimationに連続的形質を組み込む」（プレプリント・閲覧可能）  
+Incorporating continuous characters in joint estimation of dicynodont phylogeny (Wynd et al., 2025, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.03.03.641281)
+
+「深海を生き残る：硫化水槽環境における後生動物の回復力」（オープンアクセス）  
+Surviving the depths: metazoan resilience in sulphidic aquaria environments (Rozanitis et al., 2025, *Lethaia*)  
+[DOI](https://doi.org/10.18261/let.58.2.5)
+
 ## 6月
+「離散的形態データセットを用いた系統推定のためのcovarionモデル」（プレプリント・閲覧可能）
+A covarion model for phylogenetic estimation using discrete morphological datasets (Khakurel & Höhna, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.06.20.660793)
+
 「デジタル化石発掘法により明らかになったイカ類の起源と放散」（ResearchGateから全文のPDFが入手可能）  
 Origin and radiation of squids revealed by digital fossil-mining (Ikegami et al., 2025, *Science*)  
 [DOI](https://doi.org/10.1126/science.adu6248)  
@@ -174,6 +198,15 @@ Episodic body size variations of early Paleozoic trilobites associated with mari
 Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida (Bernot et al., 2025, *Molecular Phylogenetics and Evolution*)  
 [DOI](https://doi.org/10.1016/j.ympev.2025.108311)
 
+「形質間の速度変動を考慮したMkvモデルについて」
+On the Mkv Model with Among-Character Rate Variation (Capobianco & Höhna, 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf038)
+
+「guoyi.run：最節約法の系統解析のためのワンステップなTNTスクリプト」（ResearchGateから全文のPDFが入手可能）  
+guoyi.run: One-step TNT script for maximum parsimony phylogenetic analysis (Zhang, 2025, *Zootaxa*)  
+[DOI](https://doi.org/10.11646/zootaxa.5642.1.10)  
+[ResearchGate全文PDF](https://www.researchgate.net/publication/392103254_guoyirun_One-step_TNT_script_for_maximum_parsimony_phylogenetic_analysis)
+
 ## 4月
 「冠輪動物の進化と系統」（未出版のonline Reference Collectionのチャプター）  
 Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, Elsevier)  
@@ -268,6 +301,18 @@ The Tree of Life: Solving Science's Greatest Puzzle (Telford, 2025, John Murray 
 「StratoBayes：層序対比と年代のモデル化の自動化のためのベイズ的手法」（プレプリント・閲覧可能）  
 StratoBayes: A Bayesian method for automated stratigraphic correlation and age modelling (Eichenseer et al., 2025 preprint, *EGUsphere*)  
 [DOI](https://doi.org/10.5194/egusphere-2025-1355)
+
+「堅牢な系統学」（プレプリント・閲覧可能）  
+Robust Phylogenetics (Liu et al., 2025, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.04.01.646540)
+
+「IQ-TREE 3：複雑な進化モデルを用いたゲノム系統推論ソフトウェア」（プレプリント・閲覧可能）
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models (Wong et al., 2025, *EcoEvoRxiv*)  
+[DOI](https://doi.org/10.32942/X2P62N)
+
+「形態系統学における状態空間の誤特定：モデルにも節約法にも潜む落とし穴」（プレプリント・閲覧可能）  
+State Space Misspecification in Morphological Phylogenetics: A Pitfall for Models and Parsimony Alike (Huang, 2025, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.04.22.650124)
 
 ## 3月
 「北グリーンランド（ローレンシア大陸）からのカンブリア紀中期（ウリューアン期）の微小硬骨格化石群」（オープンアクセス）  
@@ -410,10 +455,6 @@ New Silurian aculiferan fossils reveal complex early history of Mollusca (Sutton
 Preservation and early evolution of scalidophoran ventral nerve cord (Wang et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adr0896)
 
-「後口動物クレードに対する支持は系統誤差に由来する」（プレプリント・閲覧可能）  
-Support for the deuterostome clade comes from systematic errors (Silva et al., 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.01.13.632777)
-
 「ウミグモ類（節足動物：ウミグモ類）の進化史の時間的尺度」（オープンアクセス）  
 A timescale for the evolutionary history of sea spiders (Arthropoda: Pycnogonida) (Nava et al., 2025, *Evolutionary Journal of the Linnean Society*)  
 [DOI](https://doi.org/10.1093/evolinnean/kzaf001)
@@ -441,6 +482,18 @@ Ediacaran-type non-mineralized tube-dwelling organisms persisted into the early 
 「中国の下部カンブリア系からの深い海域に生息した古虫動物」（オープンアクセス）  
 Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *PeerJ*)  
 [DOI](https://doi.org/10.7717/peerj.18864)
+
+「MixtureFinder：系統解析のためのDNA混合モデルを推定する」（オープンアクセス）  
+MixtureFinder: Estimating DNA Mixture Models for Phylogenetic Analyses (Ren et al., 2025, *Molecular Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/molbev/msae264)
+
+「posterior predictive simulationを用いて形態モデルの適切性を評価する」（オープンアクセス）  
+Assessing the Adequacy of Morphological Models Using Posterior Predictive Simulations (Mulvey et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syae055)
+
+「アリ類の包括的な系統において、UCEデータの適切性を評価し、不確実性を統合する」（オープンアクセス）  
+Evaluating UCE Data Adequacy and Integrating Uncertainty in a Comprehensive Phylogeny of Ants (Borowiec et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf001)
 
 ## 不明
 「エストニアのカンブリア系最上部からの凝集した蠕虫の管の最初の記録」（オープンアクセス）  

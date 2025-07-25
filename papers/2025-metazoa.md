@@ -135,7 +135,7 @@ Ichthyofaunal Transition from the Cambrian to Recent
 （中坊，2025，地学雑誌）  
 [DOI](https://doi.org/10.5026/jgeography.134.239)
 
-「離散的形態データセットを用いた系統推定のためのcovarionモデル」（プレプリント・閲覧可能）
+「離散的形態データセットを用いた系統推定のためのcovarionモデル」（プレプリント・閲覧可能）  
 A covarion model for phylogenetic estimation using discrete morphological datasets (Khakurel & Höhna, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.06.20.660793)
 

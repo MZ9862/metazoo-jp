@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月21日</div>
-<div style="text-align: right;">最終確認：2025年7月21日</div><br>
+<div style="text-align: right;">最終更新：2025年7月25日</div>
+<div style="text-align: right;">最終確認：2025年7月25日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -67,7 +67,58 @@ Incorporating continuous characters in joint estimation of dicynodont phylogeny 
 Surviving the depths: metazoan resilience in sulphidic aquaria environments (Rozanitis et al., 2025, *Lethaia*)  
 [DOI](https://doi.org/10.18261/let.58.2.5)
 
+「生痕化石の滑らかさの分析：エディアカラン紀からカンブリア紀への移行期における左右相称動物の移動生態を解明するための定量的ツールキットの拡張」（ResearchGateから全文のWordファイルが入手可能）  
+Smoothness analyses of trace fossils: expanding quantitative toolkits to unravel bilaterian movement ecology during the Ediacaran–Cambrian transition (Wang et al., 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
+[DOI](https://doi.org/10.1098/rspb.2025.0889)  
+[ResearchGate全文Word](https://www.researchgate.net/publication/393515702_Smoothness_analyses_of_trace_fossils_expanding_quantitative_toolkits_to_unravel_bilaterian_movement_ecology_during_the_Ediacaran-Cambrian_transition)
+
+「エディアカラン紀の謎：先カンブリア時代の古生物学における不確実性と決定不全」  
+Ediacaran enigma: uncertainty and underdetermination in precambrian paleontology (Dresow, 2025, *History and Philosophy of the Life Sciences*)  
+[DOI](https://doi.org/10.1007/s40656-025-00680-8)
+
+「ベイズ系統学的、系統地理学的、phylodynamic的推論のためのBEAST X」（オープンアクセス）  
+BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference (Baele et al., 2025, *Nature Methods*)  
+[DOI](https://doi.org/10.1038/s41592-025-02751-x)
+
+「グランドキャニオン（アメリカ合衆国、アリゾナ州）からの例外的に保存されたカンブリア紀の生物群における進化的拡大」（オープンアクセス）  
+Evolutionary escalation in an exceptionally preserved Cambrian biota from the Grand Canyon (Arizona, USA) (Mussini et al., 2025, *Science Advances*)  
+[DOI](https://doi.org/10.1126/sciadv.adv6383)
+
+「謎めいた甲殻類y幼生のゲノム系統学により、フジツボにおける寄生性の複数回の起源が明らかになる」  
+Phylogenomics of Enigmatic Crustacean Y-Larvae Reveals Multiple Origins of Parasitism in Barnacles (Dreyer et al., 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.06.007)
+
+「WitChi：経験的カイ二乗検定を用いた、ゲノム系統学的アライメントにおける組成的バイアスの効率的な検出と除去」（プレプリント・閲覧可能）  
+WitChi: Efficient Detection and Pruning of Compositional Bias in Phylogenomic Alignments Using Empirical Chi-Squared Testing (Köstlbacher et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.14.663642)
+
+「クモガタ類の脳のカンブリア紀の起源」（オープンアクセス）  
+Cambrian origin of the arachnid brain (Stausfeld et al., 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.06.063)
+
+「後生動物 — 動物の形態と進化：動物の解剖および比較研究の実践的手引き」（書籍）  
+Metazoa – Morphology and Evolution of Animals: A Practical Guide to the Dissection and Comparative Study of Animals (Paululat & Purschke, 2025, Springer Berlin, Heidelberg)  
+[DOI](https://doi.org/10.1007/978-3-662-69904-1)  
+[Amazon](https://www.amazon.co.jp/Metazoa-Morphology-Evolution-Animals-Comparative/dp/3662699036)
+
+「化石化した腹部神経索により、カンブリア紀のnectocarididsの毛顎動物との類縁性が明らかになる」（オープンアクセス）  
+A fossilized ventral ganglion reveals a chaetognath affinity for Cambrian nectocaridids (Vinther et al., 2025, *Science Advances*)  
+[DOI](https://doi.org/10.1126/sciadv.adu6990)
+
+「*Palaeocampa anthrax*、石炭紀からの化学的防御を備えた、装甲を持つ淡水性の葉足動物」（オープンアクセス）  
+*Palaeocampa anthrax*, an armored freshwater lobopodian with chemical defenses from the Carboniferous (Knecht et al., 2025, *Communications Biology*)  
+[DOI](https://doi.org/10.1038/s42003-025-08483-0)
+
+「生命の樹全体にわたる分子と形態進化の速度を明らかにする」（プレプリント・閲覧可能）  
+Unveiling the tempo of molecular and morphological evolution across the Tree of Life (López-Estrada et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.20.665814)
+
 ## 6月
+カンブリア紀から現世までの魚類相の変遷（日本語・オープンアクセス）  
+Ichthyofaunal Transition from the Cambrian to Recent  
+（中坊，2025，地学雑誌）  
+[DOI](https://doi.org/10.5026/jgeography.134.239)
+
 「離散的形態データセットを用いた系統推定のためのcovarionモデル」（プレプリント・閲覧可能）
 A covarion model for phylogenetic estimation using discrete morphological datasets (Khakurel & Höhna, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.06.20.660793)
@@ -326,10 +377,6 @@ Middle Cambrian (Wuliuan Stage) Small Shelly Fossils from North Greenland (Laure
 「汚染された宿主データから集められたミクソゾア類寄生虫のゲノムにより、広範な遺伝子配列の保存と急速な配列進化が明らかになる」（オープンアクセス）  
 Myxozoan parasite genomes assembled from contaminated host data reveal extensive gene order conservation and rapid sequence evolution (Weber et al., 2025, *G3 Genes|Genomes|Genetics*)  
 [DOI](https://doi.org/10.1093/g3journal/jkaf061)
-
-「謎めいた甲殻類y幼生のゲノム系統学により、フジツボにおける寄生性の複数回の起源が明らかになる」（プレプリント・アカウント登録すれば閲覧可能）  
-Phylogenomics of Enigmatic Crustacean Y-Larvae Reveals Multiple Origins of Parasitism in Barnacles (Dreyer et al., 2025 preprint, *SSRN*)  
-[DOI](https://dx.doi.org/10.2139/ssrn.5191731)
 
 「脱皮動物は体節動物の子孫である」（オープンアクセス）  
 Ecdysozoa are descendants of Articulata (Shcherbakov, 2025, *Invertebrate Zoology*)  

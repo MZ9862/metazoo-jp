@@ -101,7 +101,7 @@ Metazoa – Morphology and Evolution of Animals: A Practical Guide to the Dissec
 [DOI](https://doi.org/10.1007/978-3-662-69904-1)  
 [Amazon](https://www.amazon.co.jp/Metazoa-Morphology-Evolution-Animals-Comparative/dp/3662699036)
 
-「化石化した腹部神経索により、カンブリア紀のnectocarididsの毛顎動物との類縁性が明らかになる」（オープンアクセス）  
+「化石化した腹部神経節により、カンブリア紀のnectocarididsの毛顎動物との類縁性が明らかになる」（オープンアクセス）  
 A fossilized ventral ganglion reveals a chaetognath affinity for Cambrian nectocaridids (Vinther et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adu6990)
 

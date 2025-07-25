@@ -113,6 +113,22 @@ A fossilized ventral ganglion reveals a chaetognath affinity for Cambrian nectoc
 Unveiling the tempo of molecular and morphological evolution across the Tree of Life (López-Estrada et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.20.665814)
 
+「組み換えを考慮したゲノム系統学」  
+Recombination-aware phylogenomics (Burbrink et al., 2025, *Trends in Ecology & Evolution*)  
+[DOI](https://doi.org/10.1016/j.tree.2025.06.011)
+
+「OrthoFinder：比較ゲノミクスのためのスケーラブルな系統的orthology推論」（プレプリント・閲覧可能）  
+OrthoFinder: scalable phylogenetic orthology inference for comparative genomics (Emms et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.15.664860)
+
+「骨片の独立起源により、海綿動物の進化史の古生物学的および分子的証拠が調和させられる」（プレプリント・閲覧可能）  
+Independent origins of spicules reconcile palaeontological and molecular evidence of sponge evolutionary history (Rossi et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2024.06.24.600355)
+
+「不均一な多様化速度を考慮したfossilized birth deathプロセスにより、Nimravidae（Carnivoraformes）における、多様化と肉食性への特殊化との関係が明らかになる」（プレプリント・閲覧可能）  
+The Fossilized Birth Death Process with heterogeneous diversification rates unravels the link between diversification and specialisation to a carnivorous diet in Nimravidae (Carnivoraformes) (Chabrol et al., 2025, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.15.664897)
+
 ## 6月
 カンブリア紀から現世までの魚類相の変遷（日本語・オープンアクセス）  
 Ichthyofaunal Transition from the Cambrian to Recent  
@@ -533,14 +549,6 @@ Ediacaran-type non-mineralized tube-dwelling organisms persisted into the early 
 「中国の下部カンブリア系からの深い海域に生息した古虫動物」（オープンアクセス）  
 Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *PeerJ*)  
 [DOI](https://doi.org/10.7717/peerj.18864)
-
-「MixtureFinder：系統解析のためのDNA混合モデルを推定する」（オープンアクセス）  
-MixtureFinder: Estimating DNA Mixture Models for Phylogenetic Analyses (Ren et al., 2025, *Molecular Biology and Evolution*)  
-[DOI](https://doi.org/10.1093/molbev/msae264)
-
-「posterior predictive simulationを用いて形態モデルの適切性を評価する」（オープンアクセス）  
-Assessing the Adequacy of Morphological Models Using Posterior Predictive Simulations (Mulvey et al., 2025, *Systematic Biology*)  
-[DOI](https://doi.org/10.1093/sysbio/syae055)
 
 「アリ類の包括的な系統において、UCEデータの適切性を評価し、不確実性を統合する」（オープンアクセス）  
 Evaluating UCE Data Adequacy and Integrating Uncertainty in a Comprehensive Phylogeny of Ants (Borowiec et al., 2025, *Systematic Biology*)  

@@ -381,7 +381,7 @@ StratoBayes: A Bayesian method for automated stratigraphic correlation and age m
 Robust Phylogenetics (Liu et al., 2025, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.04.01.646540)
 
-「IQ-TREE 3：複雑な進化モデルを用いたゲノム系統推論ソフトウェア」（プレプリント・閲覧可能）
+「IQ-TREE 3：複雑な進化モデルを用いたゲノム系統推論ソフトウェア」（プレプリント・閲覧可能）  
 IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models (Wong et al., 2025, *EcoEvoRxiv*)  
 [DOI](https://doi.org/10.32942/X2P62N)
 

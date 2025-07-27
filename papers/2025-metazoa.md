@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月26日</div>
-<div style="text-align: right;">最終確認：2025年7月26日</div><br>
+<div style="text-align: right;">最終更新：2025年7月28日</div>
+<div style="text-align: right;">最終確認：2025年7月28日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -27,6 +27,10 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 7月
+「複雑な混合モデルを用いた深い時間的スケールの進化の分子時計年代測定」（プレプリント・閲覧可能）  
+Molecular Clock Dating of Deep-Time Evolution Using Complex Mixture Models (Wang & Meade, 2025, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.17.665246)
+
 「ASTER：大規模なゲノム系統学的復元のためのパッケージ」（オープンアクセス）  
 ASTER: A Package for Large-scale Phylogenomic Reconstructions (Zhang et al., 2025, *Molecular Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/molbev/msaf172)
@@ -134,6 +138,10 @@ The Fossilized Birth Death Process with heterogeneous diversification rates unra
 [DOI](https://doi.org/10.1101/2025.07.15.664897)
 
 ## 6月
+「鰓脚類の多様化の時間樹的な解決策に向けて：化石年代の事前分布に対するジャックナイフ評価」  
+Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors (Rhigetti et al., 2025, *Palaeoentomology*)  
+[DOI](https://doi.org/10.11646/palaeoentomology.8.3.8)
+
 カンブリア紀から現世までの魚類相の変遷（日本語・オープンアクセス）  
 Ichthyofaunal Transition from the Cambrian to Recent  
 （中坊，2025，地学雑誌）  

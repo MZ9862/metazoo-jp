@@ -28,7 +28,7 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 
 ## 7月
 「複雑な混合モデルを用いた深い時間的スケールの進化の分子時計年代測定」（プレプリント・閲覧可能）  
-Molecular Clock Dating of Deep-Time Evolution Using Complex Mixture Models (Wang & Meade, 2025, *bioRxiv*)  
+Molecular Clock Dating of Deep-Time Evolution Using Complex Mixture Models (Wang & Meade, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.17.665246)
 
 「ASTER：大規模なゲノム系統学的復元のためのパッケージ」（オープンアクセス）  
@@ -138,7 +138,7 @@ The Fossilized Birth Death Process with heterogeneous diversification rates unra
 [DOI](https://doi.org/10.1101/2025.07.15.664897)
 
 ## 6月
-「鰓脚類の多様化の時間樹的な解決策に向けて：化石年代の事前分布に対するジャックナイフ評価」  
+「鰓脚類の多様化の時間樹的な解決策を目指して：化石年代の事前分布に対するジャックナイフ評価」  
 Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors (Rhigetti et al., 2025, *Palaeoentomology*)  
 [DOI](https://doi.org/10.11646/palaeoentomology.8.3.8)
 

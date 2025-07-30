@@ -289,7 +289,7 @@ Episodic body size variations of early Paleozoic trilobites associated with mari
 Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida (Bernot et al., 2025, *Molecular Phylogenetics and Evolution*)  
 [DOI](https://doi.org/10.1016/j.ympev.2025.108311)
 
-「形質間の速度変動を考慮したMkvモデルについて」
+「形質間の速度変動を考慮したMkvモデルについて」  
 On the Mkv Model with Among-Character Rate Variation (Capobianco & Höhna, 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf038)
 

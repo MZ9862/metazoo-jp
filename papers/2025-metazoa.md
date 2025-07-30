@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月28日</div>
-<div style="text-align: right;">最終確認：2025年7月28日</div><br>
+<div style="text-align: right;">最終更新：2025年7月30日</div>
+<div style="text-align: right;">最終確認：2025年7月30日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -27,6 +27,14 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 7月
+「依存性を持つ形質の最尤法における系統解析」  
+Phylogenetic Analysis of Characters with Dependencies under Maximum Likelihood (Goloboff, 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf051)
+
+「Adoudou生物群：モロッコ・西部アンティアトラス山脈からのエディアカラン紀－カンブリア紀の移行期への新たな窓」  
+The Adoudou Biota: A new window on the Ediacaran-Cambrian transition from the western Anti-Atlas, Morocco (Azizi et al., 2025, *Precambrian Research*)  
+[DOI](https://doi.org/10.1016/j.precamres.2025.107885)
+
 「複雑な混合モデルを用いた深い時間的スケールの進化の分子時計年代測定」（プレプリント・閲覧可能）  
 Molecular Clock Dating of Deep-Time Evolution Using Complex Mixture Models (Wang & Meade, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.17.665246)

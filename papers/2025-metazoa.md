@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年7月30日</div>
-<div style="text-align: right;">最終確認日：2025年7月30日</div><br>
+<div style="text-align: right;">最終追加日：2025年7月31日</div>
+<div style="text-align: right;">最終確認日：2025年7月31日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -27,6 +27,14 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 7月
+「ポルトガル・ペニシェの国際標準模式層断面及び地点（GSSP）におけるプリンスバキアン階 － 際立ってよく保存された蠕虫で満たされたセクション」（オープンアクセス）  
+The Pliensbachian at the Peniche Global Stratotype Section and Point (GSSP, Portugal) – a section full of remarkably preserved worms (Knaust & Duarte, 2025, *Geological Magazine*)  
+[DOI](https://doi.org/10.1017/S0016756825100113)
+
+「Phylo-rs：rustにおける拡張可能な系統解析ライブラリ」（オープンアクセス）  
+Phylo-rs: an extensible phylogenetic analysis library in rust (Vijendran et al., 2025, *BMC Bioinformatics*)  
+[DOI](https://doi.org/10.1186/s12859-025-06234-w)
+
 「依存性を持つ形質の最尤法における系統解析」  
 Phylogenetic Analysis of Characters with Dependencies under Maximum Likelihood (Goloboff, 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf051)

@@ -169,7 +169,7 @@ A new Cambrian stem-group echinoderm reveals the evolution of the anteroposterio
 [DOI](https://doi.org/10.1016/j.cub.2025.05.065)
 
 「鳥類の放散に関するゲノム系統学と比較ゲノム学的視点」  
-Phylogenomics and comparative genomic perspective on the avian radiation (Chen et al., 2024, *Nature Reviews Biodiversity*)  
+Phylogenomics and comparative genomic perspective on the avian radiation (Chen et al., 2025, *Nature Reviews Biodiversity*)  
 [DOI](https://doi.org/10.1038/s44358-025-00062-9)
 
 「シルル紀からの初めてのカブトガニ類により、カブトガニ類の基本構造の詳細が明らかになる」（オープンアクセス）  

@@ -8,16 +8,12 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年7月31日</div>
-<div style="text-align: right;">最終確認日：2025年7月31日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月1日</div>
+<div style="text-align: right;">最終確認日：2025年8月1日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
-## 8月以降
-「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
-Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), Academic Press)  
-[DOI](https://doi.org/10.1016/C2018-0-00366-7)
-
+## 9月以降
 「ロシアのウラル地方中部からのエディアカラン紀の体の柔らかい動物相の新発見」  
 A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
 [DOI](https://doi.org/10.1016/j.gr.2025.05.008)
@@ -27,6 +23,14 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 7月
+「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
+Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), Academic Press)  
+[DOI](https://doi.org/10.1016/C2018-0-00366-7)
+
+「カンブリア紀のChancelloriida類の骨片における、上皮細胞によって制御された有機テンプレートの例外的な保存」（オープンアクセス）  
+Exceptionally preserved epithelial cell−controlled organic templates in Cambrian chancelloriid sclerites (Hu et al., 2025, *Geology*)  
+[DOI](https://doi.org/10.1130/G53623.1)
+
 「ポルトガル・ペニシェの国際標準模式層断面及び地点（GSSP）におけるプリンスバキアン階 － 際立ってよく保存された蠕虫で満たされたセクション」（オープンアクセス）  
 The Pliensbachian at the Peniche Global Stratotype Section and Point (GSSP, Portugal) – a section full of remarkably preserved worms (Knaust & Duarte, 2025, *Geological Magazine*)  
 [DOI](https://doi.org/10.1017/S0016756825100113)
@@ -154,6 +158,10 @@ The Fossilized Birth Death Process with heterogeneous diversification rates unra
 [DOI](https://doi.org/10.1101/2025.07.15.664897)
 
 ## 6月
+「エストニアの下部カンブリア系（シリーズ2）からの『鰓曳動物』の可能性があるものの初記録」（オープンアクセス）  
+The first record of a possible 'priapulid' from the lower Cambrian (Series 2) of Estonia (Vinn et al., 2025, *Carnets Geol.*)  
+[DOI](https://doi.org/10.2110/carnets.2025.2508)
+
 「鰓脚類の多様化の時間樹的な解決策を目指して：化石年代の事前分布に対するジャックナイフ評価」  
 Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors (Rhigetti et al., 2025, *Palaeoentomology*)  
 [DOI](https://doi.org/10.11646/palaeoentomology.8.3.8)

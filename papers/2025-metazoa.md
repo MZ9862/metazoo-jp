@@ -22,7 +22,13 @@ A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kol
 Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
+## 8月
+
 ## 7月
+「sparse learningによる系統的に有益なアライメント座位の効率的な識別」（プレプリント・閲覧可能）  
+Efficient Identification of Phylogenetically Informative Alignment Sites via Sparse Learning (Schrago, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.24.666198)
+
 「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
 Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), Academic Press)  
 [DOI](https://doi.org/10.1016/C2018-0-00366-7)
@@ -158,6 +164,10 @@ The Fossilized Birth Death Process with heterogeneous diversification rates unra
 [DOI](https://doi.org/10.1101/2025.07.15.664897)
 
 ## 6月
+「希少な進化的イベントにより、直泳動物の環形動物内部における系統的配置が支持される」（オープンアクセス）  
+Rare Evolutionary Events Support the Phylogenetic Placement of Orthonectida Within Annelida (Nikolaeva et al., 2025, *International Journal of Molecular Sciences*)  
+[DOI](https://doi.org/10.3390/ijms26135983)
+
 「エストニアの下部カンブリア系（シリーズ2）からの『鰓曳動物』の可能性があるものの初記録」（オープンアクセス）  
 The first record of a possible 'priapulid' from the lower Cambrian (Series 2) of Estonia (Vinn et al., 2025, *Carnets Geol.*)  
 [DOI](https://doi.org/10.2110/carnets.2025.2508)

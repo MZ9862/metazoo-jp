@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月1日</div>
-<div style="text-align: right;">最終確認日：2025年8月1日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月2日</div>
+<div style="text-align: right;">最終確認日：2025年8月2日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -432,6 +432,10 @@ State Space Misspecification in Morphological Phylogenetics: A Pitfall for Model
 [DOI](https://doi.org/10.1101/2025.04.22.650124)
 
 ## 3月
+「ニューファンドランド島のエディアカラン系からの*Charnia*の新種により、Charnida（ランゲオモルフ類）の分類学、純古生物学、古生態学に関する新たな洞察が得られる」  
+A new species of *Charnia* from the Ediacaran of Newfoundland reveals novel insights on the taxonomy, palaeobiology and palaeoecology of the Charnida (Rangeomorpha) (Pasinetti et al., 2025, *Journal of Systematic Palaeontology*)  
+[DOI](https://doi.org/10.1080/14772019.2025.2468193)
+
 「北グリーンランド（ローレンシア大陸）からのカンブリア紀中期（ウリューアン期）の微小硬骨格化石群」（オープンアクセス）  
 Middle Cambrian (Wuliuan Stage) Small Shelly Fossils from North Greenland (Laurentia) (Peel, 2025, *Bulletin of Geosciences*)  
 [DOI](https://doi.org/10.3140/bull.geosci.1912)

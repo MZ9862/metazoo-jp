@@ -102,7 +102,7 @@ Phylomitogenomic analyses strongly support the sister relationship of the Chaeto
 ### 2015
 「螺旋動物の系統により微視的な系統の進化が解明される」（オープンアクセス）  
 Spiralian Phylogeny Informs the Evolution of Microscopic Lineages (Laumer et al., 2015, *Current Biology*)  
-[DOI](https://doi.org/10.1016/j.cub.2017.11.026)
+[DOI](https://doi.org/10.1016/j.cub.2015.06.068)
 
 ### 2014
 「ゲノム系統学的データに基づく扁平動物の側系統性により、螺旋動物の祖先が体腔を持っていなかったことが支持される」（オープンアクセス）  

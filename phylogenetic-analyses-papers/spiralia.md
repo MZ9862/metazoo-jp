@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（螺旋動物Spiralia）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月21日</div>
-<div style="text-align: right;">最終確認：2025年7月31日</div><br>
+<div style="text-align: right;">最終更新：2025年8月3日</div>
+<div style="text-align: right;">最終確認：2025年8月3日</div><br>
 
 螺旋動物（螺旋卵割動物）Spiralia（しばしば冠輪動物Lophotrochozoaと同義とされるが、冠輪動物は元々は通常、螺旋動物より狭い範囲を示す；[Halanych et al., 1995](https://doi.org/10.1126/science.7886451)（[PDF](https://www.researchgate.net/publication/200557594_Evidence_from_18S_ribosomal_DNA_that_lophophorates_are_protostome_animals)）および [Bleidorn, 2019](https://doi.org/10.1007/s13127-019-00412-4)（[PDF](https://www.gfbs-home.de/fileadmin/user_upload/ode2mods/ode/ode19/ode19_0412/article.pdf)）を参照のこと）は、螺旋卵割を共有派生形質とする可能性がある（[Martín-Durán & Marlétaz, 2020](https://doi.org/10.1242/dev.181081)）左右相称動物の大きなクレードの一つです。以下の16動物門で構成されています。
 
@@ -19,8 +19,8 @@ lang: ja_JP
 - 輪形動物門Rotifera
 - 扁形動物門Platyhelminthes
 - 腹毛動物門Gastrotricha
-- 二胚動物門Dicyemida
-- 直泳動物門Orthonectida（ただし環形動物門に内包される可能性あり；[Drábková et al., 2022](https://doi.org/10.1098/rspb.2022.0683) を参照のこと）
+- 二胚動物門Dicyemida（ただし環形動物門に内包される可能性あり；[Nikolaeva et al., 2025](https://doi.org/10.3390/ijms26135983) を参照のこと）
+- 直泳動物門Orthonectida（ただし環形動物門に内包される可能性あり；[Nikolaeva et al., 2025](https://doi.org/10.3390/ijms26135983) を参照のこと）
 - 内肛動物門Entoprocta
 - 有輪動物門Cycliophora
 - 軟体動物門Mollusca
@@ -35,6 +35,11 @@ lang: ja_JP
 もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。
 
 ## 分子データ
+### 2025
+「希少な進化的イベントにより、直泳動物の環形動物内部における系統的配置が支持される」（オープンアクセス）  
+Rare Evolutionary Events Support the Phylogenetic Placement of Orthonectida Within Annelida (Nikolaeva et al., 2025, *International Journal of Molecular Sciences*)  
+[DOI](https://doi.org/10.3390/ijms26135983)
+
 ### 2024
 「Multiple displacement amplificationにより、微視的な動物および腹毛動物*Lepidodermella squamata* (Dujardin 1841)のゲノムの1分子リアルタイムシーケンシングが容易になる」（オープンアクセス）  
 Multiple Displacement Amplification Facilitates SMRT Sequencing of Microscopic Animals and the Genome of the Gastrotrich *Lepidodermella squamata* (Dujardin 1841) (Roberts et al., 2024, *Genome Biology and Evolution*)  

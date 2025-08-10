@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月2日</div>
-<div style="text-align: right;">最終確認日：2025年8月2日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月10日</div>
+<div style="text-align: right;">最終確認日：2025年8月10日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -23,8 +23,40 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+6億年の博物旅 1巻（書籍［漫画］・日本語）  
+（みなぱか著・泉監修，2025，芳文社）  
+[Amazon URL](https://www.amazon.co.jp/%EF%BC%96%E5%84%84%E5%B9%B4%E3%81%AE%E5%8D%9A%E7%89%A9%E6%97%85-%EF%BC%91-%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%A0KR-%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%BF%E3%81%AA%E3%81%B1%E3%81%8B/dp/483229654X)
+
+「顎口脊椎動物の姉妹群における頭部と胴部の接合面の新たな形成様式」（ResearchGateから全文のPDFが入手可能）  
+Novel assembly of a head–trunk interface in the sister group of jawed vertebrates (Miyashita et al., 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/s41586-025-09329-9)  
+[ResearchGate全文PDF](https://www.researchgate.net/publication/394356524_Novel_assembly_of_a_head-trunk_interface_in_the_sister_group_of_jawed_vertebrates)
+
+「Phyling：アノテーションされたゲノムからの系統推論」（プレプリント・閲覧可能）  
+Phyling: phylogenetic inference from annotated genomes (Tsai & Stajich, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.30.666921)
+
+「バージェス頁岩の*Olenoides serratus*の脚の可動性の定量化により、三葉虫類とカブトガニ類の付属肢の機能的な差異が示される」（オープンアクセス）  
+Quantification of leg mobility in the Burgess Shale *Olenoides serratus* indicates functional differences between trilobite and xiphosuran appendages (Losso et al., 2025, *BMC Biology*)  
+[DOI](https://doi.org/10.1186/s12915-025-02335-3)
+
+「全ゲノムアラインメントのゲノム系統解析におけるAICを用いたウィンドウサイズの選択」（オープンアクセス）
+Selecting a Window Size for Phylogenomic Analyses of Whole Genome Alignments using AIC (Ivan et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf053)
+
+「GFmixによりサイト・枝間の不均一性をモデル化する」（プレプリント・閲覧可能）  
+Modeling site-and-branch-heterogeneity with GFmix (McCarthy et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.08.07.669136)
 
 ## 7月
+「クラウン鳥類の包括的な解剖学的マトリックスに向けて：胸帯と前肢骨格から得られる系統的洞察」（オープンアクセス）  
+Towards a comprehensive anatomical matrix for crown birds: phylogenetic insights from the pectoral girdle and forelimb skeleton (Chen et al., 2025, *Integrative Organismal Biology*)  
+[DOI](https://doi.org/10.1093/iob/obaf029)
+
+「中国南部、雲南省東部のMalong-Yiliang areaにおけるGuanshan Biota（カンブリア紀、ステージ4）の新たな産出」  
+New occurrence of the Guanshan Biota (Cambrian, *Stage 4*) in the Malong-Yiliang area, eastern Yunnan, South China (Yang et al., 2025, *Historical Biology*)  
+[DOI](https://doi.org/10.1080/08912963.2025.2539302)
+
 「sparse learningによる系統的に有益なアライメント座位の効率的な識別」（プレプリント・閲覧可能）  
 Efficient Identification of Phylogenetically Informative Alignment Sites via Sparse Learning (Schrago, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.24.666198)
@@ -40,10 +72,6 @@ Exceptionally preserved epithelial cell−controlled organic templates in Cambri
 「ポルトガル・ペニシェの国際標準模式層断面及び地点（GSSP）におけるプリンスバキアン階 － 際立ってよく保存された蠕虫で満たされたセクション」（オープンアクセス）  
 The Pliensbachian at the Peniche Global Stratotype Section and Point (GSSP, Portugal) – a section full of remarkably preserved worms (Knaust & Duarte, 2025, *Geological Magazine*)  
 [DOI](https://doi.org/10.1017/S0016756825100113)
-
-「Phylo-rs：rustにおける拡張可能な系統解析ライブラリ」（オープンアクセス）  
-Phylo-rs: an extensible phylogenetic analysis library in rust (Vijendran et al., 2025, *BMC Bioinformatics*)  
-[DOI](https://doi.org/10.1186/s12859-025-06234-w)
 
 「依存性を持つ形質の最尤法における系統解析」  
 Phylogenetic Analysis of Characters with Dependencies under Maximum Likelihood (Goloboff, 2025, *Systematic Biology*)  
@@ -164,6 +192,10 @@ The Fossilized Birth Death Process with heterogeneous diversification rates unra
 [DOI](https://doi.org/10.1101/2025.07.15.664897)
 
 ## 6月
+「輪形動物の寄生虫の進化における遺伝的・形態学的特徴の大幅な階層的縮小」（オープンアクセス）  
+Substantial Hierarchical Reductions of Genetic and Morphological Traits in the Evolution of Rotiferan Parasites (Herlyn et al., 2025, *Genome Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/gbe/evaf124)
+
 「希少な進化的イベントにより、直泳動物の環形動物内部における系統的配置が支持される」（オープンアクセス）  
 Rare Evolutionary Events Support the Phylogenetic Placement of Orthonectida Within Annelida (Nikolaeva et al., 2025, *International Journal of Molecular Sciences*)  
 [DOI](https://doi.org/10.3390/ijms26135983)
@@ -234,7 +266,7 @@ Fossilized soft tissues in tentaculitids from the Upper Devonian of Armenia: Tow
 Total-evidence phylogenetic analysis resolves the evolutionary timescale of mantis shrimps (Stomatopoda) and provides insights into their molecular and morphological evolutionary rates (Van Der Wal et al., 2025, *Molecular Phylogenetics and Evolution*)  
 [DOI](https://doi.org/10.1016/j.ympev.2025.108346)
 
-ゆびでたどる進化のえほん（書籍・日本語）  
+ゆびでたどる進化のえほん（書籍［絵本］・日本語）  
 （三上監修・著，2025，KADOKAWA）  
 [Amazon URL](https://www.amazon.co.jp/dp/4041157293)
 
@@ -491,6 +523,10 @@ Growth of the enigmatic Ediacaran *Parvancorina minchami* (Ivantsov et al., 2025
 [DOI](https://doi.org/10.1017/pab.2024.55)
 
 ## 2月
+「北グリーンランド（ローレンシア大陸）のSæterdal Formation（カンブリア紀シリーズ2、ステージ4）における動物相」（オープンアクセス）  
+Fauna of the Sæterdal Formation (Cambrian Series 2, Stage 4) of North Greenland (Laurentia) (Peel, 2025, *Bulletin of the Geological Society of Denmark*)  
+[DOI](https://doi.org/10.37570/bgsd-2025-74-01)
+
 「最も希少な動物のゲノム系統学：機械学習によって特定された微顎動物2番目の種」（オープンアクセス）  
 Phylogenomics of the rarest animals: a second species of Micrognathozoa identified by machine learning (Sato et al., 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
 [DOI](https://doi.org/10.1098/rspb.2024.2867)

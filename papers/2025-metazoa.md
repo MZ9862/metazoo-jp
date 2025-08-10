@@ -40,7 +40,7 @@ Phyling: phylogenetic inference from annotated genomes (Tsai & Stajich, 2025 pre
 Quantification of leg mobility in the Burgess Shale *Olenoides serratus* indicates functional differences between trilobite and xiphosuran appendages (Losso et al., 2025, *BMC Biology*)  
 [DOI](https://doi.org/10.1186/s12915-025-02335-3)
 
-「全ゲノムアラインメントのゲノム系統解析におけるAICを用いたウィンドウサイズの選択」（オープンアクセス）
+「全ゲノムアラインメントのゲノム系統解析におけるAICを用いたウィンドウサイズの選択」（オープンアクセス）  
 Selecting a Window Size for Phylogenomic Analyses of Whole Genome Alignments using AIC (Ivan et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf053)
 

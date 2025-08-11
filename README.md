@@ -29,6 +29,7 @@
       - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
 
 ## お知らせ（2025/5/4～）
+2025/8/11：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文・プレプリントを追加しました  
 2025/8/10：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文・プレプリント・書籍を追加しました  
 2025/8/3：[螺旋動物の系統解析の論文リスト](phylogenetic-analyses-papers/spiralia.md)に [Nikolaeva et al. (2025)](https://doi.org/10.3390/ijms26135983) を追加しました  
 2025/8/2：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文を追加しました  

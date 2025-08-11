@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月10日</div>
-<div style="text-align: right;">最終確認日：2025年8月10日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月11日</div>
+<div style="text-align: right;">最終確認日：2025年8月11日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -48,7 +48,20 @@ Selecting a Window Size for Phylogenomic Analyses of Whole Genome Alignments usi
 Modeling site-and-branch-heterogeneity with GFmix (McCarthy et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.08.07.669136)
 
+「しかし時計はチクタクと時を刻む：実証的ケーススタディにより、total-evidenceの年代測定におけるrelaxed clock modelsの優位性が強調される」（オープンアクセス）  
+But the Clock, Tick-Tock: An Empirical Case Study Highlights the Preeminence of Relaxed Clock Models in Total-Evidence Dating (Mongiardino Koch et al., 2025, *Systematic Biology*)  
+[URL](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaf055/8228467)  
+[DOI（2025年8月11日現在準備中）](https://doi.org/10.1093/sysbio/syaf055)
+
 ## 7月
+「内部的な化石制約の方が異なるゲノム系統学的データの種類よりもクラウン古顎類の年代推定に大きな影響を与える」（オープンアクセス）  
+Internal fossil constraints have more effect on the age estimates of crown Palaeognathae than different phylogenomic data type (Selvatti & Takezaki, 2025, *Frontiers in Bioinformatics*)  
+[DOI](https://doi.org/10.3389/fbinf.2025.1563786)
+
+「カンブリア紀からの最初期の脊椎動物における4つのカメラ眼」（プレプリント・閲覧可能）  
+Four camera eyes in the earliest vertebrates from the Cambrian (Cong et al., 2025 preprint, *Research Square*)  
+[DOI](https://doi.org/10.21203/rs.3.rs-7195707/v1)
+
 「クラウン鳥類の包括的な解剖学的マトリックスに向けて：胸帯と前肢骨格から得られる系統的洞察」（オープンアクセス）  
 Towards a comprehensive anatomical matrix for crown birds: phylogenetic insights from the pectoral girdle and forelimb skeleton (Chen et al., 2025, *Integrative Organismal Biology*)  
 [DOI](https://doi.org/10.1093/iob/obaf029)

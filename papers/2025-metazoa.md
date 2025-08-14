@@ -8,12 +8,17 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月11日</div>
-<div style="text-align: right;">最終確認日：2025年8月11日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月14日</div>
+<div style="text-align: right;">最終確認日：2025年8月14日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
-## 9月以降
+## 未出版
+「動物の系統分類進化学」（書籍［教科書］・日本語）  
+（朝倉ら，2025，丸善出版）  
+[Amazon URL](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)
+
+## 9月以降（公開はされている）
 「ロシアのウラル地方中部からのエディアカラン紀の体の柔らかい動物相の新発見」  
 A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
 [DOI](https://doi.org/10.1016/j.gr.2025.05.008)
@@ -23,6 +28,14 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+「毛顎動物の独特なボディプランのゲノム生物学的起源」（オープンアクセス）  
+The genomic origin of the unique chaetognath body plan (Piovani et al., 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/s41586-025-09403-2)
+
+「基盤的Epitheliozoaの絶滅クレード：謎めいたカンブリア紀のchancelloriidsの系統的位置と意味合い」（オープンアクセス）  
+An extinct clade of the basal Epitheliozoa: phylogenetic position and implication of the enigmatic Cambrian chancelloriids (Yun et al., 2025, *Communications Biology*)  
+[DOI](https://doi.org/10.1038/s42003-025-08655-y)
+
 6億年の博物旅 1巻（書籍［漫画］・日本語）  
 （みなぱか著・泉監修，2025，芳文社）  
 [Amazon URL](https://www.amazon.co.jp/%EF%BC%96%E5%84%84%E5%B9%B4%E3%81%AE%E5%8D%9A%E7%89%A9%E6%97%85-%EF%BC%91-%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%A0KR-%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%BF%E3%81%AA%E3%81%B1%E3%81%8B/dp/483229654X)
@@ -48,7 +61,7 @@ Selecting a Window Size for Phylogenomic Analyses of Whole Genome Alignments usi
 Modeling site-and-branch-heterogeneity with GFmix (McCarthy et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.08.07.669136)
 
-「しかし時計はチクタクと時を刻む：実証的ケーススタディにより、total-evidenceの年代測定におけるrelaxed clock modelsの優位性が強調される」（オープンアクセス）  
+「しかし時計はチクタクと時を刻む：実証的ケーススタディにより、total-evidenceの年代推定におけるrelaxed clock modelsの優位性が強調される」（オープンアクセス）  
 But the Clock, Tick-Tock: An Empirical Case Study Highlights the Preeminence of Relaxed Clock Models in Total-Evidence Dating (Mongiardino Koch et al., 2025, *Systematic Biology*)  
 [URL](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaf055/8228467)  
 [DOI（2025年8月11日現在準備中）](https://doi.org/10.1093/sysbio/syaf055)
@@ -513,10 +526,6 @@ The big, the small and the weird: A phylogenomic analysis of extant Priapulida (
 「例外的にconnective endoskeletonとmyoanatomyが保存された、南アフリカのスーム頁岩（オルドビス紀）ラーガーシュテッテからの新たな真節足動物」（オープンアクセス）  
 A new euarthropod from the Soom Shale (Ordovician) Konservat-Lagerstätte, South Africa, with exceptional preservation of the connective endoskeleton and myoanatomy (Gabbot et al., 2025, *Papers in Palaeontology*)  
 [DOI](https://doi.org/10.1002/spp2.70004)
-
-「しかし時計はチクタクと時を刻む：total-evidenceの年代付けされた系統学におけるrelaxed clock modelsの優位性」（プレプリント・閲覧可能）  
-But the clock, tick-tock: the preeminence of relaxed clock models in total-evidence dated phylogenetics (Mongiardino Koch et al., 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.02.28.640870)
 
 「中国南西部のエディアカラン紀のJiangchuan biotaからの、中心に輪を持つ謎めいた円盤状の大型化石」  
 Enigmatic discoidal macrofossils with central ring from the Ediacaran Jiangchuan biota, Southwest China (Zhao et al., 2025, *Papers in Palaeontology*)  

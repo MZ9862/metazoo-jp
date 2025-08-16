@@ -28,6 +28,10 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+「形態データの有無両方で化石分類群を組み合わせることで、年代付けされた系統解析が改善される」（オープンアクセス）  
+Combining fossil taxa with and without morphological data improves dated phylogenetic analyses (Nikolic et al., 2025, *Biology Letters*)  
+[DOI](https://doi.org/10.1098/rsbl.2025.0205)
+
 「完全な生命の樹全体にわたる系統的多様性」（プレプリント・閲覧可能）  
 Phylogenetic Diversity Across the Complete Tree of Life (Guo et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.08.12.669825)
@@ -466,10 +470,6 @@ Morphogenesis of *Fractofusus andersoni* and the nature of early animal developm
 「カンブリア紀初期のArtiopoda類*Acanthomeridion serratum*の再評価により、durophagyに特化した頭部付属肢が明らかになる」  
 A reappraisal of the early Cambrian artiopod *Acanthomeridion serratum* reveals cephalic appendages specialized for durophagy (Wu et al., 2025, *Journal of the Geological Society*)  
 [DOI](https://doi.org/10.1144/jgs2024-156)
-
-「形態データの有無両方で化石分類群を組み合わせることで、年代付けされた系統解析が改善される」（プレプリント・閲覧可能）  
-Combining fossil taxa with and without morphological data improves dated phylogenetic analyses (Nikolic et al., 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.04.07.646048)
 
 「フォーチュニアンの古杯類の海綿動物はカンブリア爆発の初期にバイオミネラリゼーションを獲得した」（オープンアクセス）  
 Fortunian archaeocyath sponges acquired biomineralization in the beginning of the Cambrian explosion (Wang et al., 2025, *Geology*)  

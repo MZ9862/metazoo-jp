@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月14日</div>
-<div style="text-align: right;">最終確認日：2025年8月14日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月16日</div>
+<div style="text-align: right;">最終確認日：2025年8月16日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -28,6 +28,14 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+「完全な生命の樹全体にわたる系統的多様性」（プレプリント・閲覧可能）  
+Phylogenetic Diversity Across the Complete Tree of Life (Guo et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.08.12.669825)
+
+「サイト間の進化的変動のモデル化の改善のための非有限な混合モデル」（オープンアクセス）  
+Infinite Mixture Models for Improved Modeling of Across-Site Evolutionary Variation (Gill et al., 2025, *Molecular Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/molbev/msaf199)
+
 「毛顎動物の独特なボディプランのゲノム生物学的起源」（オープンアクセス）  
 The genomic origin of the unique chaetognath body plan (Piovani et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-09403-2)
@@ -63,8 +71,7 @@ Modeling site-and-branch-heterogeneity with GFmix (McCarthy et al., 2025 preprin
 
 「しかし時計はチクタクと時を刻む：実証的ケーススタディにより、total-evidenceの年代推定におけるrelaxed clock modelsの優位性が強調される」（オープンアクセス）  
 But the Clock, Tick-Tock: An Empirical Case Study Highlights the Preeminence of Relaxed Clock Models in Total-Evidence Dating (Mongiardino Koch et al., 2025, *Systematic Biology*)  
-[URL](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaf055/8228467)  
-[DOI（2025年8月11日現在準備中）](https://doi.org/10.1093/sysbio/syaf055)
+[DOI](https://doi.org/10.1093/sysbio/syaf055)
 
 ## 7月
 「内部的な化石制約の方が異なるゲノム系統学的データの種類よりもクラウン古顎類の年代推定に大きな影響を与える」（オープンアクセス）  
@@ -398,14 +405,14 @@ Early ontogeny and other possible molluscan traits in hyolith biology and anatom
 「地球におけるカンブリア紀の後生動物の爆発的放散についての組織のレゴブロック仮説」（オープンアクセス・中国語）  
 寒武纪大爆发组织拼图假说与地球后生动物门类起源  
 Lego Blocks of Tissues Hypothesis on the explosive radiation of Cambrian metazoans on the Earth (Zhang et al., 2025, *Chinese Journal of Nature*)  
-[URL](https://www.jas.shu.edu.cn/CN/abstract/abstract21212.shtml)  
-[DOI（2025年4月23日現在無効）](https://doi.org/10.3969/j.issn.0253-9608.2025.02.003)
+[PDF入手可能なページ](https://www.nature.shu.edu.cn/CN/10.3969/j.issn.0253-9608.2025.02.003)  
+[DOI](https://doi.org/10.3969/j.issn.0253-9608.2025.02.003)
 
 「カンブリア爆発における脱皮動物のボディプランの起源と進化」（オープンアクセス・中国語）  
 寒武纪大爆发期间蜕皮动物躯体构型起源与演化  
 Origin and evolution of bodyplans of ecdysozoans during the Cambrian explosion (Wang et al., 2025, *Chinese Journal of Nature*)  
-[URL](https://www.nature.shu.edu.cn/CN/10.3969/j.issn.0253-9608.2025.02.004)  
-[DOI（2025年4月16日現在無効）](https://doi.org/10.3969/j.issn.0253-9608.2025.02.004)  
+[PDF入手可能なページ](https://www.nature.shu.edu.cn/CN/10.3969/j.issn.0253-9608.2025.02.004)  
+[DOI](https://doi.org/10.3969/j.issn.0253-9608.2025.02.004)  
 [ResearchGate全文PDF](https://www.researchgate.net/publication/389705242_hanwujidabaofaqijiantuipidongwuqutigouxingqiyuanyuyanhua)（透かしがないためこちらの方が読みやすい）
 
 「完全かつ動的な鳥類の系統樹」（オープンアクセス）  
@@ -504,8 +511,7 @@ Myxozoan parasite genomes assembled from contaminated host data reveal extensive
 
 「脱皮動物は体節動物の子孫である」（オープンアクセス）  
 Ecdysozoa are descendants of Articulata (Shcherbakov, 2025, *Invertebrate Zoology*)  
-[URL](https://kmkjournals.com/journals/Inv_Zool/IZ_Index_Volumes/IZ_22/IZ_22_1_168_177)  
-[DOI（2025年4月17日現在無効）](https://doi.org/10.15298/invertzool.22.1.11)
+[DOI](https://doi.org/10.15298/invertzool.22.1.11)
 
 「温帯気候に対する平板動物の耐性：オーストラリア南部海域における既知および新規の平板動物のクレードの証拠」（オープンアクセス）  
 Tolerance of Placozoa for temperate climates: Evidence for known and new placozoan clades in the southern waters of Australia (Wright et al., 2025, *PLoS ONE*)  
@@ -537,12 +543,15 @@ Chert Lagerstätten as a new window to the biological revolution across the Edia
 
 「箒虫動物の幼生の触手の構造とそれらの変態による再構築、そして触手冠動物の起源のシナリオ」（オープンアクセス）  
 Organization of phoronid larval tentacles, their metamorphic remodeling, and a scenario of the lophophore origin (Temereva, 2025, *Invertebrate Zoology*)  
-[URL](https://kmkjournals.com/journals/Inv_Zool/IZ_Index_Volumes/IZ_22/IZ_22_1_178_201)  
-[DOI（2025年4月17日現在無効）](https://doi.org/10.15298/invertzool.22.1.12)
+[DOI](https://doi.org/10.15298/invertzool.22.1.12)
 
 「謎めいたエディアカラン紀の*Parvancorina minchami*の成長」（オープンアクセス）  
 Growth of the enigmatic Ediacaran *Parvancorina minchami* (Ivantsov et al., 2025, *Paleobiology*)  
 [DOI](https://doi.org/10.1017/pab.2024.55)
+
+「シルル紀前期（ブラジル，パルナイーバ盆地，Ipu Formation）からの*Arenactinia ipuensis* n. gen. et n. sp.（花虫類，イソギンチャク類）の生活様式と保存についての洞察」（オープンアクセス）  
+Insights into the lifestyle and preservation of *Arenactinia ipuensis* n. gen. et n. sp. (Anthozoa, Actiniaria) from the Early Silurian (Ipu Formation, Parnaíba Basin, Brazil) (Barroso et al., 2025, *Earth History and Biodiversity*)  
+[DOI](https://doi.org/10.1016/j.hisbio.2025.100017)
 
 ## 2月
 「北グリーンランド（ローレンシア大陸）のSæterdal Formation（カンブリア紀シリーズ2、ステージ4）における動物相」（オープンアクセス）  
@@ -661,6 +670,10 @@ Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *Pee
 「アリ類の包括的な系統において、UCEデータの適切性を評価し、不確実性を統合する」（オープンアクセス）  
 Evaluating UCE Data Adequacy and Integrating Uncertainty in a Comprehensive Phylogeny of Ants (Borowiec et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf001)
+
+「fossilized birth-deathモデルは識別可能である」（オープンアクセス）  
+The Fossilized Birth–Death Model Is Identifiable (Truman et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syae058)
 
 ## 不明
 「エストニアのカンブリア系最上部からの凝集した蠕虫の管の最初の記録」（オープンアクセス）  

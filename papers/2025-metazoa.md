@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月16日</div>
-<div style="text-align: right;">最終確認日：2025年8月16日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月21日</div>
+<div style="text-align: right;">最終確認日：2025年8月21日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -28,6 +28,22 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+「エディアカラン紀の初期の動物の寿命を制約する」（オープンアクセス）  
+Constraining the lifespans of early animals of the Ediacaran (Mitchell & Dhungana, 2025, *Biology Letters*)  
+[DOI](https://doi.org/10.1098/rsbl.2025.0348)
+
+「エディアカラン紀の生物の移動性：総説」（オープンアクセス）  
+Mobility of Ediacaran organisms: A review (Retallack, 2025, *Journal of the Palaeontological Society of India*)  
+[DOI](https://doi.org/10.1177/05529360251353060)
+
+「古生物学：初期の棘皮動物の問題を正す」  
+Palaeontology: Straightening out early echinoderms (Budd, 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.07.034)
+
+「左右相称動物のゲノム構造の保存は例外であり、規則ではない」（オープンアクセス）  
+Conservation of bilaterian genome structure is the exception, not the rule (Lewin et al., 2025, *Genome Biology*)  
+[DOI](https://doi.org/10.1186/s13059-025-03732-1)
+
 「形態データの有無両方で化石分類群を組み合わせることで、年代付けされた系統解析が改善される」（オープンアクセス）  
 Combining fossil taxa with and without morphological data improves dated phylogenetic analyses (Nikolic et al., 2025, *Biology Letters*)  
 [DOI](https://doi.org/10.1098/rsbl.2025.0205)

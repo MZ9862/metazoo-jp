@@ -28,6 +28,10 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+「エディアカラン紀のDoushantuo Formationからのリン酸塩化した胚様微化石の例外的な保存における燐灰石のナノ結晶へのアモルファスシリカ被膜の役割」（オープンアクセス）  
+The role of amorphous silica coating on apatite nanocrystals in the exceptional preservation of phosphatized embryo-like microfossils from the Ediacaran Doushantuo Formation (Lee et al., 2025, *Geology*)  
+[DOI](https://doi.org/10.1130/G53415.1)
+
 「エディアカラン紀の初期の動物の寿命を制約する」（オープンアクセス）  
 Constraining the lifespans of early animals of the Ediacaran (Mitchell & Dhungana, 2025, *Biology Letters*)  
 [DOI](https://doi.org/10.1098/rsbl.2025.0348)

@@ -252,7 +252,7 @@ Cambrian origin of the arachnid brain (Stausfeld et al., 2025, *Current Biology*
 [DOI](https://doi.org/10.1016/j.cub.2025.06.063)
 
 「後生動物 — 動物の形態と進化：動物の解剖および比較研究の実践的手引き」（書籍）  
-Metazoa – Morphology and Evolution of Animals: A Practical Guide to the Dissection and Comparative Study of Animals (Paululat & Purschke, 2025, Springer Berlin, Heidelberg)  
+Metazoa – Morphology and Evolution of Animals: A Practical Guide to the Dissection and Comparative Study of Animals (Paululat & Purschke, 2025, Springer Berlin)  
 [DOI](https://doi.org/10.1007/978-3-662-69904-1)  
 [Amazon](https://www.amazon.co.jp/Metazoa-Morphology-Evolution-Animals-Comparative/dp/3662699036)
 

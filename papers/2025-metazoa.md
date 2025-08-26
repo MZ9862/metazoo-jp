@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月21日</div>
-<div style="text-align: right;">最終確認日：2025年8月21日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月26日</div>
+<div style="text-align: right;">最終確認日：2025年8月26日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -28,6 +28,42 @@ Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Development
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+「珪質のカンブリア紀の微化石における分類学的曖昧さの解決：*Blastulospongia*の海綿動物としての類縁性とarchaeospicularians（放散虫類）の系統」（オープンアクセス）  
+Resolution of taxonomic ambiguities among siliceous Cambrian microfossils: poriferan affinity of *Blastulospongia* and phylogeny of archaeospicularians (Radiolaria) (Sheng & Aitchison, 2025, *Journal of Paleontology*)  
+[DOI](https://doi.org/10.1017/jpa.2025.10131)
+
+「ゲノム系統解析における影響と不一致の尺度について」（オープンアクセス）  
+On measures of influence and discordance in phylogenomic analyses (Jiao & Yang, 2025, *Evolutionary Journal of the Linnean Society*)  
+[DOI](https://doi.org/10.1093/evolinnean/kzaf013)
+
+「エディアカラン紀のコプロスタンのバイオマーカーの再評価および*Dickinsonia*への意味合い」（オープンアクセス）  
+A Reassessment of the Coprostane Biomarker in the Ediacaran With Implications for *Dickinsonia* (Mulligan & Gold, 2025, *Geobiology*)  
+[DOI](https://doi.org/10.1111/gbi.70029)
+
+「昆虫のゲノム系統学：実験計画から系統解析後の解析まで」（書籍のチャプター）  
+Insect Phylogenomics: From Experiment Planning to Post-phylogenetic Analyses (Forni et al., 2025, *Insect Genomics. Methods in Molecular Biology*, Humana)  
+[DOI](https://doi.org/10.1007/978-1-0716-4583-3_9)
+
+「新たなデータフィルタリング法により、軟骨魚類の系統の論争が解決される」（プレプリント・閲覧可能）  
+A novel data filtering method resolves the controversy in the phylogeny of the Chondrichthyes (Huang et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.08.19.671162)
+
+「ミトゲノムによるホタル科の系統推定と分岐年代に対するpartition modelsの影響」（プレプリント・閲覧可能）  
+Impact of Partition Models on Phylogenetic Inference and Divergence Times of Lampyridae from Mitochondrial Genomes (Höhna et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.08.19.671050)
+
+「頭足類の体の大きさとマクロ生態学の長期的変化」（オープンアクセス）  
+Cephalopod body size and macroecology through deep time (Klug et al., 2025, *Scientific Reports*)  
+[DOI](https://doi.org/10.1038/s41598-025-13940-1)
+
+「カンブリア紀の放散および顕生代最初の大量絶滅（Cambrian Sinsk Event）における後生動物の機能的多様性の変動」（オープンアクセス）  
+Changes in metazoan functional diversity across the Cambrian Radiation and the first Phanerozoic mass extinction: the Cambrian Sinsk Event (Murphy et al., 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
+[DOI](https://doi.org/10.1098/rspb.2025.0968)
+
+「翼鰓類（半索動物）における相称性の進化」  
+The evolution of symmetry in the Pterobranchia (Hemichordata) (Maletz, 2025, *Zootaxa*)  
+[DOI](https://doi.org/10.11646/zootaxa.5683.3.2)
+
 「エディアカラン紀のDoushantuo Formationからのリン酸塩化した胚様微化石の例外的な保存における燐灰石のナノ結晶へのアモルファスシリカ被膜の役割」（オープンアクセス）  
 The role of amorphous silica coating on apatite nanocrystals in the exceptional preservation of phosphatized embryo-like microfossils from the Ediacaran Doushantuo Formation (Lee et al., 2025, *Geology*)  
 [DOI](https://doi.org/10.1130/G53415.1)
@@ -695,7 +731,7 @@ Evaluating UCE Data Adequacy and Integrating Uncertainty in a Comprehensive Phyl
 The Fossilized Birth–Death Model Is Identifiable (Truman et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syae058)
 
-## 不明
+## 出版月不明
 「エストニアのカンブリア系最上部からの凝集した蠕虫の管の最初の記録」（オープンアクセス）  
 First record of agglutinated worm tubes from the uppermost Cambrian of Estonia (Vinn et al., 2025, *Acta Geologica Polonica*)  
 [DOI](https://doi.org/10.24425/agp.2024.152663)

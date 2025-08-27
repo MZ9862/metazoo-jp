@@ -29,7 +29,7 @@
       - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
 
 ## お知らせ（2025/5/4～）
-2025/8/28：[左右相称動物の系統解析の論文リスト](phylogenetic-analyses-papers/spiralia.md)に [Wang (2024)](https://www.rroij.com/open-access/xenacoelomorpha-flatworms-are-basal-deuterostome.php?aid=94295) を追加しました  
+2025/8/28：[左右相称動物の系統解析の論文リスト](phylogenetic-analyses-papers/bilateria.md)に [Wang (2024)](https://www.rroij.com/open-access/xenacoelomorpha-flatworms-are-basal-deuterostome.php?aid=94295) を追加しました  
 2025/8/26：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文・プレプリントを追加しました  
 2025/8/21：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文を追加しました  
 2025/8/16：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文・プレプリントを追加しました  

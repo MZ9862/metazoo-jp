@@ -23,8 +23,8 @@ lang: ja_JP
 A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
 [DOI](https://doi.org/10.1016/j.gr.2025.05.008)
 
-「Aguinaldo, et al. (1997) および進化発生生物学の誕生」  
-Aguinaldo, et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
+「Aguinaldo et al. (1997) および進化発生生物学の誕生」  
+Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月

@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（左右相称動物Bilateria）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月21日</div>
-<div style="text-align: right;">最終確認：2025年7月31日</div><br>
+<div style="text-align: right;">最終更新：2025年8月28日</div>
+<div style="text-align: right;">最終確認：2025年8月28日</div><br>
 
 左右相称動物Bilateriaは3つの胚葉（内胚葉、中胚葉、外胚葉）を持つことと、前後方向の体軸を持つことなどで特徴付けられる後生動物の主要クレードの一つです。左右相称動物の内部では以下の4系統がほぼ確実に単系統であると認められていますが、相互的な系統関係は十分に明らかになっていません（下の論文を参照のこと）。
 
@@ -33,6 +33,11 @@ Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biolo
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)
 
 ### 2024
+「珍無腸形動物は基盤的な後口動物である」（オープンアクセス）  
+Xenacoelomorpha Flatworms are Basal Deuterostome (Wang, 2024, *Research Journal of Biology*)  
+[URL](https://www.rroij.com/open-access/xenacoelomorpha-flatworms-are-basal-deuterostome.php?aid=94295)  
+[DOI（2025年8月28日現在無効）](https://doi.org/10.4172/2322-0066.12.1.005)
+
 「新たなゲノムアプローチにより、珍無腸形動物が全ての左右相称動物の姉妹群として支持される」（プレプリント・閲覧可能）  
 Novel genomic approaches support Xenacoelomorpha as sister to all Bilateria (Álvarez-Presas et al., 2024, *Research Square*)  
 [DOI](https://doi.org/10.21203/rs.3.rs-5529390/v1)  

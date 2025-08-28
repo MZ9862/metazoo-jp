@@ -33,11 +33,6 @@ Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biolo
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)
 
 ### 2024
-「珍無腸形動物は基盤的な後口動物である」（オープンアクセス）  
-Xenacoelomorpha Flatworms are Basal Deuterostome (Wang, 2024, *Research Journal of Biology*)  
-[URL](https://www.rroij.com/open-access/xenacoelomorpha-flatworms-are-basal-deuterostome.php?aid=94295)  
-[DOI（2025年8月28日現在無効）](https://doi.org/10.4172/2322-0066.12.1.005)
-
 「新たなゲノムアプローチにより、珍無腸形動物が全ての左右相称動物の姉妹群として支持される」（プレプリント・閲覧可能）  
 Novel genomic approaches support Xenacoelomorpha as sister to all Bilateria (Álvarez-Presas et al., 2024, *Research Square*)  
 [DOI](https://doi.org/10.21203/rs.3.rs-5529390/v1)  
@@ -84,6 +79,11 @@ Revisiting metazoan phylogeny with genomic sampling of all phyla (Laumer et al.,
 「系統誤差の予期される影響を軽減することで、珍無腸形動物と歩帯動物の姉妹群関係が支持される」（オープンアクセス）  
 Mitigating Anticipated Effects of Systematic Errors Supports Sister-Group Relationship between Xenacoelomorpha and Ambulacraria (Philippe et al., 2019, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2019.04.009)
+
+### 2017
+「無腸動物の蠕虫*Paratomella rubra*，*Isodiametra pulchra*，*Archaphanostoma ylvae*のミトゲノム」（オープンアクセス）  
+The mitochondrial genomes of the acoelomorph worms *Paratomella rubra*, *Isodiametra pulchra* and *Archaphanostoma ylvae* (Robertson et al., 2017, *Scientific Reports*)  
+[DOI](https://doi.org/10.1038/s41598-017-01608-4)
 
 ### 2016
 「ミトゲノム系統解析により、毛顎動物と前口動物の姉妹群関係が強く支持される」  

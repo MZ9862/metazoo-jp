@@ -1,7 +1,7 @@
 # MetaZoo JP
 この分野に限られたことではありませんが、後生動物（動物）の初期の系統・進化の研究の動向について、日本語で最新の情報を入手できるようなWeb上の情報源は限られています。本サイトでは、この分野の最新の研究動向について、日本語でなるべく網羅的に紹介することを目指します。
 
-手始めに、いくつかのテーマのもと、この分野の論文等をタイトルの日本語訳付きで紹介しています。
+手始めに、いくつかのテーマのもと、この分野の論文等をタイトルの日本語訳付きで紹介しています。明らかにハゲタカジャーナル（predatory journal）のものは除いています．
 
 何か誤りや問題、ご意見、管理人へのご連絡などがありましたら、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)でissueを作成するか、メール（<mz9862.github@gmail.com>）をしていただければ幸いです。
 
@@ -29,7 +29,6 @@
       - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
 
 ## お知らせ（2025/5/4～）
-2025/8/28：[左右相称動物の系統解析の論文リスト](phylogenetic-analyses-papers/bilateria.md)に [Wang (2024)](https://www.rroij.com/open-access/xenacoelomorpha-flatworms-are-basal-deuterostome.php?aid=94295) を追加しました  
 2025/8/26：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文・プレプリントを追加しました  
 2025/8/21：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文を追加しました  
 2025/8/16：[後生動物の初期の系統・進化に関する2025年の論文リスト](papers/2025-metazoa.md)に論文・プレプリントを追加しました  

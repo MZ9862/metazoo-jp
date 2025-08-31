@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月29日</div>
-<div style="text-align: right;">最終確認日：2025年8月29日</div><br>
+<div style="text-align: right;">最終追加日：2025年8月31日</div>
+<div style="text-align: right;">最終確認日：2025年8月31日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -28,6 +28,18 @@ Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmenta
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 8月
+「系統的支持評価における新たな視点：新たなRelative Contradiction Indexを用いてワニ類における系統的論争を調査する」  
+New perspectives in phylogenetic support assessment: using the new Relative Contradiction Index to investigate the phylogenetic controversies in Crocodylia (Aubier et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf058)
+
+「タンパク質構造の系統学」（オープンアクセス）  
+Protein Structural Phylogenetics (Puente-Lelievre et al., 2025, *Genome Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/gbe/evaf139)
+
+「異甲類（ステム顎口類）の系統」（オープンアクセス）  
+A phylogeny for Heterostraci (stem-gnathostomes) (Randle et al., 2025, *Papers in Palaeontology*)  
+[DOI](https://doi.org/10.1002/spp2.70030)
+
 「カンブリア紀の化石*Jianfengia multisegmentalis*の脳の解剖学的構造により、真節足動物の系統が解明される」（オープンアクセス）  
 Brain anatomy of the Cambrian fossil *Jianfengia multisegmentalis* informs euarthropod phylogeny (Strausfeld et al., 2025, *Nature Communications*)  
 [DOI](https://doi.org/10.1038/s41467-025-62849-w)
@@ -454,6 +466,10 @@ guoyi.run: One-step TNT script for maximum parsimony phylogenetic analysis (Zhan
 [ResearchGate全文PDF](https://www.researchgate.net/publication/392103254_guoyirun_One-step_TNT_script_for_maximum_parsimony_phylogenetic_analysis)
 
 ## 4月
+「MrBayesを使用したベイズ系統解析の包括的なプロトコル：配列アライメントからモデル選択および系統推論まで」（オープンアクセス）  
+A Comprehensive Protocol for Bayesian Phylogenetic Analysis Using MrBayes: From Sequence Alignment to Model Selection and Phylogenetic Inference (Wang et al., 2025, *Bio-protocol*)  
+[DOI](https://doi.org/10.21769/BioProtoc.5276)
+
 「冠輪動物の進化と系統」（未出版のonline Reference Collectionのチャプター）  
 Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, Elsevier)  
 [DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)

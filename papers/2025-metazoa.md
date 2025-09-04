@@ -8,17 +8,26 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年8月31日</div>
-<div style="text-align: right;">最終確認日：2025年8月31日</div><br>
+<div style="text-align: right;">最終追加日：2025年9月4日</div>
+<div style="text-align: right;">最終確認日：2025年9月4日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
-## 未出版
+## 未公開
 「動物の系統分類進化学」（書籍［教科書］・日本語）  
 （朝倉ら，2025，丸善出版）  
 [Amazon URL](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)
 
-## 9月以降（公開はされている）
+## 10月以降（公開はされている）
+「カンブリア爆発はいかにして起こったか：科学史と生命史における偶然性」  
+How the cambrian exploded: Contingency in the history of science and life (Dresow, 2025, *Studies in History and Philosophy of Science*)  
+[DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
+
+## 9月
+「今何時？系統樹と化石の相互作用」（プレプリント・閲覧可能）  
+What time is it? Interactions between trees and fossils (Carruthers, 2025 preprint, *EcoEvoRxiv*)  
+[DOI](https://doi.org/10.32942/X2MH0C)
+
 「ロシアのウラル地方中部からのエディアカラン紀の体の柔らかい動物相の新発見」  
 A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
 [DOI](https://doi.org/10.1016/j.gr.2025.05.008)
@@ -27,8 +36,40 @@ A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kol
 Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
+「化石データからの系統的および大進化学的推論における形質進化モデルの影響の評価」（プレプリント・閲覧可能）  
+Assessing the impact of character evolution models on phylogenetic and macroevolutionary inferences from fossil data (Wright & Hopkins, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2024.12.23.630137)
+
 ## 8月
-「系統的支持評価における新たな視点：新たなRelative Contradiction Indexを用いてワニ類における系統的論争を調査する」  
+「JOGSラーガーシュテッテ：Nama Groupからのエディアカラン紀の軟体性の化石」  
+JOGS Lagerstätten: Ediacaran soft-bodied fossils from the Nama Group (Darroch et al., 2025, *Journal of the Geological Society*)  
+[DOI](https://doi.org/10.1144/jgs2024-288)
+
+「形質の大進化に関する変わりゆく見解」（プレプリント・閲覧可能）  
+An evolving view of character macroevolution (Tribble et al., 2025 preprint, *EcoEvoRxiv*)  
+[DOI](https://doi.org/10.32942/X2892Z)
+
+「3Di形質をアミノ酸データセットに加えると解像度が向上する可能性があるが，その効果は短いタンパク質やαヘリックスタンパク質では弱くなる」（プレプリント・閲覧可能）  
+Adding 3Di characters to amino acid datasets can improve resolution, but the effect is weaker in shorter and alpha-helical proteins (Fullmer et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.06.30.662300)
+
+「古生代の『羽毛様』化石の識別：藻類，ヒドロ虫類，それともフデイシ類？」（オープンアクセス）  
+The identification of ‘feather-like’ fossils in the Palaeozoic: Algae, hydroids, or graptolites? (Maletz et al., 2025, *Palaeoworld*)  
+[DOI](https://doi.org/10.1016/j.palwor.2025.200909)
+
+「Termal：ターミナルベースのマルチプルアライメントビューア」（プレプリント・閲覧可能）  
+Termal: A Terminal-Based Multiple Sequence Alignment (MSA) Viewer (Junier, 2025 preprint, *Preprints*)  
+[DOI](https://www.preprints.org/manuscript/202504.1866/v3)
+
+「二胚葉動物*Nematostella vectensis*における内胚葉と中胚葉の胚葉アイデンティティの分離」（オープンアクセス）  
+Segregation of endoderm and mesoderm germ layer identities in the diploblast *Nematostella vectensis* (Haillot et al., 2025, *Nature Communications*)  
+[DOI](https://doi.org/10.1038/s41467-025-63287-4)
+
+「occurrence birth-death diffusion process：化石と不均一な速度で多様化史を解明する」（プレプリント・閲覧可能）  
+The Occurrence Birth-Death Diffusion Process: Unraveling Diversification Histories with Fossils and Heterogeneous Rates (Andréoletti et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.08.26.672414)
+
+「系統的支持の評価における新たな視点：新たなRelative Contradiction Indexを用いてワニ類における系統的論争を調査する」  
 New perspectives in phylogenetic support assessment: using the new Relative Contradiction Index to investigate the phylogenetic controversies in Crocodylia (Aubier et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf058)
 
@@ -128,10 +169,6 @@ An extinct clade of the basal Epitheliozoa: phylogenetic position and implicatio
 Novel assembly of a head–trunk interface in the sister group of jawed vertebrates (Miyashita et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-09329-9)  
 [ResearchGate全文PDF](https://www.researchgate.net/publication/394356524_Novel_assembly_of_a_head-trunk_interface_in_the_sister_group_of_jawed_vertebrates)
-
-「Phyling：アノテーションされたゲノムからの系統推論」（プレプリント・閲覧可能）  
-Phyling: phylogenetic inference from annotated genomes (Tsai & Stajich, 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.07.30.666921)
 
 「バージェス頁岩の*Olenoides serratus*の脚の可動性の定量化により、三葉虫類とカブトガニ類の付属肢の機能的な差異が示される」（オープンアクセス）  
 Quantification of leg mobility in the Burgess Shale *Olenoides serratus* indicates functional differences between trilobite and xiphosuran appendages (Losso et al., 2025, *BMC Biology*)  
@@ -300,7 +337,23 @@ Independent origins of spicules reconcile palaeontological and molecular evidenc
 The Fossilized Birth Death Process with heterogeneous diversification rates unravels the link between diversification and specialisation to a carnivorous diet in Nimravidae (Carnivoraformes) (Chabrol et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.15.664897)
 
+「多座系統学における非効率的な重複に対処する」（オープンアクセス）  
+Coping with Ineffective Overlap in Multilocus Phylogenetics (Silva et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf044)
+
 ## 6月
+「海洋中のBa（バリウム）の除去により，約6億年前の既知最古の動物の海洋居住適正が改善された」  
+Oceanic Ba removal improved marine habitability for the oldest-known animals at ca. 600 Ma (Sui et al., 2025, *Global and Planetary Change*)  
+[DOI](https://doi.org/10.1016/j.gloplacha.2025.104790)
+
+「新たに開発された構造ベースの手法は大規模なゲノム系統学において標準的な配列ベースの手法を上回らない」（オープンアクセス）  
+Newly Developed Structure-Based Methods Do Not Outperform Standard Sequence-Based Methods for Large-Scale Phylogenomics (Mutti et al., 2025, *Molecular Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/molbev/msaf149)
+
+「構造系統学のための一般的な置換マトリックス」（オープンアクセス）  
+A General Substitution Matrix for Structural Phylogenetics (Garg & Hochberg, 2025, *Molecular Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/molbev/msaf124)
+
 「輪形動物の寄生虫の進化における遺伝的・形態学的特徴の大幅な階層的縮小」（オープンアクセス）  
 Substantial Hierarchical Reductions of Genetic and Morphological Traits in the Evolution of Rotiferan Parasites (Herlyn et al., 2025, *Genome Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/gbe/evaf124)
@@ -380,6 +433,18 @@ Total-evidence phylogenetic analysis resolves the evolutionary timescale of mant
 [Amazon URL](https://www.amazon.co.jp/dp/4041157293)
 
 ## 5月
+「モデルベースの構造系統学のための3次元3次相互作用の形質のデータセットの生成のためのパイプライン」（プレプリント・閲覧可能）  
+A Pipeline for Generating Datasets of 3-Dimensional Tertiary Interaction Characters for Model-Based Structural Phylogenetics (Matzke et al., 2025 preprint, *OSF Preprint*)  
+[DOI](https://doi.org/10.31219/osf.io/5uhkx_v1)
+
+「初期のカブトガニ類における体節形成およびthoracetronの進化」（オープンアクセス）  
+Segmentation in early Xiphosura and the evolution of the thoracetron (Lamsdell & Ocon, 2025, *Journal of Paleontology*)  
+[DOI](https://doi.org/10.1017/jpa.2024.31)
+
+「Weighted TREE-QMCによる，遺伝子系統樹の不完全性，推定誤差，体系的な相同性の誤りへの頑健性の向上」  
+Improved Robustness to Gene Tree Incompleteness, Estimation Errors, and Systematic Homology Errors with Weighted TREE-QMC (Han & Molloy, 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf009)
+
 「完全なプランクトン性の生活環への独立した移行により、表層域におけるクラゲ類の全球的な分布が形作られた」  
 Independent transitions to fully planktonic life cycles shaped the global distribution of medusozoans in the epipelagic zone (Boosten et al., 2025, *Proceedings of the National Academy of Sciences*)  
 [DOI](https://doi.org/10.1073/pnas.2415979122)
@@ -466,6 +531,10 @@ guoyi.run: One-step TNT script for maximum parsimony phylogenetic analysis (Zhan
 [ResearchGate全文PDF](https://www.researchgate.net/publication/392103254_guoyirun_One-step_TNT_script_for_maximum_parsimony_phylogenetic_analysis)
 
 ## 4月
+「序論：*Paleobiology*の50年」（オープンアクセス）  
+Introduction: Fifty years of *Paleobiology* (Patzkowsky & Kiessling, 2025, *Paleobiology*)  
+[DOI](https://doi.org/10.1017/pab.2025.4)
+
 「MrBayesを使用したベイズ系統解析の包括的なプロトコル：配列アライメントからモデル選択および系統推論まで」（オープンアクセス）  
 A Comprehensive Protocol for Bayesian Phylogenetic Analysis Using MrBayes: From Sequence Alignment to Model Selection and Phylogenetic Inference (Wang et al., 2025, *Bio-protocol*)  
 [DOI](https://doi.org/10.21769/BioProtoc.5276)
@@ -572,7 +641,23 @@ IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models (Wo
 State Space Misspecification in Morphological Phylogenetics: A Pitfall for Models and Parsimony Alike (Huang, 2025, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.04.22.650124)
 
+「エディアカラン紀初期の進化を天文学的に較正する」（オープンアクセス）  
+Astronomically calibrating early Ediacaran evolution (Zhang et al., 2025, *Nature Communications*)  
+[DOI](https://doi.org/10.1038/s41467-025-57201-1)
+
 ## 3月
+「分子進化遺伝学的解析のための最適な塩基置換モデルの選択におけるソフトウェアと基準の影響」（オープンアクセス）  
+The impact of software and criteria on the selection of best-fit nucleotide substitution models for molecular evolutionary genetic analysis (Li et al., 2025, *PLoS ONE*)  
+[DOI](https://doi.org/10.1371/journal.pone.0319774)
+
+「新原生代～古生代の動物の多様化の潜在的推進要因としての底生域の昼夜の酸素変動とストレス」（オープンアクセス）  
+Benthic diel oxygen variability and stress as potential drivers for animal diversification in the Neoproterozoic-Palaeozoic (Hammarlund et al., 2025, *Nature Communications*)  
+[DOI](https://doi.org/10.1038/s41467-025-57345-0)
+
+「遅く進化するタンパク質により，Craspedida（襟鞭毛虫類）の単系統性と襟鞭毛虫類の海洋起源が支持される」（オープンアクセス）  
+Slowly evolving proteins support the monophyly of Craspedida (Choanoflagellatea) and a marine origin of choanoflagellates (Ginés-Rivas & Carr, 2025, *Protist*)  
+[DOI](https://doi.org/10.1016/j.protis.2025.126085)
+
 「ニューファンドランド島のエディアカラン系からの*Charnia*の新種により、Charnida（ランゲオモルフ類）の分類学、純古生物学、古生態学に関する新たな洞察が得られる」  
 A new species of *Charnia* from the Ediacaran of Newfoundland reveals novel insights on the taxonomy, palaeobiology and palaeoecology of the Charnida (Rangeomorpha) (Pasinetti et al., 2025, *Journal of Systematic Palaeontology*)  
 [DOI](https://doi.org/10.1080/14772019.2025.2468193)
@@ -624,10 +709,6 @@ Organization of phoronid larval tentacles, their metamorphic remodeling, and a s
 「謎めいたエディアカラン紀の*Parvancorina minchami*の成長」（オープンアクセス）  
 Growth of the enigmatic Ediacaran *Parvancorina minchami* (Ivantsov et al., 2025, *Paleobiology*)  
 [DOI](https://doi.org/10.1017/pab.2024.55)
-
-「シルル紀前期（ブラジル，パルナイーバ盆地，Ipu Formation）からの*Arenactinia ipuensis* n. gen. et n. sp.（花虫類，イソギンチャク類）の生活様式と保存についての洞察」（オープンアクセス）  
-Insights into the lifestyle and preservation of *Arenactinia ipuensis* n. gen. et n. sp. (Anthozoa, Actiniaria) from the Early Silurian (Ipu Formation, Parnaíba Basin, Brazil) (Barroso et al., 2025, *Earth History and Biodiversity*)  
-[DOI](https://doi.org/10.1016/j.hisbio.2025.100017)
 
 ## 2月
 「北グリーンランド（ローレンシア大陸）のSæterdal Formation（カンブリア紀シリーズ2、ステージ4）における動物相」（オープンアクセス）  
@@ -685,6 +766,10 @@ Exceptionally Preserved Setae: A Possible Morphological Synapomorphy of Cambrian
 「アヴァロン（エディアカラン紀5億7400万–5億6000万年前）における初期の動物の再定着の戦略」（プレプリント・閲覧可能）  
 Recolonisation strategies of early animals in the Avalon (Ediacaran 574 – 560 Ma) (Stephenson et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.01.30.635654)
+
+「幾何学的形態計測データの系統解析：オポッサム科における研究事例」  
+Phylogenetic analysis of geometric morphometric data: A study case in Didelphidae (Saguir et al., 2025, *Zoologica Scripta*)  
+[DOI](https://doi.org/10.1111/zsc.12722)
 
 ## 1月
 「タリーモンスターは進化的に謎なままである」  
@@ -746,10 +831,6 @@ Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *Pee
 「アリ類の包括的な系統において、UCEデータの適切性を評価し、不確実性を統合する」（オープンアクセス）  
 Evaluating UCE Data Adequacy and Integrating Uncertainty in a Comprehensive Phylogeny of Ants (Borowiec et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf001)
-
-「fossilized birth-deathモデルは識別可能である」（オープンアクセス）  
-The Fossilized Birth–Death Model Is Identifiable (Truman et al., 2025, *Systematic Biology*)  
-[DOI](https://doi.org/10.1093/sysbio/syae058)
 
 ## 出版月不明
 「エストニアのカンブリア系最上部からの凝集した蠕虫の管の最初の記録」（オープンアクセス）  

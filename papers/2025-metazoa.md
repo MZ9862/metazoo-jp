@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年9月6日</div>
-<div style="text-align: right;">最終確認日：2025年9月6日</div><br>
+<div style="text-align: right;">最終追加日：2025年9月8日</div>
+<div style="text-align: right;">最終確認日：2025年9月8日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -24,6 +24,14 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
 
 ## 9月
+「additive codingは形態系統解析に有用か？実証的評価」（オープンアクセス）  
+Is additive coding useful for morphological phylogenetic analyses? An empirical evaluation (Ament & Almeida, 2025, *Arthropod Systematics & Phylogeny*)  
+[DOI](https://doi.org/10.3897/asp.83.e146637)
+
+「植物および動物の属の最近の絶滅は，稀で，局所的であり，かつ減速している」（オープンアクセス）  
+Recent extinctions of plant and animal genera are rare, localized, and decelerated (Wiens & Saban, 2025, *PLOS Biology*)  
+[DOI](https://doi.org/10.1371/journal.pbio.3003356)
+
 「動物における後口動物の枝に対する証拠の検討および脊索動物の起源の理解への意味合い」  
 Weighing the Evidence for a Deuterostome Branch of Animals and Implications for Understanding Chordate Origins (Telford, 2025, *Annual Review of Ecology, Evolution, and Systematics*)  
 [DOI](https://doi.org/10.1146/annurev-ecolsys-102722-023501)

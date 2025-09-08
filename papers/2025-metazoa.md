@@ -45,6 +45,10 @@ Assessing the impact of character evolution models on phylogenetic and macroevol
 [DOI](https://doi.org/10.1101/2024.12.23.630137)
 
 ## 8月
+カラー図解 水の中の小さな美しい生き物たち: 小型ベントス・プランクトン百科（書籍［図鑑］・日本語）  
+（仲村ほか編，2025，朝倉書店）  
+[Amazon URL](https://www.amazon.co.jp/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9B%B3%E8%A7%A3-%E6%B0%B4%E3%81%AE%E4%B8%AD%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E7%BE%8E%E3%81%97%E3%81%84%E7%94%9F%E3%81%8D%E7%89%A9%E3%81%9F%E3%81%A1-%E5%B0%8F%E5%9E%8B%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%88%E3%83%B3%E7%99%BE%E7%A7%91-%E4%BB%B2%E6%9D%91-%E5%BA%B7%E7%A7%80/dp/4254171951)
+
 「JOGSラーガーシュテッテ：Nama Groupからのエディアカラン紀の軟体性の化石」  
 JOGS Lagerstätten: Ediacaran soft-bodied fossils from the Nama Group (Darroch et al., 2025, *Journal of the Geological Society*)  
 [DOI](https://doi.org/10.1144/jgs2024-288)

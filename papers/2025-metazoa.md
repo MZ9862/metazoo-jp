@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年9月8日</div>
-<div style="text-align: right;">最終確認日：2025年9月8日</div><br>
+<div style="text-align: right;">最終追加日：2025年9月15日</div>
+<div style="text-align: right;">最終確認日：2025年9月15日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -24,6 +24,14 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
 
 ## 9月
+「祖先多型のソーティングおよびそれの形態系統学と大進化への影響」（オープンアクセス）  
+Sorting of ancestral polymorphism and its impact on morphological phylogenetics and macroevolution (Parins-Fukuchi, 2025, *Evolution*)  
+[DOI](https://doi.org/10.1093/evolut/qpaf177)
+
+「中国南部のカンブリア紀前期のQingxi Formationからの珪質の海綿化石」  
+Siliceous sponge fossils from the early Cambrian Qingxi Formation in South China (Cao et al., 2025, *Palaeoworld*)  
+[DOI](https://doi.org/10.1016/j.palwor.2025.201013)
+
 「additive codingは形態系統解析に有用か？実証的評価」（オープンアクセス）  
 Is additive coding useful for morphological phylogenetic analyses? An empirical evaluation (Ament & Almeida, 2025, *Arthropod Systematics & Phylogeny*)  
 [DOI](https://doi.org/10.3897/asp.83.e146637)
@@ -203,6 +211,10 @@ But the Clock, Tick-Tock: An Empirical Case Study Highlights the Preeminence of 
 [DOI](https://doi.org/10.1093/sysbio/syaf055)
 
 ## 7月
+「ブラウザ上のClipKIT：系統学のためのマルチプルアライメントの高速なオンラインでのトリミング」（オープンアクセス）  
+ClipKIT in the browser: fast online trimming of multiple sequence alignments for phylogenetics (Steenwyk et al., 2025, *Nucleic Acids Research*)  
+[DOI](https://doi.org/10.1093/nar/gkaf325)
+
 「内部的な化石制約の方が異なるゲノム系統学的データの種類よりもクラウン古顎類の年代推定に大きな影響を与える」（オープンアクセス）  
 Internal fossil constraints have more effect on the age estimates of crown Palaeognathae than different phylogenomic data type (Selvatti & Takezaki, 2025, *Frontiers in Bioinformatics*)  
 [DOI](https://doi.org/10.3389/fbinf.2025.1563786)

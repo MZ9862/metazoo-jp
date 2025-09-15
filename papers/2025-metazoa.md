@@ -718,7 +718,7 @@ Enigmatic discoidal macrofossils with central ring from the Ediacaran Jiangchuan
 Chert Lagerstätten as a new window to the biological revolution across the Ediacaran−Cambrian boundary (Luo & Zhu, 2025, *Geology*)  
 [DOI](https://doi.org/10.1130/G52956.1)
 
-「箒虫動物の幼生の触手の構造とそれらの変態による再構築、そして触手冠動物の起源のシナリオ」（オープンアクセス）  
+「箒虫動物の幼生の触手の構造とそれらの変態による再構築、そして触手冠の起源のシナリオ」（オープンアクセス）  
 Organization of phoronid larval tentacles, their metamorphic remodeling, and a scenario of the lophophore origin (Temereva, 2025, *Invertebrate Zoology*)  
 [DOI](https://doi.org/10.15298/invertzool.22.1.12)
 

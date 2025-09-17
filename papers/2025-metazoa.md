@@ -8,15 +8,10 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年9月15日</div>
-<div style="text-align: right;">最終確認日：2025年9月15日</div><br>
+<div style="text-align: right;">最終追加日：2025年9月17日</div>
+<div style="text-align: right;">最終確認日：2025年9月17日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
-
-## 未公開
-「動物の系統分類進化学」（書籍［教科書］・日本語）  
-（朝倉ら，2025，丸善出版）  
-[Amazon URL](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)
 
 ## 10月以降（公開はされている）
 「カンブリア爆発はいかにして起こったか：科学史と生命史における偶然性」  
@@ -24,11 +19,28 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
 
 ## 9月
+「動物の系統分類進化学」（書籍［教科書］・日本語）  
+（朝倉ら，2025，丸善出版）  
+[Amazon URL](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)
+
+「『バタフライアニマル』，新属新種*Papiliomaris kluessendorfae*：Waukesha biotaからの二枚の殻を持つ謎めいた節足動物」（オープンアクセス）  
+The ‘butterfly animal,’ *Papiliomaris kluessendorfae* n. gen. n. sp.: An enigmatic bivalved arthropod of the Waukesha biota (Anderson et al., 2025, *Journal of Paleontology*)  
+[DOI](https://doi.org/10.1017/jpa.2025.10102)
+
+「ニューファンドランド（カナダ）のエディアカラン系からの新属新種大型化石*Lydonia jiggamintia*：偽化石から後生動物グレードの生物へ」（オープンアクセス）  
+The macrofossil *Lydonia jiggamintia* gen. et sp. nov. from the Ediacaran of Newfoundland (Canada): From pseudofossil to metazoan-grade organism (Pasinetti et al., 2025, *Palaeontologia Electronica*)  
+[DOI（2025年9月17日現在無効）](https://doi.org/10.26879/1386)  
+[URL](https://palaeo-electronica.org/content/2025/5594-lydonia-jiggamintia)
+
+「無肺類のクモガタ類の多分岐の解決のための，系統的形質の情報源としてのゲノム構造の探究」  
+Exploring genome architecture as a source of phylogenetic characters for resolving the apulmonate arachnid polytomy (Klementz et al., 2025, *Molecular Phylogenetics and Evolution*)  
+[DOI](https://doi.org/10.1016/j.ympev.2025.108380)
+
 「祖先多型のソーティングおよびそれの形態系統学と大進化への影響」（オープンアクセス）  
 Sorting of ancestral polymorphism and its impact on morphological phylogenetics and macroevolution (Parins-Fukuchi, 2025, *Evolution*)  
 [DOI](https://doi.org/10.1093/evolut/qpaf177)
 
-「中国南部のカンブリア紀前期のQingxi Formationからの珪質の海綿化石」  
+「中国南部のカンブリア紀前期のQingxi Formationからの珪質のカイメン化石」  
 Siliceous sponge fossils from the early Cambrian Qingxi Formation in South China (Cao et al., 2025, *Palaeoworld*)  
 [DOI](https://doi.org/10.1016/j.palwor.2025.201013)
 

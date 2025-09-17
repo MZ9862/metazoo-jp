@@ -19,6 +19,10 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
 
 ## 9月
+「ジョージナ盆地南東部（オーストラリア，クイーンズランド州）の，カンブリア紀シリーズ2（ステージ4）からミャオリンギアン（ウリューアン）のThorntonia Limestoneの生物層序および対比」（オープンアクセス）  
+Biostratigraphy and correlation of the Cambrian Series 2 (Stage 4) to Miaolingian (Wuliuan) Thorntonia Limestone, south-eastern Georgina Basin (Queensland, Australia) (Betts et al., 2025, *Papers in Palaeontology*)  
+[DOI](https://doi.org/10.1002/spp2.70028)
+
 「動物の系統分類進化学」（書籍［教科書］・日本語）  
 （朝倉ら，2025，丸善出版）  
 [Amazon URL](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)

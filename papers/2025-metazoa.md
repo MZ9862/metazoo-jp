@@ -41,8 +41,7 @@ The ‘butterfly animal,’ *Papiliomaris kluessendorfae* n. gen. n. sp.: An eni
 
 「ニューファンドランド（カナダ）のエディアカラン系からの新属新種大型化石*Lydonia jiggamintia*：偽化石から後生動物グレードの生物へ」（オープンアクセス）  
 The macrofossil *Lydonia jiggamintia* gen. et sp. nov. from the Ediacaran of Newfoundland (Canada): From pseudofossil to metazoan-grade organism (Pasinetti et al., 2025, *Palaeontologia Electronica*)  
-[DOI（2025年9月17日現在無効）](https://doi.org/10.26879/1386)  
-[URL](https://palaeo-electronica.org/content/2025/5594-lydonia-jiggamintia)
+[DOI](https://doi.org/10.26879/1386)
 
 「無肺類のクモガタ類の多分岐の解決のための，系統的形質の情報源としてのゲノム構造の探究」  
 Exploring genome architecture as a source of phylogenetic characters for resolving the apulmonate arachnid polytomy (Klementz et al., 2025, *Molecular Phylogenetics and Evolution*)  

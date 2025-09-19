@@ -47,7 +47,7 @@ Biostratigraphy and correlation of the Cambrian Series 2 (Stage 4) to Miaoli
 The ‘butterfly animal,’ *Papiliomaris kluessendorfae* n. gen. n. sp.: An enigmatic bivalved arthropod of the Waukesha biota (Anderson et al., 2025, *Journal of Paleontology*)  
 [DOI](https://doi.org/10.1017/jpa.2025.10102)
 
-「ニューファンドランド（カナダ）のエディアカラン系からの新属新種大型化石*Lydonia jiggamintia*：偽化石から後生動物グレードの生物へ」（オープンアクセス）  
+「ニューファンドランド島（カナダ）のエディアカラン系からの新属新種大型化石*Lydonia jiggamintia*：偽化石から後生動物グレードの生物へ」（オープンアクセス）  
 The macrofossil *Lydonia jiggamintia* gen. et sp. nov. from the Ediacaran of Newfoundland (Canada): From pseudofossil to metazoan-grade organism (Pasinetti et al., 2025, *Palaeontologia Electronica*)  
 [DOI](https://doi.org/10.26879/1386)
 

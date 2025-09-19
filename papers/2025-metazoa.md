@@ -23,6 +23,10 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 Branched Setae or Attached Macroalgae: A Case Study of an Exceptionally Preserved Brachiopod from the Early Cambrian Chengjiang Lagerstätte (Liang et al., 2025, *Biology*)  
 [DOI](https://doi.org/10.3390/biology14091287)
 
+「ユタ州のカンブリア系（ミャオリンギアン，ウリューアン）からの未詳な軟体性の化石」（オープンアクセス）  
+A problematic soft-bodied fossil from the Cambrian (Miaolingian, Wuliuan) of Utah (Kimmig et al., 2025, *Geological Magazine*)  
+[DOI](https://doi.org/10.1017/S0016756825100265)
+
 「HIPSTR：TreeAnnotator Xにおける最高独立事後部分木再構築」（オープンアクセス）  
 HIPSTR: highest independent posterior subtree reconstruction in TreeAnnotator X (Baele et al., 2025, *Bioinformatics*)  
 [DOI](https://doi.org/10.1093/bioinformatics/btaf488)

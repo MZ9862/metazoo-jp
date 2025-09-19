@@ -671,7 +671,7 @@ A reappraisal of the early Cambrian artiopod *Acanthomeridion serratum* reveals 
 Fortunian archaeocyath sponges acquired biomineralization in the beginning of the Cambrian explosion (Wang et al., 2025, *Geology*)  
 [DOI](https://doi.org/10.1130/G53249.1)
 
-「生命の樹：科学最大の謎を解く」（書籍・Kindle版あり）  
+「生命の樹：科学最大のパズルを解く」（書籍・Kindle版あり）  
 The Tree of Life: Solving Science's Greatest Puzzle (Telford, 2025, John Murray Publishers Ltd or W. W. Norton & Company)  
 [Amazon URL 1](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1399806378)  
 [Amazon URL 2](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1324065427)

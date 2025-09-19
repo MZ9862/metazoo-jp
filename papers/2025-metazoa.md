@@ -681,7 +681,7 @@ StratoBayes: A Bayesian method for automated stratigraphic correlation and age m
 [DOI](https://doi.org/10.5194/egusphere-2025-1355)
 
 「堅牢な系統学」（プレプリント・閲覧可能）  
-Robust Phylogenetics (Liu et al., 2025, *bioRxiv*)  
+Robust Phylogenetics (Liu et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.04.01.646540)
 
 「IQ-TREE 3：複雑な進化モデルを用いたゲノム系統推論ソフトウェア」（プレプリント・閲覧可能）  

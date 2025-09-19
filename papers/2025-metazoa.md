@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年9月18日</div>
-<div style="text-align: right;">最終確認日：2025年9月18日</div><br>
+<div style="text-align: right;">最終追加日：2025年9月19日</div>
+<div style="text-align: right;">最終確認日：2025年9月19日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -19,6 +19,14 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
 
 ## 9月
+「分岐した剛毛，あるいは付着した大型藻類：カンブリア紀前期の澄江ラーガーシュテッテからの例外的に保存された腕足動物の事例研究」  
+Branched Setae or Attached Macroalgae: A Case Study of an Exceptionally Preserved Brachiopod from the Early Cambrian Chengjiang Lagerstätte (Liang et al., 2025, *Biology*)  
+[DOI](https://doi.org/10.3390/biology14091287)
+
+「HIPSTR：TreeAnnotator Xにおける最高独立事後部分木再構築」（オープンアクセス）  
+HIPSTR: highest independent posterior subtree reconstruction in TreeAnnotator X (Baele et al., 2025, *Bioinformatics*)  
+[DOI](https://doi.org/10.1093/bioinformatics/btaf488)
+
 「大量絶滅が顎口脊椎動物とその近縁群（顎口類）の初期の放散を引き起こした」（プレプリント・閲覧可能）  
 Mass Extinction Triggered the Early Radiations of Jawed Vertebrates and Relatives (Gnathostomes) (Hagiwara & Sallan, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.09.11.673971)
@@ -393,6 +401,22 @@ Coping with Ineffective Overlap in Multilocus Phylogenetics (Silva et al., 2025,
 [DOI](https://doi.org/10.1093/sysbio/syaf044)
 
 ## 6月
+「先カンブリア時代の最後のクラゲ」（オープンアクセス）  
+The last jellyfish of the Precambrian (Ivantsov & Zakrevskaya, 2025, *Invertebrate Zoology*)  
+[DOI](https://doi.org/10.15298/invertzool.22.1.05)
+
+「*Historical Biology*における系統学的研究」（オープンアクセス）  
+Phylogenetic studies at *Historical Biology* (Müller, 2025, *Historical Biology*)  
+[DOI](https://doi.org/10.1080/08912963.2025.2510126)
+
+「インド，Jodhpur GroupのSonia Sandstoneからのエディアカラン紀の化石：新たな発見と解釈」（オープンアクセス）  
+Ediacaran fossils from the Sonia Sandstone, Jodhpur Group, India: New discoveries and interpretations (Ahmad & Pandey, 2025, *Journal of the Palaeontological Society of India*)  
+[DOI](https://doi.org/10.1177/05529360251338480)
+
+「祖先的なボディプランにおける高度な適応戦略：5億1000万年前のLeptomitidae科の海綿動物からの洞察」（プレプリント・閲覧可能）  
+Advanced adaptive strategies in an ancestral body plan: insights from a 510-Ma-old leptomitid sponge (Luo et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.05.30.657026)
+
 「海洋中のBa（バリウム）の除去により，約6億年前の既知最古の動物の海洋居住適正が改善された」  
 Oceanic Ba removal improved marine habitability for the oldest-known animals at ca. 600 Ma (Sui et al., 2025, *Global and Planetary Change*)  
 [DOI](https://doi.org/10.1016/j.gloplacha.2025.104790)
@@ -581,6 +605,14 @@ guoyi.run: One-step TNT script for maximum parsimony phylogenetic analysis (Zhan
 [DOI](https://doi.org/10.11646/zootaxa.5642.1.10)  
 [ResearchGate全文PDF](https://www.researchgate.net/publication/392103254_guoyirun_One-step_TNT_script_for_maximum_parsimony_phylogenetic_analysis)
 
+「（過剰な）最適化を回避するための早期停止による最尤系統推定の高速化」（オープンアクセス）  
+Accelerating Maximum Likelihood Phylogenetic Inference via Early Stopping to Evade (Over-)optimization (Togkousidis et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf043)
+
+「過去が消え去る時：SatuTeによる系統的シグナルの検出」（オープンアクセス）  
+When the Past Fades: Detecting Phylogenetic Signal with SatuTe (Manuel et al., 2025, *Molecular Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/molbev/msaf090)
+
 ## 4月
 「序論：*Paleobiology*の50年」（オープンアクセス）  
 Introduction: Fifty years of *Paleobiology* (Patzkowsky & Kiessling, 2025, *Paleobiology*)  
@@ -635,7 +667,7 @@ Symbiotic interactions on middle Cambrian echinoderms reveal the oldest parasiti
 A new morphological phylogeny of Malacostraca comparing the application of character dependencies and implied weighting (Grams et al., 2025, *Cladistics*)  
 [DOI](https://doi.org/10.1111/cla.12611)
 
-「形態データ、ゲノム系統学、そして反抗的なノード」  
+「形態データ、ゲノム系統学、そして解決困難なノード」  
 Morphological data, phylogenomics and recalcitrant nodes (DeSalle & Tessler, 2025, *Cladistics*)  
 [DOI](https://doi.org/10.1111/cla.12615)
 
@@ -697,6 +729,14 @@ Astronomically calibrating early Ediacaran evolution (Zhang et al., 2025, *Natur
 [DOI](https://doi.org/10.1038/s41467-025-57201-1)
 
 ## 3月
+「エビの腐敗実験により，節足動物の付属肢の化石化の可能性についての洞察が提供される」（オープンアクセス）  
+Decay experiments on shrimps provide insight into the fossilization potential of arthropod appendages (Corthésy et al., 2025, *Open Palaeontology*)  
+[DOI](https://doi.org/10.26034/la.opal.2025.7073)
+
+「初期の真核生物の多様性：総説と再解釈」（オープンアクセス）  
+Early eukaryote diversity: a review and a reinterpretation (Porter et al., 2025, *Paleobiology*)  
+[DOI](https://doi.org/10.1017/pab.2024.33)
+
 「分子進化遺伝学的解析のための最適な塩基置換モデルの選択におけるソフトウェアと基準の影響」（オープンアクセス）  
 The impact of software and criteria on the selection of best-fit nucleotide substitution models for molecular evolutionary genetic analysis (Li et al., 2025, *PLoS ONE*)  
 [DOI](https://doi.org/10.1371/journal.pone.0319774)
@@ -762,6 +802,10 @@ Growth of the enigmatic Ediacaran *Parvancorina minchami* (Ivantsov et al., 2025
 [DOI](https://doi.org/10.1017/pab.2024.55)
 
 ## 2月
+「msp130遺伝子の水平伝播および後生動物の生物石灰化の進化」（オープンアクセス）  
+Horizontal Transfer of msp130 Genes and the Evolution of Metazoan Biocalcification (Chess et al., 2025, *Genome Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/gbe/evaf028)
+
 「北グリーンランド（ローレンシア大陸）のSæterdal Formation（カンブリア紀シリーズ2、ステージ4）における動物相」（オープンアクセス）  
 Fauna of the Sæterdal Formation (Cambrian Series 2, Stage 4) of North Greenland (Laurentia) (Peel, 2025, *Bulletin of the Geological Society of Denmark*)  
 [DOI](https://doi.org/10.37570/bgsd-2025-74-01)

@@ -405,7 +405,7 @@ Coping with Ineffective Overlap in Multilocus Phylogenetics (Silva et al., 2025,
 [DOI](https://doi.org/10.1093/sysbio/syaf044)
 
 ## 6月
-「先カンブリア時代の最後のクラゲ」（オープンアクセス）  
+「先カンブリア時代の最後に残ったクラゲ」（オープンアクセス）  
 The last jellyfish of the Precambrian (Ivantsov & Zakrevskaya, 2025, *Invertebrate Zoology*)  
 [DOI](https://doi.org/10.15298/invertzool.22.1.05)
 

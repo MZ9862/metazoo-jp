@@ -429,7 +429,7 @@ Oceanic Ba removal improved marine habitability for the oldest-known animals at 
 Newly Developed Structure-Based Methods Do Not Outperform Standard Sequence-Based Methods for Large-Scale Phylogenomics (Mutti et al., 2025, *Molecular Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/molbev/msaf149)
 
-「構造系統学のための一般的な置換マトリックス」（オープンアクセス）  
+「構造系統学のための普遍的な置換マトリックス」（オープンアクセス）  
 A General Substitution Matrix for Structural Phylogenetics (Garg & Hochberg, 2025, *Molecular Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/molbev/msaf124)
 

@@ -445,7 +445,7 @@ Rare Evolutionary Events Support the Phylogenetic Placement of Orthonectida With
 The first record of a possible 'priapulid' from the lower Cambrian (Series 2) of Estonia (Vinn et al., 2025, *Carnets Geol.*)  
 [DOI](https://doi.org/10.2110/carnets.2025.2508)
 
-「鰓脚類の多様化の時間樹的な解決策を目指して：化石年代の事前分布に対するジャックナイフ評価」  
+「鰓脚類の多様化の時間樹的な解決策を目指して：化石年代の事前分布に対するジャックナイフ評価」（オープンアクセス）  
 Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors (Rhigetti et al., 2025, *Palaeoentomology*)  
 [DOI](https://doi.org/10.11646/palaeoentomology.8.3.8)
 

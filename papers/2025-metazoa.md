@@ -380,7 +380,7 @@ Metazoa – Morphology and Evolution of Animals: A Practical Guide to the Dissec
 A fossilized ventral ganglion reveals a chaetognath affinity for Cambrian nectocaridids (Vinther et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adu6990)
 
-「*Palaeocampa anthrax*、石炭紀からの化学的防御を備えた、装甲を持つ淡水性の葉足動物」（オープンアクセス）  
+「*Palaeocampa anthrax*，石炭紀からの，化学的防御を備えた，装甲を持つ淡水性の葉足動物」（オープンアクセス）  
 *Palaeocampa anthrax*, an armored freshwater lobopodian with chemical defenses from the Carboniferous (Knecht et al., 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-08483-0)
 

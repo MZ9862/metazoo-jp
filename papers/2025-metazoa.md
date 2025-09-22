@@ -274,7 +274,7 @@ Towards a comprehensive anatomical matrix for crown birds: phylogenetic insights
 New occurrence of the Guanshan Biota (Cambrian, *Stage 4*) in the Malong-Yiliang area, eastern Yunnan, South China (Yang et al., 2025, *Historical Biology*)  
 [DOI](https://doi.org/10.1080/08912963.2025.2539302)
 
-「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
+「海産無脊椎動物幼生のアトラス 第2版」（書籍）  
 Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), 2025, Academic Press)  
 [DOI](https://doi.org/10.1016/C2018-0-00366-7)
 

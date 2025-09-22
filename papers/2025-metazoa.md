@@ -18,6 +18,10 @@ lang: ja_JP
 How the cambrian exploded: Contingency in the history of science and life (Dresow, 2025, *Studies in History and Philosophy of Science*)  
 [DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
 
+「古生代初期からの*Skolithos linearis*：鰓曳動物の巣穴？」  
+*Skolithos linearis* from the early Palaeozoic: The burrow of a priapulid? (Knaust, 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
+[DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
+
 ## 9月
 「分岐した剛毛，あるいは付着した大型藻類：カンブリア紀前期の澄江ラーガーシュテッテからの例外的に保存された腕足動物の事例研究」  
 Branched Setae or Attached Macroalgae: A Case Study of an Exceptionally Preserved Brachiopod from the Early Cambrian Chengjiang Lagerstätte (Liang et al., 2025, *Biology*)  
@@ -249,6 +253,10 @@ Modeling site-and-branch-heterogeneity with GFmix (McCarthy et al., 2025 preprin
 But the Clock, Tick-Tock: An Empirical Case Study Highlights the Preeminence of Relaxed Clock Models in Total-Evidence Dating (Mongiardino Koch et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf055)
 
+「後口動物クレードはアーティファクトか？」（オープンアクセス）  
+Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.06.045)
+
 ## 7月
 「piqtree：IQ-TREEによるシームレスな系統推論のためのPythonパッケージ」（プレプリント・閲覧可能）  
 piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE (McArthur et al., 2025 preprint, *bioRxiv*)  
@@ -301,14 +309,6 @@ Molecular Clock Dating of Deep-Time Evolution Using Complex Mixture Models (Wang
 「ASTER：大規模なゲノム系統学的復元のためのパッケージ」（オープンアクセス）  
 ASTER: A Package for Large-scale Phylogenomic Reconstructions (Zhang et al., 2025, *Molecular Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/molbev/msaf172)
-
-「古生代初期からの*Skolithos linearis*：鰓曳動物の巣穴？」  
-*Skolithos linearis* from the early Palaeozoic: The burrow of a priapulid? (Knaust, 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
-[DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
-
-「後口動物クレードはアーティファクトか？」（オープンアクセス）  
-Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biology*)  
-[DOI](https://doi.org/10.1016/j.cub.2025.06.045)
 
 「Příbram–Jince盆地の下部Jince Formation（カンブリア紀，ミャオリンギアン）からの*Hallucigenia*様葉足動物の初記録」（オープンアクセス）  
 The first record of *Hallucigenia*-like lobopodians from the lower Jince Formation (Cambrian, Miaolingian) of the Příbram–Jince Basin (Kovář & Fatka, 2025, *Swiss Journal of Palaeontology*)  

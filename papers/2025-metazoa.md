@@ -95,6 +95,10 @@ Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmenta
 Assessing the impact of character evolution models on phylogenetic and macroevolutionary inferences from fossil data (Wright & Hopkins, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2024.12.23.630137)
 
+「sparse learningによる系統的に有益なアライメント座位の効率的な識別」（プレプリント・閲覧可能）  
+Efficient Identification of Phylogenetically Informative Alignment Sites via Sparse Learning (Schrago, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.07.24.666198)
+
 ## 8月
 カラー図解 水の中の小さな美しい生き物たち: 小型ベントス・プランクトン百科（書籍［図鑑］・日本語）  
 （仲村ほか編，2025，朝倉書店）  
@@ -270,12 +274,8 @@ Towards a comprehensive anatomical matrix for crown birds: phylogenetic insights
 New occurrence of the Guanshan Biota (Cambrian, *Stage 4*) in the Malong-Yiliang area, eastern Yunnan, South China (Yang et al., 2025, *Historical Biology*)  
 [DOI](https://doi.org/10.1080/08912963.2025.2539302)
 
-「sparse learningによる系統的に有益なアライメント座位の効率的な識別」（プレプリント・閲覧可能）  
-Efficient Identification of Phylogenetically Informative Alignment Sites via Sparse Learning (Schrago, 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.07.24.666198)
-
 「海洋無脊椎動物幼生のアトラス 第2版」（書籍）  
-Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), Academic Press)  
+Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), 2025, Academic Press)  
 [DOI](https://doi.org/10.1016/C2018-0-00366-7)
 
 「カンブリア紀のChancelloriida類の骨片における、上皮細胞によって制御された有機テンプレートの例外的な保存」（オープンアクセス）  

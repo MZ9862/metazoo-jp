@@ -355,7 +355,7 @@ Ediacaran enigma: uncertainty and underdetermination in precambrian paleontology
 BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference (Baele et al., 2025, *Nature Methods*)  
 [DOI](https://doi.org/10.1038/s41592-025-02751-x)
 
-「グランドキャニオン（アメリカ合衆国、アリゾナ州）からの例外的に保存されたカンブリア紀の生物群における進化的加速」（オープンアクセス）  
+「グランドキャニオン（アメリカ合衆国、アリゾナ州）からの例外的に保存されたカンブリア紀の生物群における進化的エスカレーション」（オープンアクセス）  
 Evolutionary escalation in an exceptionally preserved Cambrian biota from the Grand Canyon (Arizona, USA) (Mussini et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adv6383)
 

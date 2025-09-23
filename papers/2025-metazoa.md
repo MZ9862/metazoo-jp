@@ -200,7 +200,7 @@ Constraining the lifespans of early animals of the Ediacaran (Mitchell & Dhungan
 Mobility of Ediacaran organisms: A review (Retallack, 2025, *Journal of the Palaeontological Society of India*)  
 [DOI](https://doi.org/10.1177/05529360251353060)
 
-「古生物学：初期の棘皮動物の問題を正す」  
+「古生物学：初期の棘皮動物を整理する」  
 Palaeontology: Straightening out early echinoderms (Budd, 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.07.034)
 

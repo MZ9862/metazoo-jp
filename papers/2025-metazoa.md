@@ -534,7 +534,7 @@ Track record: unexpectedly early reptile claw prints found (Sumida, 2025, *Natur
 
 「感覚を持つ歯の構造の進化的起源」（ResearchGateから全文のPDFが入手可能）  
 The evolutionary origin of sensitive dental structures (Houée & Janvier, 2025, *Nature*)  
-[DOI](https://doi.org/10.1038/d41586-025-02423-y)  
+[DOI](https://doi.org/10.1038/d41586-025-01139-3)  
 [ResearchGate全文PDF](https://www.researchgate.net/publication/391949327_The_evolutionary_origin_of_sensitive_dental_structures)
 
 「モデルベースの構造系統学のための3次元3次相互作用の形質のデータセットの生成のためのパイプライン」（プレプリント・閲覧可能）  

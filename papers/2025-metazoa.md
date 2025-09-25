@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年9月22日</div>
-<div style="text-align: right;">最終確認日：2025年9月22日</div><br>
+<div style="text-align: right;">最終追加日：2025年9月26日</div>
+<div style="text-align: right;">最終確認日：2025年9月26日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -23,6 +23,14 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
 
 ## 9月
+「系統学における化石末端年代法の実践ガイドおよび総説」（オープンアクセス）  
+Practical Guide and Review of Fossil Tip-Dating in Phylogenetics (Heckeberg et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf050)
+
+「突破口：体が2回対称から5回対称へと進化した過程を示す化石の手掛かり」
+Head start: fossil clues about how bodies evolved from two-fold to five-fold symmetry (Wray, 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/d41586-025-02818-x)
+
 「分岐した剛毛，あるいは付着した大型藻類：カンブリア紀前期の澄江ラーガーシュテッテからの例外的に保存された腕足動物の事例研究」  
 Branched Setae or Attached Macroalgae: A Case Study of an Exceptionally Preserved Brachiopod from the Early Cambrian Chengjiang Lagerstätte (Liang et al., 2025, *Biology*)  
 [DOI](https://doi.org/10.3390/biology14091287)
@@ -104,6 +112,10 @@ Efficient Identification of Phylogenetically Informative Alignment Sites via Spa
 [DOI](https://doi.org/10.1101/2025.07.24.666198)
 
 ## 8月
+「ヤムシ類の理解しがたいボディプランが解読された」  
+The perplexing body plan of arrow worms decoded (Lewin & Luo, 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/d41586-025-02423-y)
+
 カラー図解 水の中の小さな美しい生き物たち: 小型ベントス・プランクトン百科（書籍［図鑑］・日本語）  
 （仲村ほか編，2025，朝倉書店）  
 [Amazon URL](https://www.amazon.co.jp/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9B%B3%E8%A7%A3-%E6%B0%B4%E3%81%AE%E4%B8%AD%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E7%BE%8E%E3%81%97%E3%81%84%E7%94%9F%E3%81%8D%E7%89%A9%E3%81%9F%E3%81%A1-%E5%B0%8F%E5%9E%8B%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%88%E3%83%B3%E7%99%BE%E7%A7%91-%E4%BB%B2%E6%9D%91-%E5%BA%B7%E7%A7%80/dp/4254171951)
@@ -516,6 +528,15 @@ Total-evidence phylogenetic analysis resolves the evolutionary timescale of mant
 [Amazon URL](https://www.amazon.co.jp/dp/4041157293)
 
 ## 5月
+「記録更新：予想外に初期の爬虫類の爪痕が発見された」  
+Track record: unexpectedly early reptile claw prints found (Sumida, 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/d41586-025-01134-8)
+
+「感覚を持つ歯の構造の進化的起源」（ResearchGateから全文のPDFが入手可能）  
+The evolutionary origin of sensitive dental structures (Houée & Janvier, 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/d41586-025-02423-y)  
+[ResearchGate全文PDF](https://www.researchgate.net/publication/391949327_The_evolutionary_origin_of_sensitive_dental_structures)
+
 「モデルベースの構造系統学のための3次元3次相互作用の形質のデータセットの生成のためのパイプライン」（プレプリント・閲覧可能）  
 A Pipeline for Generating Datasets of 3-Dimensional Tertiary Interaction Characters for Model-Based Structural Phylogenetics (Matzke et al., 2025 preprint, *OSF Preprint*)  
 [DOI](https://doi.org/10.31219/osf.io/5uhkx_v1)

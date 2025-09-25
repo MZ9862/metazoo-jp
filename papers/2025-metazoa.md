@@ -27,7 +27,7 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 Practical Guide and Review of Fossil Tip-Dating in Phylogenetics (Heckeberg et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf050)
 
-「突破口：体が2回対称から5回対称へと進化した過程を示す化石の手掛かり」
+「突破口：体が2回対称から5回対称へと進化した過程を示す化石の手掛かり」  
 Head start: fossil clues about how bodies evolved from two-fold to five-fold symmetry (Wray, 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/d41586-025-02818-x)
 

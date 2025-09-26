@@ -36,7 +36,7 @@ Practical Guide and Review of Fossil Tip-Dating in Phylogenetics (Heckeberg et a
 Head start: fossil clues about how bodies evolved from two-fold to five-fold symmetry (Wray, 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/d41586-025-02818-x)
 
-「分岐した剛毛，あるいは付着した大型藻類：カンブリア紀前期の澄江ラーガーシュテッテからの例外的に保存された腕足動物の事例研究」  
+「分岐した剛毛，あるいは付着した大型藻類：カンブリア紀前期の澄江ラーガーシュテッテからの例外的に保存された腕足動物の事例研究」（オープンアクセス）  
 Branched Setae or Attached Macroalgae: A Case Study of an Exceptionally Preserved Brachiopod from the Early Cambrian Chengjiang Lagerstätte (Liang et al., 2025, *Biology*)  
 [DOI](https://doi.org/10.3390/biology14091287)
 

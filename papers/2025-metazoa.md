@@ -23,6 +23,11 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
 
 ## 9月
+「分子系統樹上でのシマミズウドンゲ*Urnatella gracilis* Leidy, 1852の位置により，群体性の内肛動物の体系学に関する見解が変化する」  
+The position of *Urnatella gracilis* Leidy, 1852 on the molecular phylogenetic tree changes the view on the systematics of colonial Entoprocta (Borisanova & Ekimova, 2025, *Invertebrate Zoology*)  
+[DOI（2025年9月26日現在無効）](https://doi.org/10.15298/invertzool.22.3.04)  
+[URL](https://kmkjournals.com/journals/Inv_Zool/IZ_Index_Volumes/IZ_22/IZ_22_3_428_438)
+
 「系統学における化石末端年代法の実践ガイドおよび総説」（オープンアクセス）  
 Practical Guide and Review of Fossil Tip-Dating in Phylogenetics (Heckeberg et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf050)
@@ -112,6 +117,10 @@ Efficient Identification of Phylogenetically Informative Alignment Sites via Spa
 [DOI](https://doi.org/10.1101/2025.07.24.666198)
 
 ## 8月
+「動物分類学と古生物学」（随筆・日本語・オープンアクセス）  
+（西・馬渡，2025，タクサ：日本動物分類学会誌）  
+[DOI](https://doi.org/10.19004/taxa.59.0_58)
+
 「ヤムシ類の理解しがたいボディプランが解読された」  
 The perplexing body plan of arrow worms decoded (Lewin & Luo, 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/d41586-025-02423-y)

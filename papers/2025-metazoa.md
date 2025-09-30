@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年9月26日</div>
-<div style="text-align: right;">最終確認日：2025年9月26日</div><br>
+<div style="text-align: right;">最終追加日：2025年9月30日</div>
+<div style="text-align: right;">最終確認日：2025年9月30日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -23,6 +23,38 @@ How the cambrian exploded: Contingency in the history of science and life (Dreso
 [DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
 
 ## 9月
+「Athyridida（腕足動物）の系統：推論方法の比較」（オープンアクセス）  
+Phylogeny of Athyridida (Brachiopoda): a comparison of methods of inference (Carlson et al., 2025, *Journal of Paleontology*)  
+[DOI](https://doi.org/10.1017/jpa.2025.10159)
+
+「顕生代を通じた海洋生物多様性の駆動要因の解明」（オープンアクセス）  
+Unravelling the drivers of marine biodiversity across the Phanerozoic (Balembois et al., 2025, *Nature Communications*)  
+[DOI](https://doi.org/10.1038/s41467-025-63428-9)
+
+「有爪動物の系統学的研究の再調査により，チクシュルーブ衝突イベントに対する土壌生態系の回復力が明らかになる」（オープンアクセス）  
+A Review of Onychophoran Phylogenic Studies Reveals Resilience of Soil Ecosystems to the Chicxulub Impact Event (Monge-Nájera & Añino, 2025, *Fossil Studies*)  
+[DOI](https://doi.org/10.3390/fossils3040014)
+
+「古生物学における重要な問いの特定：コミュニティ主導のプロジェクト」（オープンアクセス）  
+Identifying the Big Questions in paleontology: a community-driven project (Smith et al., 2025, *Paleobiology*)  
+[DOI](https://doi.org/10.1017/pab.2025.10042)
+
+「有鱗類における進化速度の不一致により，進化的新規性と革新の対照的なパターンが明らかになる」（オープンアクセス）  
+Evolutionary rate incongruences in squamates reveal contrasting patterns of evolutionary novelties and innovation (Simões et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf067)
+
+「系統を再構築するにはいくつの形質が必要か」（プレプリント・閲覧可能）  
+How many characters are needed to reconstruct a phylogeny? (Capobianco, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.09.26.678777)
+
+「カンブリア紀ステージ4のマイクロバイアライトからの，層孔虫類様の堆積物凝集性のカイメン類」（プレプリント・閲覧可能）  
+A stromatoporoid-like sediment-agglutinating sponge from microbialites of Cambrian Stage 4 (Luo et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.09.25.678569)
+
+「カイメン類由来のC<sub>31</sub>ステロールおよび新原生代の化石ステラン対照物の化学的特徴づけ」  
+Chemical characterization of C<sub>31</sub> sterols from sponges and Neoproterozoic fossil sterane counterparts (Shawar et al., 2025, *Proceedings of the National Academy of Sciences*)  
+[DOI](https://doi.org/10.1073/pnas.2503009122)
+
 「分子系統樹上でのシマミズウドンゲ*Urnatella gracilis* Leidy, 1852の位置により，群体性の内肛動物の体系学に関する見解が変化する」  
 The position of *Urnatella gracilis* Leidy, 1852 on the molecular phylogenetic tree changes the view on the systematics of colonial Entoprocta (Borisanova & Ekimova, 2025, *Invertebrate Zoology*)  
 [DOI（2025年9月26日現在無効）](https://doi.org/10.15298/invertzool.22.3.04)  

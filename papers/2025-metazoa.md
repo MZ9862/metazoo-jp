@@ -55,7 +55,7 @@ A stromatoporoid-like sediment-agglutinating sponge from microbialites of Cambri
 Chemical characterization of C<sub>31</sub> sterols from sponges and Neoproterozoic fossil sterane counterparts (Shawar et al., 2025, *Proceedings of the National Academy of Sciences*)  
 [DOI](https://doi.org/10.1073/pnas.2503009122)
 
-「分子系統樹上でのシマミズウドンゲ*Urnatella gracilis* Leidy, 1852の位置により，群体性の内肛動物の体系学に関する見解が変化する」  
+「分子系統樹上でのシマミズウドンゲ*Urnatella gracilis* Leidy, 1852の位置により，群体性の内肛動物の体系学に関する見解が変化する」（オープンアクセス）  
 The position of *Urnatella gracilis* Leidy, 1852 on the molecular phylogenetic tree changes the view on the systematics of colonial Entoprocta (Borisanova & Ekimova, 2025, *Invertebrate Zoology*)  
 [DOI（2025年9月26日現在無効）](https://doi.org/10.15298/invertzool.22.3.04)  
 [URL](https://kmkjournals.com/journals/Inv_Zool/IZ_Index_Volumes/IZ_22/IZ_22_3_428_438)

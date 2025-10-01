@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月1日</div>
-<div style="text-align: right;">最終確認日：2025年10月1日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月2日</div>
+<div style="text-align: right;">最終確認日：2025年10月2日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「最初のヒル類の体化石は，推定されているヒル類の起源年代よりも2億年古い」（オープンアクセス）  
+The first leech body fossil predates estimated hirudinidan origins by 200 million years (de Carle et al., 2025, *PeerJ*)  
+[DOI](https://doi.org/10.7717/peerj.19962)
+
 「カンブリア爆発はいかにして起こったか：科学史と生命史における偶然性」  
 How the cambrian exploded: Contingency in the history of science and life (Dresow, 2025, *Studies in History and Philosophy of Science*)  
 [DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)

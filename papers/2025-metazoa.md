@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「カンブリア紀前期のGuanshan Biotaからの新たなカイメン類（Ascospongiae）」  
+A new sponge (Ascospongiae) from the early Cambrian Guanshan Biota (Zou et al., 2025, *Palaeoworld*)  
+[DOI](https://doi.org/10.1016/j.palwor.2025.201032)
+
 「最初のヒル類の体化石は，推定されているヒル類の起源年代よりも2億年古い」（オープンアクセス）  
 The first leech body fossil predates estimated hirudinidan origins by 200 million years (de Carle et al., 2025, *PeerJ*)  
 [DOI](https://doi.org/10.7717/peerj.19962)

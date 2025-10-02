@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月2日</div>
-<div style="text-align: right;">最終確認日：2025年10月2日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月3日</div>
+<div style="text-align: right;">最終確認日：2025年10月3日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -159,6 +159,11 @@ Assessing the impact of character evolution models on phylogenetic and macroevol
 「sparse learningによる系統的に有益なアライメント座位の効率的な識別」（プレプリント・閲覧可能）  
 Efficient Identification of Phylogenetically Informative Alignment Sites via Sparse Learning (Schrago, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.24.666198)
+
+「ミトコンドリアのCO1および16S rRNA遺伝子配列に基づく多毛類の系統解析」（オープンアクセス）  
+A phylogenetic analysis of the polychaeta based on mitochondrial CO1 and 16S rRNA gene sequences (Corpuz et al., 2025, *Journal of Applied Biological Sciences*)  
+[DOI（2025年10月3日現在無効）](https://doi.org/10.71336/jabs.1454)  
+[URL](https://www.jabsonline.org/index.php/jabs/article/view/1454)
 
 ## 8月
 「動物分類学と古生物学」（随筆・日本語・オープンアクセス）  

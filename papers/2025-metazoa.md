@@ -479,6 +479,10 @@ Coping with Ineffective Overlap in Multilocus Phylogenetics (Silva et al., 2025,
 [DOI](https://doi.org/10.1093/sysbio/syaf044)
 
 ## 6月
+「群体構造を持つ新たなベンド紀の後生動物」  
+New Vendian Metazoa with Colonial Organization (Luzhnaya, 2025, *Paleontological Journal*)  
+[DOI](https://doi.org/10.1134/S0031030125600027)
+
 「先カンブリア時代の最後に残ったクラゲ」（オープンアクセス）  
 The last jellyfish of the Precambrian (Ivantsov & Zakrevskaya, 2025, *Invertebrate Zoology*)  
 [DOI](https://doi.org/10.15298/invertzool.22.1.05)

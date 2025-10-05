@@ -8,12 +8,17 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月3日</div>
-<div style="text-align: right;">最終確認日：2025年10月3日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月5日</div>
+<div style="text-align: right;">最終確認日：2025年10月5日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「新属新種*Oura megale*，デルタ型の尾部を持つ，カンブリア紀前期の大型のdeuteropod」（オープンアクセス）  
+*Oura megale* n. gen. n. sp., a large early Cambrian deuteropod with a delta-shaped tailpiece (O'Flynn et al., 2025, *Palaeontologia Electronica*)  
+[DOI（2025年10月5日現在無効）](https://doi.org/10.26879/1547)  
+[URL](https://palaeo-electronica.org/content/2025/5687-early-cambrian-deuteropod-oura-megale)
+
 「カンブリア紀前期のGuanshan Biotaからの新たなカイメン類（Ascospongiae）」  
 A new sponge (Ascospongiae) from the early Cambrian Guanshan Biota (Zou et al., 2025, *Palaeoworld*)  
 [DOI](https://doi.org/10.1016/j.palwor.2025.201032)

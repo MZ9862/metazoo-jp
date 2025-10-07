@@ -24,8 +24,7 @@ Identifying sets of phylogenetically informative markers for *Anastrepha* (Dipte
 
 「新属新種*Oura megale*，デルタ型の尾部を持つ，カンブリア紀前期の大型のdeuteropod」（オープンアクセス）  
 *Oura megale* n. gen. n. sp., a large early Cambrian deuteropod with a delta-shaped tailpiece (O'Flynn et al., 2025, *Palaeontologia Electronica*)  
-[DOI（2025年10月5日現在無効）](https://doi.org/10.26879/1547)  
-[URL](https://palaeo-electronica.org/content/2025/5687-early-cambrian-deuteropod-oura-megale)
+[DOI](https://doi.org/10.26879/1547)
 
 「カンブリア紀前期のGuanshan Biotaからの新たなカイメン類（Ascospongiae）」  
 A new sponge (Ascospongiae) from the early Cambrian Guanshan Biota (Zou et al., 2025, *Palaeoworld*)  

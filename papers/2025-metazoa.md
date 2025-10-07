@@ -500,10 +500,6 @@ Coping with Ineffective Overlap in Multilocus Phylogenetics (Silva et al., 2025,
 New Vendian Metazoa with Colonial Organization (Luzhnaya, 2025, *Paleontological Journal*)  
 [DOI](https://doi.org/10.1134/S0031030125600027)
 
-「先カンブリア時代の最後に残ったクラゲ」（オープンアクセス）  
-The last jellyfish of the Precambrian (Ivantsov & Zakrevskaya, 2025, *Invertebrate Zoology*)  
-[DOI](https://doi.org/10.15298/invertzool.22.1.05)
-
 「*Historical Biology*における系統学的研究」（オープンアクセス）  
 Phylogenetic studies at *Historical Biology* (Müller, 2025, *Historical Biology*)  
 [DOI](https://doi.org/10.1080/08912963.2025.2510126)
@@ -912,6 +908,10 @@ Organization of phoronid larval tentacles, their metamorphic remodeling, and a s
 「謎めいたエディアカラン紀の*Parvancorina minchami*の成長」（オープンアクセス）  
 Growth of the enigmatic Ediacaran *Parvancorina minchami* (Ivantsov et al., 2025, *Paleobiology*)  
 [DOI](https://doi.org/10.1017/pab.2024.55)
+
+「先カンブリア時代の最後に残ったクラゲ」（オープンアクセス）  
+The last jellyfish of the Precambrian (Ivantsov & Zakrevskaya, 2025, *Invertebrate Zoology*)  
+[DOI](https://doi.org/10.15298/invertzool.22.1.05)
 
 ## 2月
 「msp130遺伝子の水平伝播および後生動物の生物石灰化の進化」（オープンアクセス）  

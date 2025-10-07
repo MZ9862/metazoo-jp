@@ -8,12 +8,20 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月5日</div>
-<div style="text-align: right;">最終確認日：2025年10月5日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月7日</div>
+<div style="text-align: right;">最終確認日：2025年10月7日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「なぜ系統学を用いずに新たな分類群を記載すべきではないか．Chen *et al.* (2025) へのコメント」  
+Why we should not describe new taxa without using phylogenetics. Comment on Chen *et al.* (2025) (Zhang & Feng, 2025, *Journal of Natural History*)  
+[DOI](https://doi.org/10.1080/00222933.2025.2564347)
+
+「*Anastrepha*（双翅類：ミバエ科）の系統的に有益なマーカーセットの特定」（オープンアクセス）  
+Identifying sets of phylogenetically informative markers for *Anastrepha* (Diptera: Tephritidae) (de Brito et al., 2025, *Scientific Reports*)  
+[DOI](https://doi.org/10.1038/s41598-025-16399-2)
+
 「新属新種*Oura megale*，デルタ型の尾部を持つ，カンブリア紀前期の大型のdeuteropod」（オープンアクセス）  
 *Oura megale* n. gen. n. sp., a large early Cambrian deuteropod with a delta-shaped tailpiece (O'Flynn et al., 2025, *Palaeontologia Electronica*)  
 [DOI（2025年10月5日現在無効）](https://doi.org/10.26879/1547)  
@@ -171,6 +179,10 @@ A phylogenetic analysis of the polychaeta based on mitochondrial CO1 and 16S rRN
 [URL](https://www.jabsonline.org/index.php/jabs/article/view/1454)
 
 ## 8月
+「組み換えと系統推論」（オープンアクセス）  
+Recombination and phylogenetic inference (Rannala, 2025, *Evolutionary Journal of the Linnean Society*)  
+[DOI](https://doi.org/10.1093/evolinnean/kzaf016)
+
 「動物分類学と古生物学」（随筆・日本語・オープンアクセス）  
 （西・馬渡，2025，タクサ：日本動物分類学会誌）  
 [DOI](https://doi.org/10.19004/taxa.59.0_58)
@@ -593,6 +605,10 @@ Total-evidence phylogenetic analysis resolves the evolutionary timescale of mant
 ゆびでたどる進化のえほん（書籍［絵本］・日本語）  
 （三上監修・著，2025，KADOKAWA）  
 [Amazon URL](https://www.amazon.co.jp/dp/4041157293)
+
+「エディアカラン紀の移動性の生痕化石の形態の定量的解読：細長い前後軸の体形の出現の証拠」（オープンアクセス）  
+Quantitative decoding of Ediacaran locomotory trace fossil morphologies: Evidence for the emergence of slender anterior-posterior body profiles (Wang & Miguez-Salas, 2025, *Geology*)  
+[DOI](https://doi.org/10.1130/G53332.1)
 
 ## 5月
 「記録更新：予想外に初期の爬虫類の爪痕が発見された」  

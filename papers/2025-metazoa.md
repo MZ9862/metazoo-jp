@@ -8,12 +8,22 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月7日</div>
-<div style="text-align: right;">最終確認日：2025年10月7日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月8日</div>
+<div style="text-align: right;">最終確認日：2025年10月8日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「カンブリア紀前期のGuanshan Biotaからの*Corynetis*の新たな観察結果は，穴を掘る生活を反映している」（オープンアクセス）  
+New observation on *Corynetis* from the early Cambrian Guanshan Biota reflect burrowing life (Liu & Liu, 2025, *Royal Society Open Science*)  
+[DOI](https://doi.org/10.1098/rsos.251357)
+
+「系統生物学」（オンライン書籍［教科書］・オープンアクセス）  
+Phylogenetic Biology (Dunn, 2025)  
+[HTML](https://dunnlab.org/phylogenetic_biology/)  
+[GitHub](https://github.com/caseywdunn/phylogenetic_biology)  
+[DOI](https://zenodo.org/records/17267994)
+
 「なぜ系統学を用いずに新たな分類群を記載すべきではないか．Chen *et al.* (2025) へのコメント」（ResearchGateから全文のPDFが入手可能）  
 Why we should not describe new taxa without using phylogenetics. Comment on Chen *et al.* (2025) (Zhang & Feng, 2025, *Journal of Natural History*)  
 [DOI](https://doi.org/10.1080/00222933.2025.2564347)  

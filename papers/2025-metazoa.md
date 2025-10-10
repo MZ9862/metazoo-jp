@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月8日</div>
-<div style="text-align: right;">最終確認日：2025年10月8日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月10日</div>
+<div style="text-align: right;">最終確認日：2025年10月10日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「隠された繋がりを明らかに：半索動物と脊椎動物は驚くべきミトコンドリアの類似性を共有する」（オープンアクセス）  
+Unveiling the hidden connection: Hemichordates and vertebrates share surprising mitochondrial similarities (Guo et al., 2025, *Heliyon*)  
+[DOI](https://doi.org/10.1016/j.heliyon.2025.e44020)
+
 「ゲノム時代における細胞質と核の不一致の再考」  
 Reconsidering cytonuclear discordance in the genomic age (Larson et al., 2025, *Evolution*)  
 [DOI](https://doi.org/10.1093/evolut/qpaf201)

@@ -163,10 +163,6 @@ Siliceous sponge fossils from the early Cambrian Qingxi Formation in South China
 Is additive coding useful for morphological phylogenetic analyses? An empirical evaluation (Ament & Almeida, 2025, *Arthropod Systematics & Phylogeny*)  
 [DOI](https://doi.org/10.3897/asp.83.e146637)
 
-「植物および動物の属の最近の絶滅は，稀で，局所的であり，かつ減速している」（オープンアクセス）  
-Recent extinctions of plant and animal genera are rare, localized, and decelerated (Wiens & Saban, 2025, *PLOS Biology*)  
-[DOI](https://doi.org/10.1371/journal.pbio.3003356)
-
 「動物における後口動物の枝に対する証拠の検討および脊索動物の起源の理解への意味合い」  
 Weighing the Evidence for a Deuterostome Branch of Animals and Implications for Understanding Chordate Origins (Telford, 2025, *Annual Review of Ecology, Evolution, and Systematics*)  
 [DOI](https://doi.org/10.1146/annurev-ecolsys-102722-023501)
@@ -333,18 +329,10 @@ The genomic origin of the unique chaetognath body plan (Piovani et al., 2025, *N
 An extinct clade of the basal Epitheliozoa: phylogenetic position and implication of the enigmatic Cambrian chancelloriids (Yun et al., 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-08655-y)
 
-6億年の博物旅 1巻（書籍［漫画］・日本語）  
-（みなぱか著・泉監修，2025，芳文社）  
-[Amazon URL](https://www.amazon.co.jp/%EF%BC%96%E5%84%84%E5%B9%B4%E3%81%AE%E5%8D%9A%E7%89%A9%E6%97%85-%EF%BC%91-%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%A0KR-%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%BF%E3%81%AA%E3%81%B1%E3%81%8B/dp/483229654X)
-
 「顎口脊椎動物の姉妹群における頭部と胴部の接合面の新たな形成様式」（ResearchGateから全文のPDFが入手可能）  
 Novel assembly of a head–trunk interface in the sister group of jawed vertebrates (Miyashita et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-09329-9)  
 [ResearchGate全文PDF](https://www.researchgate.net/publication/394356524_Novel_assembly_of_a_head-trunk_interface_in_the_sister_group_of_jawed_vertebrates)
-
-「バージェス頁岩の*Olenoides serratus*の脚の可動性の定量化により、三葉虫類とカブトガニ類の付属肢の機能的な差異が示される」（オープンアクセス）  
-Quantification of leg mobility in the Burgess Shale *Olenoides serratus* indicates functional differences between trilobite and xiphosuran appendages (Losso et al., 2025, *BMC Biology*)  
-[DOI](https://doi.org/10.1186/s12915-025-02335-3)
 
 「全ゲノムアラインメントのゲノム系統解析におけるAICを用いたウィンドウサイズの選択」（オープンアクセス）  
 Selecting a Window Size for Phylogenomic Analyses of Whole Genome Alignments using AIC (Ivan et al., 2025, *Systematic Biology*)  
@@ -379,10 +367,6 @@ Internal fossil constraints have more effect on the age estimates of crown Palae
 Four camera eyes in the earliest vertebrates from the Cambrian (Cong et al., 2025 preprint, *Research Square*)  
 [DOI](https://doi.org/10.21203/rs.3.rs-7195707/v1)
 
-「クラウン鳥類の包括的な解剖学的マトリックスに向けて：胸帯と前肢骨格から得られる系統的洞察」（オープンアクセス）  
-Towards a comprehensive anatomical matrix for crown birds: phylogenetic insights from the pectoral girdle and forelimb skeleton (Chen et al., 2025, *Integrative Organismal Biology*)  
-[DOI](https://doi.org/10.1093/iob/obaf029)
-
 「中国南部、雲南省東部のMalong-Yiliang areaにおけるGuanshan Biota（カンブリア紀、ステージ4）の新たな産出」  
 New occurrence of the Guanshan Biota (Cambrian, *Stage 4*) in the Malong-Yiliang area, eastern Yunnan, South China (Yang et al., 2025, *Historical Biology*)  
 [DOI](https://doi.org/10.1080/08912963.2025.2539302)
@@ -394,10 +378,6 @@ Atlas of Marine Invertebrate Larvae 2nd Edition (Boyle et al. (eds.), 2025, Acad
 「カンブリア紀のChancelloriida類の骨片における、上皮細胞によって制御された有機テンプレートの例外的な保存」（オープンアクセス）  
 Exceptionally preserved epithelial cell−controlled organic templates in Cambrian chancelloriid sclerites (Hu et al., 2025, *Geology*)  
 [DOI](https://doi.org/10.1130/G53623.1)
-
-「ポルトガル・ペニシェの国際標準模式層断面及び地点（GSSP）におけるプリンスバキアン階 － 際立ってよく保存された蠕虫で満たされたセクション」（オープンアクセス）  
-The Pliensbachian at the Peniche Global Stratotype Section and Point (GSSP, Portugal) – a section full of remarkably preserved worms (Knaust & Duarte, 2025, *Geological Magazine*)  
-[DOI](https://doi.org/10.1017/S0016756825100113)
 
 「依存性を持つ形質の最尤法における系統解析」  
 Phylogenetic Analysis of Characters with Dependencies under Maximum Likelihood (Goloboff, 2025, *Systematic Biology*)  
@@ -576,10 +556,6 @@ Origin and radiation of squids revealed by digital fossil-mining (Ikegami et al.
 A new Cambrian stem-group echinoderm reveals the evolution of the anteroposterior axis (Woodgate et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.05.065)
 
-「鳥類の放散に関するゲノム系統学と比較ゲノム学的視点」  
-Phylogenomics and comparative genomic perspective on the avian radiation (Chen et al., 2025, *Nature Reviews Biodiversity*)  
-[DOI](https://doi.org/10.1038/s44358-025-00062-9)
-
 「シルル紀からの初めてのカブトガニ類により、カブトガニ類の基本構造の詳細が明らかになる」（オープンアクセス）  
 The first Silurian horseshoe crab reveals details of the xiphosuran ground plan (Lamsdell, 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
 [DOI](https://doi.org/10.1098/rspb.2025.0874)
@@ -625,10 +601,6 @@ Quantitative decoding of Ediacaran locomotory trace fossil morphologies: Evidenc
 [DOI](https://doi.org/10.1130/G53332.1)
 
 ## 5月
-「記録更新：予想外に初期の爬虫類の爪痕が発見された」  
-Track record: unexpectedly early reptile claw prints found (Sumida, 2025, *Nature*)  
-[DOI](https://doi.org/10.1038/d41586-025-01134-8)
-
 「感覚を持つ歯の構造の進化的起源」（ResearchGateから全文のPDFが入手可能）  
 The evolutionary origin of sensitive dental structures (Houée & Janvier, 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/d41586-025-01139-3)  
@@ -681,10 +653,6 @@ The evolution of reproduction in Ediacaran–Cambrian metazoans (Wood & Droser, 
 「バージェス頁岩からの新たなラディオドンタ類により例証される節足動物の合体節の初期の進化可能性」（オープンアクセス）  
 Early evolvability in arthropod tagmosis exemplified by a new radiodont from the Burgess Shale (Moysiuk & Caron, 2025, *Royal Society Open Science*)  
 [DOI](https://doi.org/10.1098/rsos.242122)
-
-「最初期の有羊膜類の足跡により四肢動物の進化の年表が再較正される」（オープンアクセス）  
-Earliest amniote tracks recalibrate the timeline of tetrapod evolution (Long et al., 2025, *Nature*)  
-[DOI](https://doi.org/10.1038/s41586-025-08884-5)
 
 「『*Omnidens*の付属肢とラディオドンタ類の口器の起源』へのコメント」  
 Comment on: *Omnidens* appendages and the origin of radiodont mouthparts (McCall, 2025, *Papers in Palaeontology*)  
@@ -780,10 +748,6 @@ A complete and dynamic tree of birds (McTavish et al., 2025, *Proceedings of the
 「エディアカラン紀－カンブリア紀の区間からの、対照的な保存様式を示す2つのリボン様大型化石」（オープンアクセス）  
 Two ribbon-like macrofossils in contrasting preservational styles from the Ediacaran–Cambrian interval (Li et al., 2025, *Journal of Palaeogeography*)  
 [DOI](https://doi.org/10.1016/j.jop.2025.03.002)
-
-「顎体部はダニ類の単系統性の証拠ではなく悪い形質である」（オープンアクセス）  
-The gnathosoma is a bad character rather than evidence for mite monophyly (Bolton, 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
-[DOI](https://doi.org/10.1098/rspb.2025.0368)
 
 「カンブリア紀中期の棘皮動物における共生関係により、後口動物上での最古の寄生関係が明らかになる」（オープンアクセス）  
 Symbiotic interactions on middle Cambrian echinoderms reveal the oldest parasitism on deuterostomes (Goñi et al., 2025, *Scientific Reports*)  
@@ -898,10 +862,6 @@ Tolerance of Placozoa for temperate climates: Evidence for known and new placozo
 「メイオファウナ研究における根本的な疑問により、小さいが遍在する動物が、我々の自然に対する理解をいかに深めることができるかが強調される」（オープンアクセス）  
 Fundamental questions in meiofauna research highlight how small but ubiquitous animals can improve our understanding of Nature (Martínez et al., 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-07888-1)
-
-「最初期の生命の樹における空飛ぶカメ：Ernst Haeckelの系統学的研究における科学的透明性」（オープンアクセス）  
-Flying turtles in the earliest trees of life: scientific transparency in the phylogenetic works of Ernst Haeckel (Werneburg & Hoßfeld, 2025, *Swiss Journal of Palaeontology*)  
-[DOI](https://doi.org/10.1186/s13358-025-00355-8)
 
 「大きいもの、小さいもの、奇妙なもの：現生鰓曳動物のゲノム系統解析」（オープンアクセス）  
 The big, the small and the weird: A phylogenomic analysis of extant Priapulida (Raeker et al., 2025, *Molecular Phylogenetics and Evolution*)  

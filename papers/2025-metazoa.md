@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「アリ類の系統はサイト不均質モデルの適用では解決されない」（オープンアクセス）  
+Ant phylogeny is not resolved by the application of site heterogeneous models (Boudinot & Lieberman, 2025, *Communications Biology*)  
+[DOI](https://doi.org/10.1038/s42003-025-07849-8)
+
 「系統樹のベイズ推論は相関した離散的形態形質により誤導されない」（オープンアクセス）  
 Bayesian inference of phylogenetic trees is not misled by correlated discrete morphological characters (Liu & Zhang, 2025, *Paleobiology*)  
 [DOI](https://doi.org/10.1017/pab.2025.10076)

@@ -8,12 +8,20 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月13日</div>
-<div style="text-align: right;">最終確認日：2025年10月13日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月14日</div>
+<div style="text-align: right;">最終確認日：2025年10月14日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「あらゆる基盤をカバー：ゲノム系統学を身近にするための，後生動物の普遍的なUCEプローブセット」（オープンアクセス）  
+Covering all bases: a universal Metazoan UCE probe set to democratize phylogenomics (Derkarabetian et al., 2025, *Genome Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/gbe/evaf193)
+
+「Ægir-Iapetus古地理によって形作られた初期の有棘類の多様化：北グリーンランド（シリーズ2，ステージ4）からの洞察」  
+Early aculiferan diversification shaped by Ægir-Iapetus palaeogeography: Insights from North Greenland (Series 2, Stage 4) (Oh et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
+[DOI](https://doi.org/10.1016/j.palaeo.2025.113338)
+
 「アリ類の系統はサイト不均質モデルの適用では解決されない」（オープンアクセス）  
 Ant phylogeny is not resolved by the application of site heterogeneous models (Boudinot & Lieberman, 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-07849-8)

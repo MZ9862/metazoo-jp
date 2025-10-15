@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月14日</div>
-<div style="text-align: right;">最終確認日：2025年10月14日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月15日</div>
+<div style="text-align: right;">最終確認日：2025年10月15日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「系統を再構築するにはいくつの形質が必要か」  
+How many characters are needed to reconstruct a phylogeny? (Capobianco, 2025, *Biology Letters*)  
+[DOI](https://doi.org/10.1098/rsbl.2025.0288)
+
 「あらゆる基盤をカバー：ゲノム系統学を身近にするための，後生動物の普遍的なUCEプローブセット」（オープンアクセス）  
 Covering all bases: a universal Metazoan UCE probe set to democratize phylogenomics (Derkarabetian et al., 2025, *Genome Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/gbe/evaf193)
@@ -105,10 +109,6 @@ Identifying the Big Questions in paleontology: a community-driven project (Smith
 「有鱗類における進化速度の不一致により，進化的新規性と革新の対照的なパターンが明らかになる」（オープンアクセス）  
 Evolutionary rate incongruences in squamates reveal contrasting patterns of evolutionary novelties and innovation (Simões et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf067)
-
-「系統を再構築するにはいくつの形質が必要か」（プレプリント・閲覧可能）  
-How many characters are needed to reconstruct a phylogeny? (Capobianco, 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.09.26.678777)
 
 「カンブリア紀ステージ4のマイクロバイアライトからの，層孔虫類様の堆積物凝集性のカイメン類」（プレプリント・閲覧可能）  
 A stromatoporoid-like sediment-agglutinating sponge from microbialites of Cambrian Stage 4 (Luo et al., 2025 preprint, *bioRxiv*)  

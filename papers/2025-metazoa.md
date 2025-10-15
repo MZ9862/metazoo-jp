@@ -14,6 +14,11 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「4億8000万年前の寄生性のスピオ科環形動物」（オープンアクセス）  
+A 480 million year old parasitic spionid annelid (Nanglu et al., 2025, *iScience*)  
+[DOI（2025年10月15日現在無効）](https://doi.org/10.1016/j.isci.2025.113721)  
+[URL](https://www.cell.com/iscience/fulltext/S2589-0042(25)01982-0)
+
 「系統を再構築するにはいくつの形質が必要か」  
 How many characters are needed to reconstruct a phylogeny? (Capobianco, 2025, *Biology Letters*)  
 [DOI](https://doi.org/10.1098/rsbl.2025.0288)

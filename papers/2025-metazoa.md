@@ -8,16 +8,20 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月15日</div>
-<div style="text-align: right;">最終確認日：2025年10月15日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月16日</div>
+<div style="text-align: right;">最終確認日：2025年10月16日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「現生頭索動物の出現における系統的不一致と遺伝子的革新」（プレプリント・閲覧可能）  
+Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates (Lotharukpong et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.10.14.682400)
+
 「4億8000万年前の寄生性のスピオ科環形動物」（オープンアクセス）  
 A 480 million year old parasitic spionid annelid (Nanglu et al., 2025, *iScience*)  
-[DOI（2025年10月15日現在無効）](https://doi.org/10.1016/j.isci.2025.113721)  
-[URL](https://www.cell.com/iscience/fulltext/S2589-0042(25)01982-0)
+[DOI（直PDF）](https://doi.org/10.1016/j.isci.2025.113721)  
+[WebページURL](https://www.cell.com/iscience/fulltext/S2589-0042(25)01982-0)
 
 「系統を再構築するにはいくつの形質が必要か」  
 How many characters are needed to reconstruct a phylogeny? (Capobianco, 2025, *Biology Letters*)  
@@ -214,8 +218,7 @@ Efficient Identification of Phylogenetically Informative Alignment Sites via Spa
 
 「ミトコンドリアのCO1および16S rRNA遺伝子配列に基づく多毛類の系統解析」（オープンアクセス）  
 A phylogenetic analysis of the polychaeta based on mitochondrial CO1 and 16S rRNA gene sequences (Corpuz et al., 2025, *Journal of Applied Biological Sciences*)  
-[DOI（2025年10月3日現在無効）](https://doi.org/10.71336/jabs.1454)  
-[URL](https://www.jabsonline.org/index.php/jabs/article/view/1454)
+[DOI](https://doi.org/10.71336/jabs.1454)
 
 ## 8月
 「組み換えと系統推論」（オープンアクセス）  

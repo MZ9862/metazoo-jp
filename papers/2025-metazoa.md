@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「ミトコンドリアおよびリボソーム遺伝子マーカーを用いた，新皮類の系統における樹形的変動性の評価」（オープンアクセス）  
+Evaluating topological variability in Neodermata phylogenies using mitochondrial and ribosomal gene markers (Caña-Bozada et al., 2025, *PLoS One*)  
+[DOI](https://doi.org/10.1371/journal.pone.0333282)
+
 「現生頭索動物の出現における系統的不一致と遺伝子的革新」（プレプリント・閲覧可能）  
 Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates (Lotharukpong et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.10.14.682400)

@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「オホーツク海からの深海性の箒虫動物の初記録：新種*Phoronopsis deprofundis*の記載および海洋群集の箒虫動物化」  
+First record of deep-sea phoronids from the Sea of Okhotsk with description of *Phoronopsis deprofundis* sp.nov. and phoronidization of the ocean communities (Neklyudov et al., 2025, *Progress in Oceanography*)  
+[DOI](https://doi.org/10.1016/j.pocean.2025.103592)
+
 「珍無腸形動物の生殖孔形成からの分子的証拠により，左右相称動物の肛門との相同性が支持される」（オープンアクセス）  
 Molecular evidence from xenacoelomorph gonopore formation supports homology with the bilaterian anus (Andrikou et al., 2025, *Nature Ecology & Evolution*)  
 [DOI](https://doi.org/10.1038/s41559-025-02866-6)
@@ -97,15 +101,11 @@ A new sponge (Ascospongiae) from the early Cambrian Guanshan Biota (Zou et al., 
 The first leech body fossil predates estimated hirudinidan origins by 200 million years (de Carle et al., 2025, *PeerJ*)  
 [DOI](https://doi.org/10.7717/peerj.19962)
 
-「カンブリア爆発はいかにして起こったか：科学史と生命史における偶然性」  
-How the cambrian exploded: Contingency in the history of science and life (Dresow, 2025, *Studies in History and Philosophy of Science*)  
-[DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
-
-「古生代初期からの*Skolithos linearis*：鰓曳動物の巣穴？」  
-*Skolithos linearis* from the early Palaeozoic: The burrow of a priapulid? (Knaust, 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
-[DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
-
 ## 9月
+「冠輪動物の進化と系統」（書籍のチャプター）  
+Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, *Encyclopedia of Evolutionary Biology (Second Edition)*, Elsevier)  
+[DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)
+
 「total-evidenceの年代推定における大量絶滅の影響と検出可能性の評価」（プレプリント・閲覧可能）  
 Evaluating the impact and detectability of mass extinctions on total-evidence dating (Du et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.09.28.679059)
@@ -187,10 +187,6 @@ The ‘butterfly animal,’ *Papiliomaris kluessendorfae* n. gen. n. sp.: An eni
 The macrofossil *Lydonia jiggamintia* gen. et sp. nov. from the Ediacaran of Newfoundland (Canada): From pseudofossil to metazoan-grade organism (Pasinetti et al., 2025, *Palaeontologia Electronica*)  
 [DOI](https://doi.org/10.26879/1386)
 
-「無肺類のクモガタ類の多分岐の解決のための，系統的形質の情報源としてのゲノム構造の探究」  
-Exploring genome architecture as a source of phylogenetic characters for resolving the apulmonate arachnid polytomy (Klementz et al., 2025, *Molecular Phylogenetics and Evolution*)  
-[DOI](https://doi.org/10.1016/j.ympev.2025.108380)
-
 「祖先多型のソーティングおよびそれの形態系統学と大進化への影響」（オープンアクセス）  
 Sorting of ancestral polymorphism and its impact on morphological phylogenetics and macroevolution (Parins-Fukuchi, 2025, *Evolution*)  
 [DOI](https://doi.org/10.1093/evolut/qpaf177)
@@ -211,14 +207,6 @@ Weighing the Evidence for a Deuterostome Branch of Animals and Implications for 
 What time is it? Interactions between trees and fossils (Carruthers, 2025 preprint, *EcoEvoRxiv*)  
 [DOI](https://doi.org/10.32942/X2MH0C)
 
-「ロシアのウラル地方中部からのエディアカラン紀の体の柔らかい動物相の新発見」  
-A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
-[DOI](https://doi.org/10.1016/j.gr.2025.05.008)
-
-「Aguinaldo et al. (1997) および進化発生生物学の誕生」  
-Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
-[DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
-
 「化石データからの系統的および大進化学的推論における形質進化モデルの影響の評価」（プレプリント・閲覧可能）  
 Assessing the impact of character evolution models on phylogenetic and macroevolutionary inferences from fossil data (Wright & Hopkins, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2024.12.23.630137)
@@ -232,6 +220,14 @@ A phylogenetic analysis of the polychaeta based on mitochondrial CO1 and 16S rRN
 [DOI](https://doi.org/10.71336/jabs.1454)
 
 ## 8月
+「カンブリア爆発はいかにして起こったか：科学史と生命史における偶然性」  
+How the cambrian exploded: Contingency in the history of science and life (Dresow, 2025, *Studies in History and Philosophy of Science*)  
+[DOI](https://doi.org/10.1016/j.shpsa.2025.08.008)
+
+「古生代初期からの*Skolithos linearis*：鰓曳動物の巣穴？」  
+*Skolithos linearis* from the early Palaeozoic: The burrow of a priapulid? (Knaust, 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
+[DOI](https://doi.org/10.1016/j.palaeo.2025.113151)
+
 「組み換えと系統推論」（オープンアクセス）  
 Recombination and phylogenetic inference (Rannala, 2025, *Evolutionary Journal of the Linnean Society*)  
 [DOI](https://doi.org/10.1093/evolinnean/kzaf016)
@@ -259,10 +255,6 @@ An evolving view of character macroevolution (Tribble et al., 2025 preprint, *Ec
 「3Di形質をアミノ酸データセットに加えると解像度が向上する可能性があるが，その効果は短いタンパク質やαヘリックスタンパク質では弱くなる」（プレプリント・閲覧可能）  
 Adding 3Di characters to amino acid datasets can improve resolution, but the effect is weaker in shorter and alpha-helical proteins (Fullmer et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.06.30.662300)
-
-「古生代の『羽毛様』化石の識別：藻類，ヒドロ虫類，それともフデイシ類？」（オープンアクセス）  
-The identification of ‘feather-like’ fossils in the Palaeozoic: Algae, hydroids, or graptolites? (Maletz et al., 2025, *Palaeoworld*)  
-[DOI](https://doi.org/10.1016/j.palwor.2025.200909)
 
 「Termal：ターミナルベースのマルチプルアライメントビューア」（プレプリント・閲覧可能）  
 Termal: A Terminal-Based Multiple Sequence Alignment (MSA) Viewer (Junier, 2025 preprint, *Preprints*)  
@@ -398,10 +390,6 @@ piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE (McAr
 ClipKIT in the browser: fast online trimming of multiple sequence alignments for phylogenetics (Steenwyk et al., 2025, *Nucleic Acids Research*)  
 [DOI](https://doi.org/10.1093/nar/gkaf325)
 
-「内部的な化石制約の方が異なるゲノム系統学的データの種類よりもクラウン古顎類の年代推定に大きな影響を与える」（オープンアクセス）  
-Internal fossil constraints have more effect on the age estimates of crown Palaeognathae than different phylogenomic data type (Selvatti & Takezaki, 2025, *Frontiers in Bioinformatics*)  
-[DOI](https://doi.org/10.3389/fbinf.2025.1563786)
-
 「カンブリア紀からの最初期の脊椎動物における4つのカメラ眼」（プレプリント・閲覧可能）  
 Four camera eyes in the earliest vertebrates from the Cambrian (Cong et al., 2025 preprint, *Research Square*)  
 [DOI](https://doi.org/10.21203/rs.3.rs-7195707/v1)
@@ -437,18 +425,6 @@ ASTER: A Package for Large-scale Phylogenomic Reconstructions (Zhang et al., 202
 「Příbram–Jince盆地の下部Jince Formation（カンブリア紀，ミャオリンギアン）からの*Hallucigenia*様葉足動物の初記録」（オープンアクセス）  
 The first record of *Hallucigenia*-like lobopodians from the lower Jince Formation (Cambrian, Miaolingian) of the Příbram–Jince Basin (Kovář & Fatka, 2025, *Swiss Journal of Palaeontology*)  
 [DOI](https://doi.org/10.1186/s13358-025-00381-6)
-
-「雲南省東部における、エディアカラン紀－カンブリア紀の移行期からの後生動物の穿孔行動の進化と革新」  
-Evolution and innovation of the metazoan burrowing behaviour from Ediacaran-Cambrian transition, eastern Yunnan (Li et al., 2025, *Precambrian Research*)  
-[DOI](https://doi.org/10.1016/j.precamres.2025.107796)
-
-「鋏角類における脚節の進化と相同性：1世紀に渡る課題に対する進化発生生物学的解決策」  
-Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to century-old challenges (Klementz et al., 2025, *Arthropod Structure & Development*)  
-[DOI](https://doi.org/10.1016/j.asd.2025.101446)
-
-「中国北部からの新たなミャオリンギアンの管棲の化石およびエディアカラン紀の『蠕虫世界』の存続」  
-New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
-[DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
 
 「グリーンランドのクマムシ類により、頭部の外部感覚器官の新たな形態学的特徴が明らかになる」（オープンアクセス）  
 Greenlandic water bears reveal a new morphological trait of external head sensory organs (Kihm et al., 2025, *Scientific Reports*)  
@@ -549,10 +525,6 @@ Ediacaran fossils from the Sonia Sandstone, Jodhpur Group, India: New discoverie
 Advanced adaptive strategies in an ancestral body plan: insights from a 510-Ma-old leptomitid sponge (Luo et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.05.30.657026)
 
-「海洋中のBa（バリウム）の除去により，約6億年前の既知最古の動物の海洋居住適正が改善された」  
-Oceanic Ba removal improved marine habitability for the oldest-known animals at ca. 600 Ma (Sui et al., 2025, *Global and Planetary Change*)  
-[DOI](https://doi.org/10.1016/j.gloplacha.2025.104790)
-
 「新たに開発された構造ベースの手法は大規模なゲノム系統学において標準的な配列ベースの手法を上回らない」（オープンアクセス）  
 Newly Developed Structure-Based Methods Do Not Outperform Standard Sequence-Based Methods for Large-Scale Phylogenomics (Mutti et al., 2025, *Molecular Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/molbev/msaf149)
@@ -586,11 +558,6 @@ Ichthyofaunal Transition from the Cambrian to Recent
 A covarion model for phylogenetic estimation using discrete morphological datasets (Khakurel & Höhna, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.06.20.660793)
 
-「デジタル化石発掘法により明らかになったイカ類の起源と放散」（ResearchGateから全文のPDFが入手可能）  
-Origin and radiation of squids revealed by digital fossil-mining (Ikegami et al., 2025, *Science*)  
-[DOI](https://doi.org/10.1126/science.adu6248)  
-[ResearchGate全文PDF](https://www.researchgate.net/publication/393063068_Origin_and_radiation_of_squids_revealed_by_digital_fossil-mining)
-
 「新たなカンブリア紀のステム棘皮動物により、前後軸の進化が明らかになる」（オープンアクセス）  
 A new Cambrian stem-group echinoderm reveals the evolution of the anteroposterior axis (Woodgate et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.05.065)
@@ -619,18 +586,6 @@ Monopodial and Sympodial Growth Modes in the Colonial Graptolithina (Hemichordat
 A deep dive into the coelacanth phylogeny (Ferrante & Cavin, 2025, *PLOS One*)  
 [DOI](https://doi.org/10.1371/journal.pone.0320214)
 
-「中国南部の最初期のカンブリア紀の海における微小硬骨格化石群の出現は塩分条件と関連していた」  
-Appearance of SSFs in earliest Cambrian seas of South China linked to salinity conditions (Liu & Algeo, 2025, *Chemical Geology*)  
-[DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
-
-「アルメニアの上部デボン系からのtentaculitidsの化石化した軟組織：系統的類縁性の謎の解明に向けて」  
-Fossilized soft tissues in tentaculitids from the Upper Devonian of Armenia: Towards solving the mystery of their phylogenetic affinities (Vinn et al., 2025, *Palaeoworld*)  
-[DOI](https://doi.org/10.1016/j.palwor.2024.10.004)
-
-「total-evidenceの系統解析により、シャコ類（シャコ類）の進化の時間的尺度が解き明かされ、それらの分子的・形態的進化速度に関する洞察が得られる」（オープンアクセス）  
-Total-evidence phylogenetic analysis resolves the evolutionary timescale of mantis shrimps (Stomatopoda) and provides insights into their molecular and morphological evolutionary rates (Van Der Wal et al., 2025, *Molecular Phylogenetics and Evolution*)  
-[DOI](https://doi.org/10.1016/j.ympev.2025.108346)
-
 ゆびでたどる進化のえほん（書籍［絵本］・日本語）  
 （三上監修・著，2025，KADOKAWA）  
 [Amazon URL](https://www.amazon.co.jp/dp/4041157293)
@@ -639,7 +594,23 @@ Total-evidence phylogenetic analysis resolves the evolutionary timescale of mant
 Quantitative decoding of Ediacaran locomotory trace fossil morphologies: Evidence for the emergence of slender anterior-posterior body profiles (Wang & Miguez-Salas, 2025, *Geology*)  
 [DOI](https://doi.org/10.1130/G53332.1)
 
+「Aguinaldo et al. (1997) および進化発生生物学の誕生」  
+Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
+[DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
+
+「ロシアのウラル地方中部からのエディアカラン紀の体の柔らかい動物相の新発見」  
+A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
+[DOI](https://doi.org/10.1016/j.gr.2025.05.008)
+
 ## 5月
+「無肺類のクモガタ類の多分岐の解決のための，系統的形質の情報源としてのゲノム構造の探究」  
+Exploring genome architecture as a source of phylogenetic characters for resolving the apulmonate arachnid polytomy (Klementz et al., 2025, *Molecular Phylogenetics and Evolution*)  
+[DOI](https://doi.org/10.1016/j.ympev.2025.108380)
+
+「雲南省東部における、エディアカラン紀－カンブリア紀の移行期からの後生動物の穿孔行動の進化と革新」  
+Evolution and innovation of the metazoan burrowing behaviour from Ediacaran-Cambrian transition, eastern Yunnan (Li et al., 2025, *Precambrian Research*)  
+[DOI](https://doi.org/10.1016/j.precamres.2025.107796)
+
 「感覚を持つ歯の構造の進化的起源」（ResearchGateから全文のPDFが入手可能）  
 The evolutionary origin of sensitive dental structures (Houée & Janvier, 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/d41586-025-01139-3)  
@@ -725,10 +696,6 @@ Evolutionary Tempo, Supertaxa and Living Fossils (Budd & Mann, 2025, *Systematic
 Episodic body size variations of early Paleozoic trilobites associated with marine redox changes (Sun et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adt7572)
 
-「カイアシ類のゲノム系統学により、カヌエラ目がハルパクチクス目とは独立した有効な目であることが支持される」  
-Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida (Bernot et al., 2025, *Molecular Phylogenetics and Evolution*)  
-[DOI](https://doi.org/10.1016/j.ympev.2025.108311)
-
 「形質間の速度変動を考慮したMkvモデルについて」  
 On the Mkv Model with Among-Character Rate Variation (Capobianco & Höhna, 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf038)
@@ -747,6 +714,26 @@ When the Past Fades: Detecting Phylogenetic Signal with SatuTe (Manuel et al., 2
 [DOI](https://doi.org/10.1093/molbev/msaf090)
 
 ## 4月
+「古生代の『羽毛様』化石の識別：藻類，ヒドロ虫類，それともフデイシ類？」（オープンアクセス）  
+The identification of ‘feather-like’ fossils in the Palaeozoic: Algae, hydroids, or graptolites? (Maletz et al., 2025, *Palaeoworld*)  
+[DOI](https://doi.org/10.1016/j.palwor.2025.200909)
+
+「鋏角類における脚節の進化と相同性：1世紀に渡る課題に対する進化発生生物学的解決策」  
+Evolution and homology of leg segments in Chelicerata: Evo-devo solutions to century-old challenges (Klementz et al., 2025, *Arthropod Structure & Development*)  
+[DOI](https://doi.org/10.1016/j.asd.2025.101446)
+
+「中国北部からの新たなミャオリンギアンの管棲の化石およびエディアカラン紀の『蠕虫世界』の存続」  
+New Miaolingian tubicolous fossils from North China and the persistence of the Ediacaran “worm-world” (Wang et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
+[DOI](https://doi.org/10.1016/j.palaeo.2025.112959)
+
+「中国南部の最初期のカンブリア紀の海における微小硬骨格化石群の出現は塩分条件と関連していた」  
+Appearance of SSFs in earliest Cambrian seas of South China linked to salinity conditions (Liu & Algeo, 2025, *Chemical Geology*)  
+[DOI](https://doi.org/10.1016/j.chemgeo.2025.122761)
+
+「total-evidenceの系統解析により、シャコ類（シャコ類）の進化の時間的尺度が解き明かされ、それらの分子的・形態的進化速度に関する洞察が得られる」（オープンアクセス）  
+Total-evidence phylogenetic analysis resolves the evolutionary timescale of mantis shrimps (Stomatopoda) and provides insights into their molecular and morphological evolutionary rates (Van Der Wal et al., 2025, *Molecular Phylogenetics and Evolution*)  
+[DOI](https://doi.org/10.1016/j.ympev.2025.108346)
+
 「序論：*Paleobiology*の50年」（オープンアクセス）  
 Introduction: Fifty years of *Paleobiology* (Patzkowsky & Kiessling, 2025, *Paleobiology*)  
 [DOI](https://doi.org/10.1017/pab.2025.4)
@@ -754,10 +741,6 @@ Introduction: Fifty years of *Paleobiology* (Patzkowsky & Kiessling, 2025, *Pale
 「MrBayesを使用したベイズ系統解析の包括的なプロトコル：配列アライメントからモデル選択および系統推論まで」（オープンアクセス）  
 A Comprehensive Protocol for Bayesian Phylogenetic Analysis Using MrBayes: From Sequence Alignment to Model Selection and Phylogenetic Inference (Wang et al., 2025, *Bio-protocol*)  
 [DOI](https://doi.org/10.21769/BioProtoc.5276)
-
-「冠輪動物の進化と系統」（未出版のonline Reference Collectionのチャプター）  
-Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, Elsevier)  
-[DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)
 
 「軟体動物の殻、骨片、軟甲は進化的に深く保存されている」（オープンアクセス）  
 Molluscan Shells, Spicules, and Gladii Are Evolutionarily Deeply Conserved (Barrera Grijalba et al., 2025, *Journal of Experimental Zoology Part B: Molecular and Developmental Evolution*)  
@@ -858,6 +841,10 @@ Astronomically calibrating early Ediacaran evolution (Zhang et al., 2025, *Natur
 [DOI](https://doi.org/10.1038/s41467-025-57201-1)
 
 ## 3月
+「海洋中のBa（バリウム）の除去により，約6億年前の既知最古の動物の海洋居住適正が改善された」  
+Oceanic Ba removal improved marine habitability for the oldest-known animals at ca. 600 Ma (Sui et al., 2025, *Global and Planetary Change*)  
+[DOI](https://doi.org/10.1016/j.gloplacha.2025.104790)
+
 「エビの腐敗実験により，節足動物の付属肢の化石化の可能性についての洞察が提供される」（オープンアクセス）  
 Decay experiments on shrimps provide insight into the fossilization potential of arthropod appendages (Corthésy et al., 2025, *Open Palaeontology*)  
 [DOI](https://doi.org/10.26034/la.opal.2025.7073)
@@ -873,10 +860,6 @@ The impact of software and criteria on the selection of best-fit nucleotide subs
 「新原生代～古生代の動物の多様化の潜在的推進要因としての底生域の昼夜の酸素変動とストレス」（オープンアクセス）  
 Benthic diel oxygen variability and stress as potential drivers for animal diversification in the Neoproterozoic-Palaeozoic (Hammarlund et al., 2025, *Nature Communications*)  
 [DOI](https://doi.org/10.1038/s41467-025-57345-0)
-
-「遅く進化するタンパク質により，Craspedida（襟鞭毛虫類）の単系統性と襟鞭毛虫類の海洋起源が支持される」（オープンアクセス）  
-Slowly evolving proteins support the monophyly of Craspedida (Choanoflagellatea) and a marine origin of choanoflagellates (Ginés-Rivas & Carr, 2025, *Protist*)  
-[DOI](https://doi.org/10.1016/j.protis.2025.126085)
 
 「ニューファンドランド島のエディアカラン系からの*Charnia*の新種により、Charnida（ランゲオモルフ類）の分類学、純古生物学、古生態学に関する新たな洞察が得られる」  
 A new species of *Charnia* from the Ediacaran of Newfoundland reveals novel insights on the taxonomy, palaeobiology and palaeoecology of the Charnida (Rangeomorpha) (Pasinetti et al., 2025, *Journal of Systematic Palaeontology*)  
@@ -931,6 +914,10 @@ The last jellyfish of the Precambrian (Ivantsov & Zakrevskaya, 2025, *Invertebra
 [DOI](https://doi.org/10.15298/invertzool.22.1.05)
 
 ## 2月
+「カイアシ類のゲノム系統学により、カヌエラ目がハルパクチクス目とは独立した有効な目であることが支持される」  
+Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida (Bernot et al., 2025, *Molecular Phylogenetics and Evolution*)  
+[DOI](https://doi.org/10.1016/j.ympev.2025.108311)
+
 「msp130遺伝子の水平伝播および後生動物の生物石灰化の進化」（オープンアクセス）  
 Horizontal Transfer of msp130 Genes and the Evolution of Metazoan Biocalcification (Chess et al., 2025, *Genome Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/gbe/evaf028)
@@ -955,10 +942,6 @@ Cambrian carbonaceous protoconodonts and the early fossil record of the Chaetogn
 A microscopic Burgess Shale: small carbonaceous fossils from a deeper water biota and the distribution of Cambrian non-mineralized faunas (Mussini & Butterfield, 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
 [DOI](https://doi.org/10.1098/rspb.2024.2948)
 
-「中国の最下部カンブリア系からの新たな脱皮動物の胚化石」  
-New ecdysozoan fossil embryos from the basal Cambrian of China (Liu et al., 2025, *Palaeogeography, Palaeoclimatology, Palaeoecology*)  
-[DOI](https://doi.org/10.1016/j.palaeo.2024.112635)
-
 「カンブリア紀中期のステムChaetognathifera類の顎毛の多様性の拡張」（オープンアクセス）  
 Extending the diversity of grasping spines in middle Cambrian stem-group Chaetognathifera (Peel, 2025, *Alcheringa: An Australasian Journal of Palaeontology*)  
 [DOI](https://doi.org/10.1080/03115518.2025.2455702)
@@ -982,10 +965,6 @@ Exotic cuticular specializations in a Cambrian scalidophoran (Mussini & Butterfi
 「例外的に保存された剛毛：カンブリア紀の冠輪動物の潜在的な形態的共有派生形質」（オープンアクセス）  
 Exceptionally Preserved Setae: A Possible Morphological Synapomorphy of Cambrian Lophotrochozoans (Liang et al., 2025, *Evolution and Development*)  
 [DOI](https://doi.org/10.1111/ede.70001)
-
-「アヴァロン（エディアカラン紀5億7400万–5億6000万年前）における初期の動物の再定着の戦略」（プレプリント・閲覧可能）  
-Recolonisation strategies of early animals in the Avalon (Ediacaran 574 – 560 Ma) (Stephenson et al., 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.01.30.635654)
 
 「幾何学的形態計測データの系統解析：オポッサム科における研究事例」  
 Phylogenetic analysis of geometric morphometric data: A study case in Didelphidae (Saguir et al., 2025, *Zoologica Scripta*)  
@@ -1040,10 +1019,6 @@ Re-examining the strangest early vertebrate (Ahlberg, 2025, *National Science Re
 Early development of the calcified exoskeleton of the polyplacophoran mollusk, with insight into the evolutionary history of shell plates and spicules (Yoshikawa et al., 2025, *Development, Growth & Differentiation*)  
 [DOI](https://doi.org/10.1111/dgd.12956)
 
-「エディアカラン紀型の非鉱化管棲生物がバルティカ大陸においてカンブリア紀初期（テレニュービアン）まで存続していた」  
-Ediacaran-type non-mineralized tube-dwelling organisms persisted into the early Cambrian (Terreneuvian) in Baltica (Vinn et al., 2025, *Gondwana Research*)  
-[DOI](https://doi.org/10.1016/j.gr.2024.09.009)
-
 「中国の下部カンブリア系からの深い海域に生息した古虫動物」（オープンアクセス）  
 Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *PeerJ*)  
 [DOI](https://doi.org/10.7717/peerj.18864)
@@ -1051,6 +1026,14 @@ Deep water vetulicolians from the lower Cambrian of China (Ma et al., 2025, *Pee
 「アリ類の包括的な系統において、UCEデータの適切性を評価し、不確実性を統合する」（オープンアクセス）  
 Evaluating UCE Data Adequacy and Integrating Uncertainty in a Comprehensive Phylogeny of Ants (Borowiec et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf001)
+
+「遅く進化するタンパク質により，Craspedida（襟鞭毛虫類）の単系統性と襟鞭毛虫類の海洋起源が支持される」（オープンアクセス）  
+Slowly evolving proteins support the monophyly of Craspedida (Choanoflagellatea) and a marine origin of choanoflagellates (Ginés-Rivas & Carr, 2025, *Protist*)  
+[DOI](https://doi.org/10.1016/j.protis.2025.126085)
+
+「アルメニアの上部デボン系からのtentaculitidsの化石化した軟組織：系統的類縁性の謎の解明に向けて」  
+Fossilized soft tissues in tentaculitids from the Upper Devonian of Armenia: Towards solving the mystery of their phylogenetic affinities (Vinn et al., 2025, *Palaeoworld*)  
+[DOI](https://doi.org/10.1016/j.palwor.2024.10.004)
 
 ## 出版月不明
 「エストニアのカンブリア系最上部からの凝集した蠕虫の管の最初の記録」（オープンアクセス）  

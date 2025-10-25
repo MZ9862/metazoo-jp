@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月18日</div>
-<div style="text-align: right;">最終確認日：2025年10月18日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月25日</div>
+<div style="text-align: right;">最終確認日：2025年10月25日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「珍無腸形動物の生殖孔形成からの分子的証拠により，左右相称動物の肛門との相同性が支持される」（オープンアクセス）  
+Molecular evidence from xenacoelomorph gonopore formation supports homology with the bilaterian anus (Andrikou et al., 2025, *Nature Ecology & Evolution*)  
+[DOI](https://doi.org/10.1038/s41559-025-02866-6)
+
 「系統解析における形質recoding法の尤度ベースの評価」（プレプリント・閲覧可能）  
 Likelihood-based evaluation of character recoding schemes for phylogenetic analysis (Seo & Thorne, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.10.15.682473)
@@ -962,10 +966,6 @@ Extending the diversity of grasping spines in middle Cambrian stem-group Chaetog
 「アルメニアのデボン紀のtentaculitidsにおける保存された筋痕の純古生物学的および系統学的意味合い」  
 Palaeobiological and phylogenetic implications of preserved muscle scars in Devonian tentaculitids from Armenia (Vinn et al., 2025, *Historical Biology*)  
 [DOI](https://doi.org/10.1080/08912963.2025.2458115)
-
-「珍無腸動物の生殖孔は左右相称動物の肛門に相同である」（プレプリント・閲覧可能）  
-The xenacoelomorph gonopore is homologous to the bilaterian anus (Andrikou et al., 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.02.10.637358)
 
 「カンブリア紀初期の*Kuamaia lata*、捕食性の前部付属肢を持つArtiopodaの真節足動物」（オープンアクセス）  
 The early Cambrian *Kuamaia lata*, an artiopodan euarthropod with a raptorial frontal appendage (O'Flynn et al., 2025, *Journal of Paleontology*)  

@@ -29,6 +29,8 @@
       - [脱皮動物Ecdysozoa（一部準備中）](phylogenetic-analyses-papers/ecdysozoa.md)
 
 ## お知らせ（2025/5/4～）
+2025/10/25：[左右相称動物の系統解析の文献リスト](phylogenetic-analyses-papers/bilateria.md)に [Guo et al. (2025)](https://doi.org/10.1016/j.heliyon.2025.e44020) を追加しました  
+2025/10/25：[後生動物の初期の系統・進化に関する2025年の文献リスト](papers/2025-metazoa.md)に文献を追加しました  
 2025/10/18：[後生動物の初期の系統・進化に関する2025年の文献リスト](papers/2025-metazoa.md)に文献を追加しました  
 2025/10/16：[後生動物の初期の系統・進化に関する2025年の文献リスト](papers/2025-metazoa.md)に文献を追加しました  
 2025/10/15：[後生動物の初期の系統・進化に関する2025年の文献リスト](papers/2025-metazoa.md)に文献を追加しました  

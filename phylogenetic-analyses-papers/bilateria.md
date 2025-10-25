@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（左右相称動物Bilateria）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年8月28日</div>
-<div style="text-align: right;">最終確認：2025年8月28日</div><br>
+<div style="text-align: right;">最終更新：2025年10月25日</div>
+<div style="text-align: right;">最終確認：2025年10月25日</div><br>
 
 左右相称動物Bilateriaは3つの胚葉（内胚葉、中胚葉、外胚葉）を持つことと、前後方向の体軸を持つことなどで特徴付けられる後生動物の主要クレードの一つです。左右相称動物の内部では以下の4系統がほぼ確実に単系統であると認められていますが、相互的な系統関係は十分に明らかになっていません（下の論文を参照のこと）。
 
@@ -31,6 +31,10 @@ lang: ja_JP
 「後口動物クレードはアーティファクトか？」（オープンアクセス）  
 Is the deuterostome clade an artifact? (Serra Silva et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)
+
+「隠された繋がりを明らかに：半索動物と脊椎動物は驚くべきミトコンドリアの類似性を共有する」（オープンアクセス）  
+Unveiling the hidden connection: Hemichordates and vertebrates share surprising mitochondrial similarities (Guo et al., 2025, *Heliyon*)  
+[DOI](https://doi.org/10.1016/j.heliyon.2025.e44020)
 
 ### 2024
 「新たなゲノムアプローチにより、珍無腸形動物が全ての左右相称動物の姉妹群として支持される」（プレプリント・閲覧可能）  

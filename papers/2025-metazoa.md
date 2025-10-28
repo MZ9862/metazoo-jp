@@ -8,12 +8,21 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月25日</div>
-<div style="text-align: right;">最終確認日：2025年10月25日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月28日</div>
+<div style="text-align: right;">最終確認日：2025年10月28日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「化石データからの系統的および大進化学的推論における形質進化モデルの影響の評価」（オープンアクセス）  
+Assessing the impact of character evolution models on phylogenetic and macroevolutionary inferences from fossil data (Wright & Hopkins, 2025, *Palaeontology*)  
+[DOI](https://doi.org/10.1111/pala.70031)
+
+「シナプスタンパク質の進化的起源および進化を通じた様々な生物におけるそれらの変化する役割」（Blueskyでの著者の投稿のURLからダウンロード不可のバージョンにアクセス可能）  
+The evolutionary origins of synaptic proteins and their changing roles in different organisms across evolution (Colgren & Burkhardt, 2025, *Nature Reviews Neuroscience*)  
+[DOI](https://doi.org/10.1038/s41583-025-00983-6)  
+[Blueskyの著者の投稿](https://bsky.app/profile/pawelburkhardt.bsky.social/post/3m473fk4yy22x)
+
 「オホーツク海からの深海性の箒虫動物の初記録：新種*Phoronopsis deprofundis*の記載および海洋群集の箒虫動物化」  
 First record of deep-sea phoronids from the Sea of Okhotsk with description of *Phoronopsis deprofundis* sp.nov. and phoronidization of the ocean communities (Neklyudov et al., 2025, *Progress in Oceanography*)  
 [DOI](https://doi.org/10.1016/j.pocean.2025.103592)
@@ -206,10 +215,6 @@ Weighing the Evidence for a Deuterostome Branch of Animals and Implications for 
 「今何時？系統樹と化石の相互作用」（プレプリント・閲覧可能）  
 What time is it? Interactions between trees and fossils (Carruthers, 2025 preprint, *EcoEvoRxiv*)  
 [DOI](https://doi.org/10.32942/X2MH0C)
-
-「化石データからの系統的および大進化学的推論における形質進化モデルの影響の評価」（プレプリント・閲覧可能）  
-Assessing the impact of character evolution models on phylogenetic and macroevolutionary inferences from fossil data (Wright & Hopkins, 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2024.12.23.630137)
 
 「sparse learningによる系統的に有益なアライメント座位の効率的な識別」（プレプリント・閲覧可能）  
 Efficient Identification of Phylogenetically Informative Alignment Sites via Sparse Learning (Schrago, 2025 preprint, *bioRxiv*)  
@@ -819,10 +824,6 @@ Fortunian archaeocyath sponges acquired biomineralization in the beginning of th
 The Tree of Life: Solving Science's Greatest Puzzle (Telford, 2025, John Murray Publishers Ltd or W. W. Norton & Company)  
 [Amazon URL 1](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1399806378)  
 [Amazon URL 2](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1324065427)
-
-「StratoBayes：層序対比と年代のモデル化の自動化のためのベイズ的手法」（プレプリント・閲覧可能）  
-StratoBayes: A Bayesian method for automated stratigraphic correlation and age modelling (Eichenseer et al., 2025 preprint, *EGUsphere*)  
-[DOI](https://doi.org/10.5194/egusphere-2025-1355)
 
 「堅牢な系統学」（プレプリント・閲覧可能）  
 Robust Phylogenetics (Liu et al., 2025 preprint, *bioRxiv*)  

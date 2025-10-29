@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年10月28日</div>
-<div style="text-align: right;">最終確認日：2025年10月28日</div><br>
+<div style="text-align: right;">最終追加日：2025年10月29日</div>
+<div style="text-align: right;">最終確認日：2025年10月29日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 10月
+「祖先的なボディプランにおける高度な適応戦略：5億1000万年前のLeptomitidae科の海綿動物からの洞察」（オープンアクセス）  
+Advanced adaptive strategies in an ancestral body plan: insights from a 510-Ma-old leptomitid sponge (Luo et al., 2025, *Royal Society Open Science*)  
+[DOI](https://doi.org/10.1098/rsos.251072)
+
 「化石データからの系統的および大進化学的推論における形質進化モデルの影響の評価」（オープンアクセス）  
 Assessing the impact of character evolution models on phylogenetic and macroevolutionary inferences from fossil data (Wright & Hopkins, 2025, *Palaeontology*)  
 [DOI](https://doi.org/10.1111/pala.70031)
@@ -525,10 +529,6 @@ Phylogenetic studies at *Historical Biology* (Müller, 2025, *Historical Biology
 「インド，Jodhpur GroupのSonia Sandstoneからのエディアカラン紀の化石：新たな発見と解釈」（オープンアクセス）  
 Ediacaran fossils from the Sonia Sandstone, Jodhpur Group, India: New discoveries and interpretations (Ahmad & Pandey, 2025, *Journal of the Palaeontological Society of India*)  
 [DOI](https://doi.org/10.1177/05529360251338480)
-
-「祖先的なボディプランにおける高度な適応戦略：5億1000万年前のLeptomitidae科の海綿動物からの洞察」（プレプリント・閲覧可能）  
-Advanced adaptive strategies in an ancestral body plan: insights from a 510-Ma-old leptomitid sponge (Luo et al., 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.05.30.657026)
 
 「新たに開発された構造ベースの手法は大規模なゲノム系統学において標準的な配列ベースの手法を上回らない」（オープンアクセス）  
 Newly Developed Structure-Based Methods Do Not Outperform Standard Sequence-Based Methods for Large-Scale Phylogenomics (Mutti et al., 2025, *Molecular Biology and Evolution*)  

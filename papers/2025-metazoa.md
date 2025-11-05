@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月4日</div>
-<div style="text-align: right;">最終確認日：2025年11月4日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月5日</div>
+<div style="text-align: right;">最終確認日：2025年11月5日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -17,6 +17,14 @@ lang: ja_JP
 「系統樹思考の初心者ガイド」（書評）  
 A beginner’s guide to tree thinking (Allen, 2025, *Nature Ecology & Evolution*)  
 [DOI](https://doi.org/10.1038/s41559-025-02898-y)
+
+「アンティアトラス山脈からの管状化石の最初の証拠：エディアカラン紀後期の管状化石の古地理およびアンティアトラス山脈におけるエディアカラン系とカンブリア系の境界への洞察」  
+First evidence of tubular fossils from the Anti-Atlas: Insights into the paleogeography of Late Ediacaran tubular fossils and the Ediacaran–Cambrian boundary in the Anti-Atlas (Beraaouz & El Kabouri, 2025, *Precambrian Research*)  
+[DOI](https://doi.org/10.1016/j.precamres.2025.107962)
+
+「中国のカンブリア紀前期のXiaoshibaラーガーシュテッテからの新たなフデイシ類（翼鰓類）」（オープンアクセス）  
+A new graptolite (Pterobranchia) from the early Cambrian Xiaoshiba Lagerstätte of China (Yang et al., 2025, *Swiss Journal of Palaeontology*)  
+[DOI](https://doi.org/10.1186/s13358-025-00406-0)
 
 ## 10月
 「Avaloniaのエディアカラン系からの新種*Charnia brasieri*の記載を含む，エディアカラン紀の属*Charnia*における形状の成長と異質性」（オープンアクセス）  

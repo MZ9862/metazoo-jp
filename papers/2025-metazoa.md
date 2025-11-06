@@ -246,7 +246,7 @@ Siliceous sponge fossils from the early Cambrian Qingxi Formation in South China
 Is additive coding useful for morphological phylogenetic analyses? An empirical evaluation (Ament & Almeida, 2025, *Arthropod Systematics & Phylogeny*)  
 [DOI](https://doi.org/10.3897/asp.83.e146637)
 
-「動物における後口動物の枝に対する証拠の検討および脊索動物の起源の理解への意味合い」  
+「動物における後口動物の枝に対する証拠の検討および脊索動物の起源の理解への意味合い」（オープンアクセス）  
 Weighing the Evidence for a Deuterostome Branch of Animals and Implications for Understanding Chordate Origins (Telford, 2025, *Annual Review of Ecology, Evolution, and Systematics*)  
 [DOI](https://doi.org/10.1146/annurev-ecolsys-102722-023501)
 

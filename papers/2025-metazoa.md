@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
+「存在しない異物同名関係のため無効とされた門名Dendrobrachia Xian-Guan, Bergström, Xio-Ya and Jie 2006（カンブリア紀前期の*Phlogites*）の復活」  
+Resurrection of phylum name Dendrobrachia Xian-Guan, Bergström, Xio-Ya and Jie 2006 (Lower Cambrian *Phlogites*) invalided for an inexistent homonymy (Pérez & Gomes, 2025, *Zootaxa*)  
+[DOI](https://doi.org/10.11646/zootaxa.5717.3.10)
+
 「シングル核プロファイリングにより，全身が脳に相当する棘皮動物の神経系が明らかになる」（オープンアクセス）  
 Single-nucleus profiling highlights the all-brain echinoderm nervous system (Paganos et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adx7753)

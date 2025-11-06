@@ -22,9 +22,10 @@ Resurrection of phylum name Dendrobrachia Xian-Guan, Bergström, Xio-Ya and Jie 
 Single-nucleus profiling highlights the all-brain echinoderm nervous system (Paganos et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adx7753)
 
-「系統樹思考の初心者ガイド」（書評）  
+「系統樹思考の初心者ガイド」（書評・Blueskyでの著者の投稿のURLからダウンロード不可のバージョンにアクセス可能）  
 A beginner’s guide to tree thinking (Allen, 2025, *Nature Ecology & Evolution*)  
-[DOI](https://doi.org/10.1038/s41559-025-02898-y)
+[DOI](https://doi.org/10.1038/s41559-025-02898-y)  
+[Blueskyの著者の投稿](https://bsky.app/profile/bethanyjallen.bsky.social/post/3m4x463yrns2z)
 
 「アンティアトラス山脈からの管状化石の最初の証拠：エディアカラン紀後期の管状化石の古地理およびアンティアトラス山脈におけるエディアカラン系とカンブリア系の境界への洞察」  
 First evidence of tubular fossils from the Anti-Atlas: Insights into the paleogeography of Late Ediacaran tubular fossils and the Ediacaran–Cambrian boundary in the Anti-Atlas (Beraaouz & El Kabouri, 2025, *Precambrian Research*)  
@@ -35,6 +36,10 @@ A new graptolite (Pterobranchia) from the early Cambrian Xiaoshiba Lagerstätte 
 [DOI](https://doi.org/10.1186/s13358-025-00406-0)
 
 ## 10月
+「サイト間の組成不均質性のモデル化によりアリ類の大系統は解決される：Boudinot & Lieberman (2025) への返信」（オープンアクセス）  
+Modelling among-site compositional heterogeneity resolves ant backbone phylogeny: A reply to Boudinot & Lieberman (2025) (Cai, 2025, *Palaeoentomology*)  
+[DOI](https://doi.org/10.11646/palaeoentomology.8.5.1)
+
 「Avaloniaのエディアカラン系からの新種*Charnia brasieri*の記載を含む，エディアカラン紀の属*Charnia*における形状の成長と異質性」（オープンアクセス）  
 Growth and disparity of form in the Ediacaran genus *Charnia*, with description of *Charnia brasieri* sp. nov. from the Ediacaran of Avalonia (McIlroy et al., 2025, *Precambrian Research*)  
 [DOI](https://doi.org/10.1016/j.precamres.2025.107947)

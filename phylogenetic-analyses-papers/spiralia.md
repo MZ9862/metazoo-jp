@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（螺旋動物Spiralia）</span>
 </div>
-<div style="text-align: right;">最終更新：2025年8月3日</div>
-<div style="text-align: right;">最終確認：2025年8月3日</div><br>
+<div style="text-align: right;">最終更新：2025年11月8日</div>
+<div style="text-align: right;">最終確認：2025年11月8日</div><br>
 
 螺旋動物（螺旋卵割動物）Spiralia（しばしば冠輪動物Lophotrochozoaと同義とされるが、冠輪動物は元々は通常、螺旋動物より狭い範囲を示す；[Halanych et al., 1995](https://doi.org/10.1126/science.7886451)（[PDF](https://www.researchgate.net/publication/200557594_Evidence_from_18S_ribosomal_DNA_that_lophophorates_are_protostome_animals)）および [Bleidorn, 2019](https://doi.org/10.1007/s13127-019-00412-4)（[PDF](https://www.gfbs-home.de/fileadmin/user_upload/ode2mods/ode/ode19/ode19_0412/article.pdf)）を参照のこと）は、螺旋卵割を共有派生形質とする可能性がある（[Martín-Durán & Marlétaz, 2020](https://doi.org/10.1242/dev.181081)）左右相称動物の大きなクレードの一つです。以下の16動物門で構成されています。
 
@@ -36,6 +36,10 @@ lang: ja_JP
 
 ## 分子データ
 ### 2025
+「箒虫動物のゲノムは単系統の触手冠動物を支持する」（オープンアクセス）  
+Phoronid genome supports a monophyletic Lophophorata (Lewin et al., 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.10.020)
+
 「希少な進化的イベントにより、直泳動物の環形動物内部における系統的配置が支持される」（オープンアクセス）  
 Rare Evolutionary Events Support the Phylogenetic Placement of Orthonectida Within Annelida (Nikolaeva et al., 2025, *International Journal of Molecular Sciences*)  
 [DOI](https://doi.org/10.3390/ijms26135983)

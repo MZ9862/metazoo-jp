@@ -8,19 +8,23 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月6日</div>
-<div style="text-align: right;">最終確認日：2025年11月6日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月8日</div>
+<div style="text-align: right;">最終確認日：2025年11月8日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
+「捕食者と被食者のスケーリング則により，カンブリア紀の葉足動物における懸濁物食性の生活様式が支持される」（プレプリント・閲覧可能）  
+Predator-prey scaling laws support a suspension-feeding lifestyle in Cambrian lobopodians (Richards & Ortega-Hernández, 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.11.05.686786)
+
+「箒虫動物のゲノムは単系統の触手冠動物を支持する」（オープンアクセス）  
+Phoronid genome supports a monophyletic Lophophorata (Lewin et al., 2025, *Current Biology*)  
+[DOI](https://doi.org/10.1016/j.cub.2025.10.020)
+
 「存在しない異物同名関係のため無効とされた門名Dendrobrachia Xian-Guan, Bergström, Xio-Ya and Jie 2006（カンブリア紀前期の*Phlogites*）の復活」  
 Resurrection of phylum name Dendrobrachia Xian-Guan, Bergström, Xio-Ya and Jie 2006 (Lower Cambrian *Phlogites*) invalided for an inexistent homonymy (Pérez & Gomes, 2025, *Zootaxa*)  
 [DOI](https://doi.org/10.11646/zootaxa.5717.3.10)
-
-「シングル核プロファイリングにより，全身が脳に相当する棘皮動物の神経系が明らかになる」（オープンアクセス）  
-Single-nucleus profiling highlights the all-brain echinoderm nervous system (Paganos et al., 2025, *Science Advances*)  
-[DOI](https://doi.org/10.1126/sciadv.adx7753)
 
 「系統樹思考の初心者ガイド」（書評・Blueskyでの著者の投稿のURLからダウンロード不可のバージョンにアクセス可能）  
 A beginner’s guide to tree thinking (Allen, 2025, *Nature Ecology & Evolution*)  

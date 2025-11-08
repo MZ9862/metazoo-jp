@@ -45,7 +45,7 @@ Rare Evolutionary Events Support the Phylogenetic Placement of Orthonectida With
 [DOI](https://doi.org/10.3390/ijms26135983)
 
 ### 2024
-「Multiple displacement amplificationにより、微視的な動物および腹毛動物*Lepidodermella squamata* (Dujardin 1841)のゲノムの1分子リアルタイムシーケンシングが容易になる」（オープンアクセス）  
+「multiple displacement amplificationにより、微視的な動物および腹毛動物*Lepidodermella squamata* (Dujardin 1841)のゲノムの1分子リアルタイムシーケンシングが容易になる」（オープンアクセス）  
 Multiple Displacement Amplification Facilitates SMRT Sequencing of Microscopic Animals and the Genome of the Gastrotrich *Lepidodermella squamata* (Dujardin 1841) (Roberts et al., 2024, *Genome Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/gbe/evae254)
 

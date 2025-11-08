@@ -18,7 +18,7 @@ lang: ja_JP
 Predator-prey scaling laws support a suspension-feeding lifestyle in Cambrian lobopodians (Richards & Ortega-Hernández, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.11.05.686786)
 
-「箒虫動物のゲノムは単系統の触手冠動物を支持する」（オープンアクセス）  
+「箒虫動物のゲノムにより単系統の触手冠動物が支持される」（オープンアクセス）  
 Phoronid genome supports a monophyletic Lophophorata (Lewin et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.10.020)
 

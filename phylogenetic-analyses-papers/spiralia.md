@@ -36,7 +36,7 @@ lang: ja_JP
 
 ## 分子データ
 ### 2025
-「箒虫動物のゲノムは単系統の触手冠動物を支持する」（オープンアクセス）  
+「箒虫動物のゲノムにより単系統の触手冠動物が支持される」（オープンアクセス）  
 Phoronid genome supports a monophyletic Lophophorata (Lewin et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.10.020)
 

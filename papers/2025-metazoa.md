@@ -506,7 +506,7 @@ BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference (B
 Evolutionary escalation in an exceptionally preserved Cambrian biota from the Grand Canyon (Arizona, USA) (Mussini et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adv6383)
 
-「謎めいた甲殻類y幼生のゲノム系統学により、フジツボにおける寄生性の複数回の起源が明らかになる」  
+「謎めいた甲殻類y幼生のゲノム系統学により、フジツボにおける寄生性の複数回の起源が明らかになる」（オープンアクセス）  
 Phylogenomics of Enigmatic Crustacean Y-Larvae Reveals Multiple Origins of Parasitism in Barnacles (Dreyer et al., 2025, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.06.007)
 

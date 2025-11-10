@@ -8,12 +8,20 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月9日</div>
-<div style="text-align: right;">最終確認日：2025年11月9日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月10日</div>
+<div style="text-align: right;">最終確認日：2025年11月10日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
+「体系生物学の75年：過去を振り返り，未来へ進む」  
+Seventy-five Years of Systematic Biology: Looking Back, Moving Forward (Landis & Donoghue, 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf079)
+
+「ゲノム系統学により育児嚢を持つ甲殻類の単系統性が支持される：直接発生への道」（プレプリント・閲覧可能）  
+Phylogenomics supports monophyly of marsupial crustaceans: a journey to direct development (Barta et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.11.06.686749)
+
 「離散形質の形質進化における断続モデルと連続時間モデルの区別および大進化理論への意味合い」（オープンアクセス）  
 Distinguishing punctuated and continuous-time models of character evolution for discrete characters and the implications for macroevolutionary theory (Wright & Wagner, 2025, *Paleobiology*)  
 [DOI](https://doi.org/10.1017/pab.2025.10063)

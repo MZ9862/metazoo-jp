@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月10日</div>
-<div style="text-align: right;">最終確認日：2025年11月10日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月11日</div>
+<div style="text-align: right;">最終確認日：2025年11月11日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
+「ミトコンドリア遺伝子の系統的不一致は，ミトコンドリア染色体上の位置と機能に関連している」（オープンアクセス）  
+Mitochondrial gene phylogenetic incongruencies are linked to chromosomal position and function (DeSalle & Tessler, 2025, *Genome Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/gbe/evaf209)
+
 「体系生物学の75年：過去を振り返り，未来へ進む」  
 Seventy-five Years of Systematic Biology: Looking Back, Moving Forward (Landis & Donoghue, 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf079)
@@ -278,6 +282,10 @@ Efficient Identification of Phylogenetically Informative Alignment Sites via Spa
 A phylogenetic analysis of the polychaeta based on mitochondrial CO1 and 16S rRNA gene sequences (Corpuz et al., 2025, *Journal of Applied Biological Sciences*)  
 [DOI](https://doi.org/10.71336/jabs.1454)
 
+「Termal：高速かつインタラクティブなターミナルベースのマルチプルアライメントビューア」（オープンアクセス）  
+Termal: a fast and interactive terminal-based viewer for multiple sequence alignments (Junier, 2025, *Bioinformatics Advances*)  
+[DOI](https://www.preprints.org/manuscript/202504.1866/v3)
+
 ## 8月
 「カンブリア爆発はいかにして起こったか：科学史と生命史における偶然性」  
 How the cambrian exploded: Contingency in the history of science and life (Dresow, 2025, *Studies in History and Philosophy of Science*)  
@@ -314,10 +322,6 @@ An evolving view of character macroevolution (Tribble et al., 2025 preprint, *Ec
 「3Di形質をアミノ酸データセットに加えると解像度が向上する可能性があるが，その効果は短いタンパク質やαヘリックスタンパク質では弱くなる」（プレプリント・閲覧可能）  
 Adding 3Di characters to amino acid datasets can improve resolution, but the effect is weaker in shorter and alpha-helical proteins (Fullmer et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.06.30.662300)
-
-「Termal：ターミナルベースのマルチプルアライメントビューア」（プレプリント・閲覧可能）  
-Termal: A Terminal-Based Multiple Sequence Alignment (MSA) Viewer (Junier, 2025 preprint, *Preprints*)  
-[DOI](https://www.preprints.org/manuscript/202504.1866/v3)
 
 「二胚葉動物*Nematostella vectensis*における内胚葉と中胚葉の胚葉アイデンティティの分離」（オープンアクセス）  
 Segregation of endoderm and mesoderm germ layer identities in the diploblast *Nematostella vectensis* (Haillot et al., 2025, *Nature Communications*)  
@@ -880,7 +884,7 @@ Robust Phylogenetics (Liu et al., 2025 preprint, *bioRxiv*)
 [DOI](https://doi.org/10.1101/2025.04.01.646540)
 
 「IQ-TREE 3：複雑な進化モデルを用いたゲノム系統推論ソフトウェア」（プレプリント・閲覧可能）  
-IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models (Wong et al., 2025, *EcoEvoRxiv*)  
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models (Wong et al., 2025 preprint, *EcoEvoRxiv*)  
 [DOI](https://doi.org/10.32942/X2P62N)
 
 「形態系統学における状態空間の誤特定：モデルにも節約法にも潜む落とし穴」（プレプリント・閲覧可能）  

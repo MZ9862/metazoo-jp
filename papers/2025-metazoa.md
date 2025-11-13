@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月12日</div>
-<div style="text-align: right;">最終確認日：2025年11月12日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月13日</div>
+<div style="text-align: right;">最終確認日：2025年11月13日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
+「ゲノムの収斂進化が陸生動物の出現を形作った」（オープンアクセス）  
+Convergent genome evolution shaped the emergence of terrestrial animals (Wei et al., 2025, *Nature*)  
+[DOI](https://doi.org/10.1038/s41586-025-09722-4)
+
 「モロッコからのオルドビス紀前期のウミサソリ類により，ウミサソリ類のカンブリア紀における起源と主要な多様化が示唆される」（オープンアクセス）  
 Early Ordovician sea scorpions from Morocco suggest Cambrian origins and main diversification of Eurypterida (Van Roy et al., 2025, *Proceedings of the Royal Society B: Biological Sciences*)  
 [DOI](https://doi.org/10.1098/rspb.2025.2061)

@@ -14,7 +14,7 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
-「ゲノムの収斂進化が陸生動物の出現を形作った」（オープンアクセス）  
+「ゲノムの収斂進化により陸生動物の出現が形作られた」（オープンアクセス）  
 Convergent genome evolution shaped the emergence of terrestrial animals (Wei et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-09722-4)
 

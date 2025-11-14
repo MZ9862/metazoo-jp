@@ -9,7 +9,7 @@ lang: ja_JP
   <span><a href="../">ホーム</a> &gt; 系統解析論文紹介（脱皮動物Ecdysozoa）</span>
 </div>
 <div style="text-align: right;">最終更新：2025年7月5日</div>
-<div style="text-align: right;">最終確認：2025年7月31日</div><br>
+<div style="text-align: right;">最終確認：2025年11月14日</div><br>
 
 脱皮動物Ecdysozoaは定期的に「脱皮」によって交換されるクチクラを持つことで特徴付けられる、左右相称動物の大きなクレードの一つです。以下の8動物門で構成されています。
 

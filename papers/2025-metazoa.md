@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月14日</div>
-<div style="text-align: right;">最終確認日：2025年11月14日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月18日</div>
+<div style="text-align: right;">最終確認日：2025年11月18日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -793,6 +793,10 @@ When the Past Fades: Detecting Phylogenetic Signal with SatuTe (Manuel et al., 2
 [DOI](https://doi.org/10.1093/molbev/msaf090)
 
 ## 4月
+「サウスダコタ州からの新たなペルム紀前期の条鰭類および形態データの系統解析におけるrogue分類群の発見のための樹形空間の利用」（オープンアクセス）  
+A New Lower Permian Ray-Finned Fish (Actinopterygii) From South Dakota and the Use of Tree Space to Find Rogue Taxa in Phylogenetic Analysis of Morphological Data (Stack et al., 2025, *Bulletin of the Society of Systematic Biologists*)  
+[DOI](https://doi.org/10.18061/bssb.v3i2.9825)
+
 「古生代の『羽毛様』化石の識別：藻類，ヒドロ虫類，それともフデイシ類？」（オープンアクセス）  
 The identification of ‘feather-like’ fossils in the Palaeozoic: Algae, hydroids, or graptolites? (Maletz et al., 2025, *Palaeoworld*)  
 [DOI](https://doi.org/10.1016/j.palwor.2025.200909)

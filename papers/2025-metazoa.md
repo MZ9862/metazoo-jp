@@ -8,12 +8,20 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月18日</div>
-<div style="text-align: right;">最終確認日：2025年11月18日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月19日</div>
+<div style="text-align: right;">最終確認日：2025年11月19日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
+「生物間の系統関係のゲノム系統学的推論のための堅牢かつ効率的な信頼限界」（オープンアクセス）  
+Robust and Efficient Confidence Limits for Phylogenomic Inference of Organismal Relationships (Sharma & Kumar, 2025, *Molecular Biology and Evolution*)  
+[DOI](https://doi.org/10.1093/molbev/msaf296)
+
+「タフォノミー実験により平板動物の化石化の可能性が明らかになる」  
+TAPHONOMIC EXPERIMENTS SHED LIGHT ON FOSSILIZATION POTENTIAL OF PLACOZOA (Naimark et al., 2025, *PALAIOS*)  
+[DOI](https://doi.org/10.2110/palo.2024.020)
+
 「MEGA 12.1：macOSおよびLinuxオペレーティングシステム向けクロスプラットフォームリリース」  
 MEGA 12.1: Cross-Platform Release for macOS and Linux Operating Systems (Stecher et al., 2025, *Journal of Molecular Evolution*)  
 [DOI](https://doi.org/10.1007/s00239-025-10287-z)

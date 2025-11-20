@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月19日</div>
-<div style="text-align: right;">最終確認日：2025年11月19日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月20日</div>
+<div style="text-align: right;">最終確認日：2025年11月20日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -247,8 +247,7 @@ Chemical characterization of C<sub>31</sub> sterols from sponges and Neoproteroz
 
 「分子系統樹上でのシマミズウドンゲ*Urnatella gracilis* Leidy, 1852の位置により，群体性の内肛動物の体系学に関する見解が変化する」（オープンアクセス）  
 The position of *Urnatella gracilis* Leidy, 1852 on the molecular phylogenetic tree changes the view on the systematics of colonial Entoprocta (Borisanova & Ekimova, 2025, *Invertebrate Zoology*)  
-[DOI（2025年9月26日現在無効）](https://doi.org/10.15298/invertzool.22.3.04)  
-[URL](https://kmkjournals.com/journals/Inv_Zool/IZ_Index_Volumes/IZ_22/IZ_22_3_428_438)
+[DOI](https://doi.org/10.15298/invertzool.22.3.04)
 
 「系統学における化石末端年代法の実践ガイドおよび総説」（オープンアクセス）  
 Practical Guide and Review of Fossil Tip-Dating in Phylogenetics (Heckeberg et al., 2025, *Systematic Biology*)  

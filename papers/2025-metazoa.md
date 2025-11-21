@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月20日</div>
-<div style="text-align: right;">最終確認日：2025年11月20日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月21日</div>
+<div style="text-align: right;">最終確認日：2025年11月21日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -668,10 +668,6 @@ Codex Eurypterida: A Revised Taxonomy Based on Concordant Parsimony and Bayesian
 A Hypothesis on Suspension Feeding in Early Chelicerates (Offacolidae) (Lustri et al., 2025, *Diversity*)  
 [DOI](https://doi.org/10.3390/d17060412)
 
-「新たな化石により、中生代における現生鳥類のより深い起源が暗示される」（オープンアクセス）  
-New Fossils Imply a Deeper Origin of Modern Birds in the Mesozoic (Wu et al., 2025, *National Science Review*)  
-[DOI](https://doi.org/10.1093/nsr/nwaf238)
-
 「群体制のフデイシ類（半索動物：翼鰓類）における単軸性および仮軸性の成長様式」（オープンアクセス）  
 Monopodial and Sympodial Growth Modes in the Colonial Graptolithina (Hemichordata, Pterobranchia) (Maletz & Lerosey-Aubril, 2025, *Evolution and Development*)  
 [DOI](https://doi.org/10.1111/ede.70010)
@@ -806,6 +802,10 @@ Accelerating Maximum Likelihood Phylogenetic Inference via Early Stopping to Eva
 「過去が消え去る時：SatuTeによる系統的シグナルの検出」（オープンアクセス）  
 When the Past Fades: Detecting Phylogenetic Signal with SatuTe (Manuel et al., 2025, *Molecular Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/molbev/msaf090)
+
+「数十年にわたる研究を鳥類の一つの系統樹に統合する」  
+Synthesizing decades of research into one tree for birds (Stiller, 2025, *Proceedings of the National Academy of Sciences*)  
+[DOI](https://doi.org/10.1073/pnas.2507805122)
 
 ## 4月
 「サウスダコタ州からの新たなペルム紀前期の条鰭類および形態データの系統解析におけるrogue分類群の発見のための樹形空間の利用」（オープンアクセス）  

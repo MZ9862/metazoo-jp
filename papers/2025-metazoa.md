@@ -14,7 +14,7 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
-「分子系統学および豊富な24-イソプロピルコレステロール（24-ipcステロール）により明らかになった，新たな普通海綿類の目，Vilesida」（オープンアクセス）  
+「分子系統および豊富な24-イソプロピルコレステロール（24-ipcステロール）により明らかになった，新たな普通海綿類の目，Vilesida」（オープンアクセス）  
 Vilesida, a new order of demosponges revealed by molecular phylogeny and abundant 24-isopropylcholesterols (24-ipc sterols) (Díaz et al., 2025, *Zoological Journal of the Linnean Society*)  
 [DOI](https://doi.org/10.1093/zoolinnean/zlaf163)
 

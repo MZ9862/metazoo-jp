@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月25日</div>
-<div style="text-align: right;">最終確認日：2025年11月25日</div><br>
+<div style="text-align: right;">最終追加日：2025年11月27日</div>
+<div style="text-align: right;">最終確認日：2025年11月27日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 11月
+「PhyloSuite v2：分子による分岐年代推定解析およびその他の高度な機能のための，オールインワンで効率的かつ可視化指向の統合ツールの開発」（オープンアクセス）  
+PhyloSuite v2: The development of an all-in-one, efficient and visualization-oriented suite for molecular dating analysis and other advanced features (Zhao et al., 2025, *iMeta*)  
+[DOI](https://doi.org/10.1002/imt2.70095)
+
 「分子系統および豊富な24-イソプロピルコレステロール（24-ipcステロール）により明らかになった，新たな普通海綿類の目，Vilesida」（オープンアクセス）  
 Vilesida, a new order of demosponges revealed by molecular phylogeny and abundant 24-isopropylcholesterols (24-ipc sterols) (Díaz et al., 2025, *Zoological Journal of the Linnean Society*)  
 [DOI](https://doi.org/10.1093/zoolinnean/zlaf163)

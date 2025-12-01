@@ -8,12 +8,22 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年11月27日</div>
-<div style="text-align: right;">最終確認日：2025年11月27日</div><br>
+<div style="text-align: right;">最終追加日：2025年12月2日</div>
+<div style="text-align: right;">最終確認日：2025年12月2日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
+## 12月
+「モロッコのオルドビス紀前期のFezouata生物相からの，新たな巨大な遊泳底生性のラディオドンタ類の底生生物食者」（オープンアクセス）  
+A new giant nektobenthic radiodont benthivore from the Early Ordovician Fezouata Biota in Morocco (Potin et al., 2025, *Acta Palaeontologica Polonica*)  
+[DOI（2025年12月2日現在無効）](https://doi.org/10.4202/app.01278.2025)  
+[URL](https://www.app.pan.pl/article/item/app012782025.html)
+
 ## 11月
+「腹毛動物の進化的関係のゲノム系統学的枠組み」（プレプリント・無料アカウント登録すれば閲覧可能）  
+A Phylogenomic Framework of Gastrotricha Evolutionary Relationships (Wallnoefer et al., 2025 preprint, *SSRN*)  
+[DOI](https://dx.doi.org/10.2139/ssrn.5818579)
+
 「PhyloSuite v2：分子による分岐年代推定解析およびその他の高度な機能のための，オールインワンで効率的かつ可視化指向の統合ツールの開発」（オープンアクセス）  
 PhyloSuite v2: The development of an all-in-one, efficient and visualization-oriented suite for molecular dating analysis and other advanced features (Zhao et al., 2025, *iMeta*)  
 [DOI](https://doi.org/10.1002/imt2.70095)
@@ -528,7 +538,7 @@ Exceptionally preserved epithelial cell−controlled organic templates in Cambri
 Phylogenetic Analysis of Characters with Dependencies under Maximum Likelihood (Goloboff, 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf051)
 
-「Adoudou生物群：モロッコ・西部アンティアトラス山脈からのエディアカラン紀－カンブリア紀の移行期への新たな窓」  
+「Adoudou生物相：モロッコ・西部アンティアトラス山脈からのエディアカラン紀－カンブリア紀の移行期への新たな窓」  
 The Adoudou Biota: A new window on the Ediacaran-Cambrian transition from the western Anti-Atlas, Morocco (Azizi et al., 2025, *Precambrian Research*)  
 [DOI](https://doi.org/10.1016/j.precamres.2025.107885)
 
@@ -569,7 +579,7 @@ Ediacaran enigma: uncertainty and underdetermination in precambrian paleontology
 BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference (Baele et al., 2025, *Nature Methods*)  
 [DOI](https://doi.org/10.1038/s41592-025-02751-x)
 
-「グランドキャニオン（アメリカ合衆国、アリゾナ州）からの例外的に保存されたカンブリア紀の生物群における進化的エスカレーション」（オープンアクセス）  
+「グランドキャニオン（アメリカ合衆国、アリゾナ州）からの例外的に保存されたカンブリア紀の生物相における進化的エスカレーション」（オープンアクセス）  
 Evolutionary escalation in an exceptionally preserved Cambrian biota from the Grand Canyon (Arizona, USA) (Mussini et al., 2025, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adv6383)
 
@@ -703,10 +713,6 @@ Quantitative decoding of Ediacaran locomotory trace fossil morphologies: Evidenc
 「Aguinaldo et al. (1997) および進化発生生物学の誕生」  
 Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmental Biology*)  
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
-
-「ロシアのウラル地方中部からのエディアカラン紀の体の柔らかい動物相の新発見」  
-A new occurrence of Ediacara soft-bodied biota in the Central Urals, Russia (Kolesnikov et al., 2025, *Gondwana Research*)  
-[DOI](https://doi.org/10.1016/j.gr.2025.05.008)
 
 ## 5月
 「無肺類のクモガタ類の多分岐の解決のための，系統的形質の情報源としてのゲノム構造の探究」  

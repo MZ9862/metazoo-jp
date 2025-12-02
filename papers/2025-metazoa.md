@@ -953,7 +953,7 @@ IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models (Wo
 [DOI](https://doi.org/10.32942/X2P62N)
 
 「形態系統学における状態空間の誤特定：モデルにも節約法にも潜む落とし穴」（プレプリント・閲覧可能）  
-State Space Misspecification in Morphological Phylogenetics: A Pitfall for Models and Parsimony Alike (Huang, 2025, *bioRxiv*)  
+State Space Misspecification in Morphological Phylogenetics: A Pitfall for Models and Parsimony Alike (Huang, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.04.22.650124)
 
 「エディアカラン紀初期の進化を天文学的に較正する」（オープンアクセス）  

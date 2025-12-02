@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「軟体性の化石と三次元の化石を組み合わせて，初期のLingulellotretidae科の腕足動物の進化的変化を明らかにする」（オープンアクセス）  
+Combining soft-bodied and three-dimensional fossils to reveal evolutionary modifications in early lingulellotretid brachiopods (Chen et al., 2025, *Communications Biology*)  
+[DOI](https://doi.org/10.1038/s42003-025-09051-2)
+
 「モロッコのオルドビス紀前期のFezouata生物相からの，新たな巨大な遊泳底生性のラディオドンタ類の底生生物食者」（オープンアクセス）  
 A new giant nektobenthic radiodont benthivore from the Early Ordovician Fezouata Biota in Morocco (Potin et al., 2025, *Acta Palaeontologica Polonica*)  
 [DOI（2025年12月2日現在無効）](https://doi.org/10.4202/app.01278.2025)  

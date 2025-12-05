@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年12月2日</div>
-<div style="text-align: right;">最終確認日：2025年12月2日</div><br>
+<div style="text-align: right;">最終追加日：2025年12月5日</div>
+<div style="text-align: right;">最終確認日：2025年12月5日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「生命の系統を描く」（書評）  
+Painting the phylogeny of life (Wong, 2025, *Science*)  
+[DOI](https://doi.org/10.1126/science.aec7390)
+
 「軟体性の化石と三次元の化石を組み合わせて，初期のLingulellotretidae科の腕足動物の進化的変化を明らかにする」（オープンアクセス）  
 Combining soft-bodied and three-dimensional fossils to reveal evolutionary modifications in early lingulellotretid brachiopods (Chen et al., 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-09051-2)

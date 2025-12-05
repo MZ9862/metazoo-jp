@@ -24,8 +24,7 @@ Combining soft-bodied and three-dimensional fossils to reveal evolutionary modif
 
 「モロッコのオルドビス紀前期のFezouata生物相からの，新たな巨大な遊泳底生性のラディオドンタ類の底生生物食者」（オープンアクセス）  
 A new giant nektobenthic radiodont benthivore from the Early Ordovician Fezouata Biota in Morocco (Potin et al., 2025, *Acta Palaeontologica Polonica*)  
-[DOI（2025年12月2日現在無効）](https://doi.org/10.4202/app.01278.2025)  
-[URL](https://www.app.pan.pl/article/item/app012782025.html)
+[DOI](https://doi.org/10.4202/app.01278.2025)
 
 ## 11月
 「腹毛動物の進化的関係のゲノム系統学的枠組み」（プレプリント・無料アカウント登録すれば閲覧可能）  

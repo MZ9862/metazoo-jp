@@ -8,12 +8,17 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年12月5日</div>
-<div style="text-align: right;">最終確認日：2025年12月5日</div><br>
+<div style="text-align: right;">最終追加日：2025年12月6日</div>
+<div style="text-align: right;">最終確認日：2025年12月6日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「系統的支持の詳細解析：統合崩壊指数，AU検定，および枝・サイト特異的可視化．」（プレプリント・閲覧可能）  
+Dissecting Phylogenetic Support: Unified Decay Indices, AU Tests, and Branch-Site Specific Visualizations. (McInerney et al., 2025 preprint, *bioRxiv*)  
+[DOI（2025年12月6日現在無効）](https://doi.org/10.64898/2025.12.05.692543)  
+[URL](https://www.biorxiv.org/content/10.64898/2025.12.05.692543v1)
+
 「生命の系統を描く」（書評）  
 Painting the phylogeny of life (Wong, 2025, *Science*)  
 [DOI](https://doi.org/10.1126/science.aec7390)

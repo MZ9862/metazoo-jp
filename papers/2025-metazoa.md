@@ -16,8 +16,7 @@ lang: ja_JP
 ## 12月
 「系統的支持の詳細解析：統合崩壊指数，AU検定，および枝・サイト特異的可視化．」（プレプリント・閲覧可能）  
 Dissecting Phylogenetic Support: Unified Decay Indices, AU Tests, and Branch-Site Specific Visualizations. (McInerney et al., 2025 preprint, *bioRxiv*)  
-[DOI（2025年12月6日現在無効）](https://doi.org/10.64898/2025.12.05.692543)  
-[URL](https://www.biorxiv.org/content/10.64898/2025.12.05.692543v1)
+[DOI](https://doi.org/10.64898/2025.12.05.692543)
 
 「生命の系統を描く」（書評）  
 Painting the phylogeny of life (Wong, 2025, *Science*)  

@@ -323,7 +323,7 @@ Biostratigraphy and correlation of the Cambrian Series 2 (Stage 4) to Miaoli
 [DOI](https://doi.org/10.1002/spp2.70028)
 
 「動物の系統分類進化学」（書籍［教科書］・日本語）  
-（朝倉ら，2025，丸善出版）  
+（朝倉ら編，2025，丸善出版）  
 [Amazon URL](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)
 
 「『バタフライアニマル』，新属新種*Papiliomaris kluessendorfae*：Waukesha biotaからの二枚の殻を持つ謎めいた節足動物」（オープンアクセス）  
@@ -718,7 +718,7 @@ A deep dive into the coelacanth phylogeny (Ferrante & Cavin, 2025, *PLOS One*)
 [DOI](https://doi.org/10.1371/journal.pone.0320214)
 
 ゆびでたどる進化のえほん（書籍［絵本］・日本語）  
-（三上監修・著，2025，KADOKAWA）  
+（三上，2025，KADOKAWA）  
 [Amazon URL](https://www.amazon.co.jp/dp/4041157293)
 
 「エディアカラン紀の移動性の生痕化石の形態の定量的解読：細長い前後軸の体形の出現の証拠」（オープンアクセス）  

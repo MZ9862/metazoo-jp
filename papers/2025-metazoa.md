@@ -18,7 +18,7 @@ lang: ja_JP
 The Origin and Evolution of Sponges on Earth: A Hybrid Systematic Literature Review and Bibliometric Analysis (Daulay, 2025, *Proceedings of ICSEST 2025— International Conference on Studies in Engineering, Science, and Technology*, ISTES)  
 [URL](https://www.istes.org/storage/01KC6FPXCDK8A1CAA9E5YHHX1C.pdf#page=10)
 
-「中央インド・ヴィンディヤ盆地の新原生代前期のSirbu頁岩部層（上部ヴィンディヤ層群）からの微生物マットに伴う新たな痕跡様構造」  
+「中央インド・ヴィンディヤ盆地の新原生代前期のSirbu頁岩部層（上部ヴィンディヤ層群）からの，微生物マットに伴う新たな痕跡様構造」  
 New trail-like features associated with microbial mats from the early Neoproterozoic Sirbu Shale Member (Upper Vindhyan Group), Vindhyan Basin, central India (Choudhuri et al., 2025, *Australian Journal of Earth Sciences*)  
 [DOI](https://doi.org/10.1080/08120099.2025.2586733)
 

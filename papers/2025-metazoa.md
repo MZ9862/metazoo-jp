@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「『統合ゲノム系統学』は誤差の要因を統合してしまっている」（eLetter・閲覧可能）  
+“Integrative Phylogenomics” Integrates Sources of Error (Whelan, 2025, *Science*)  
+[DOI](https://doi.org/10.1126/science.adw9456#elettersSection)
+
 「系統のスケッチ，抽出，レイアウト」（オープンアクセス）  
 Sketch, capture and layout phylogenies (Huson, 2025, *PLOS Computational Biology*)  
 [DOI](https://doi.org/10.1371/journal.pcbi.1013805)
@@ -822,7 +826,7 @@ Reply to Comment on: *Omnidens* appendages and the origin of radiodont mouthpart
 
 「最初期の軟体動物の系統：改善された地質年代学、改訂された相同性」（eLetter・閲覧可能）  
 Earliest mollusk phylogeny: Improved geochronology, revised homologies (Landing & Geyer, 2025, *Science*)  
-[DOI（下の方までスクロールすると見つかります）](https://www.science.org/doi/10.1126/science.ads0215)
+[DOI](https://doi.org/10.1126/science.ads0215#elettersSection)
 
 「*Shishania*はchancelloriidであり、カンブリア紀の軟体動物ではない」  
 *Shishania* is a chancelloriid and not a Cambrian mollusk (Yang et al., 2025, *Science*)  

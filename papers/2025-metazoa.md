@@ -701,6 +701,10 @@ Coping with Ineffective Overlap in Multilocus Phylogenetics (Silva et al., 2025,
 [DOI](https://doi.org/10.1093/sysbio/syaf044)
 
 ## 6月
+「ネバダ州とカリフォルニア州におけるエディアカラン紀からカンブリア紀の古土壌」（オープンアクセス）  
+Ediacaran-Cambrian paleosols of Nevada and California (Retallack, 2025, *PLoS One*)  
+[DOI](https://doi.org/10.1371/journal.pone.0325547)
+
 「群体構造を持つ新たなベンド紀の後生動物」  
 New Vendian Metazoa with Colonial Organization (Luzhnaya, 2025, *Paleontological Journal*)  
 [DOI](https://doi.org/10.1134/S0031030125600027)

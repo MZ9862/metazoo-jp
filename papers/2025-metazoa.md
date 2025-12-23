@@ -14,6 +14,14 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「フリンダース型のエディアカラン紀の保存様式によって保存されたペルム紀の葉のタフォノミー」（オープンアクセス）  
+Taphonomy of Permian leaves with Flinders-style Ediacaran preservation (Retallack, 2025, *Lethaia*)  
+[DOI](https://doi.org/10.18261/let.59.1.3)
+
+「*Aninoides*：ニューファンドランド島の上部エディアカラン系からの新たなランゲオモルフ類の属」  
+*Aninoides*: a new rangeomorph genus from the upper Ediacaran of Newfoundland (Rosse-Guillevic et al., 2025, *Papers in Palaeontology*)  
+[DOI](https://doi.org/10.1002/spp2.70061)
+
 「マリンスノーにより，オルドビス紀後期のスーム頁岩ラーガーシュテッテにおける日和見的な小型食物網が駆動された」  
 Marine snow fuels an opportunistic small food web in the Late Ordovician Soom Shale Lagerstätte (Browning et al., 2025, *Nature Ecology & Evolution*)  
 [DOI](https://doi.org/10.1038/s41559-025-02923-0)

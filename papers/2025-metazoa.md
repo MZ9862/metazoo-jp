@@ -14,7 +14,7 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
-「貴州省・遵義市のカンブリア紀のNiutitang FormationからのLeptomitidae科の新標本」（中国語）  
+「貴州省・遵義市のカンブリア紀のNiutitang Formationからの，Leptomitidae科の新標本」（中国語）  
 贵州遵义寒武系牛蹄塘组中的细丝海绵科新材料  
 New material of Leptomitidae from the Cambrian Niutitang Formation of Zunyi, Guizhou (Zhang et al., 2025, *Acta Palaeontologica Sinica*)  
 [DOI](https://doi.org/10.19800/j.cnki.aps.2024032)  

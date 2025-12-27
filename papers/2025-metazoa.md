@@ -14,6 +14,14 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「カマドウマ類の系統と生物地理学における不確実性」（オープンアクセス）  
+Uncertainties in the phylogeny and biogeography of cave crickets (Wang et al., 2025, *Communications Biology*)  
+[DOI](https://doi.org/10.1038/s42003-025-09324-w)
+
+「『カマドウマ類の系統と生物地理学における不確実性』に対する返信」（オープンアクセス）  
+Reply to: Uncertainties in the phylogeny and biogeography of cave crickets (Kim et al., 2025, *Communications Biology*)  
+[DOI](https://doi.org/10.1038/s42003-025-09325-9)
+
 「毛顎動物*Spadella cephaloptera*の前後軸パターン形成により，左右相称動物の神経系および尾部の進化に示唆が与えられる」（オープンアクセス）  
 Anterior-posterior patterning in the chaetognath *Spadella cephaloptera* informs bilaterian nervous system and tail evolution (Ordoñez & Wollesen, 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-09398-6)

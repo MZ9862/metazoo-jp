@@ -8,12 +8,20 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年12月26日</div>
-<div style="text-align: right;">最終確認日：2025年12月26日</div><br>
+<div style="text-align: right;">最終追加日：2025年12月27日</div>
+<div style="text-align: right;">最終確認日：2025年12月27日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「毛顎動物*Spadella cephaloptera*の前後軸パターン形成により，左右相称動物の神経系および尾部の進化に示唆が与えられる」（オープンアクセス）  
+Anterior-posterior patterning in the chaetognath *Spadella cephaloptera* informs bilaterian nervous system and tail evolution (Ordoñez & Wollesen, 2025, *Communications Biology*)  
+[DOI](https://doi.org/10.1038/s42003-025-09398-6)
+
+「ナメクジウオ科における*Branchiostoma malayanum*の形態学的特徴づけ，ミトコンドリアゲノムのアセンブリ，および系統再構築」（オープンアクセス）  
+Morphological characterization, mitochondrial genome assembly, and phylogenetic reconstruction of *Branchiostoma malayanum* within Branchiostomatidae (Xu et al., 2025, *Scientific Reports*)  
+[DOI](https://doi.org/10.1038/s41598-025-28029-y)
+
 「欠損状態を持つ連続形質を用いたベイズ系統推論のためのブラウン運動モデルの実装」（オープンアクセス）  
 An implementation of the Brownian motion model for Bayesian phylogenetic inference using continuous traits with missing states (Wang & Zhang, 2025, *Paleobiology*)  
 [DOI](https://doi.org/10.1017/pab.2025.10088)

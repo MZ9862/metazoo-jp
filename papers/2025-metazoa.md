@@ -1053,7 +1053,7 @@ Astronomically calibrating early Ediacaran evolution (Zhang et al., 2025, *Natur
 ## 3月
 「形態データを用いたベイズ系統解析における不確実性：簡潔な概説」（中国語）  
 浅析基于形态特征的贝叶斯系统发育分析的不确定性  
-Uncertainty in Bayesian phylogenetic analysis using morphological data: A brief overview (Du et al., 2025, *Acta Palae ontologica Sinica*)  
+Uncertainty in Bayesian phylogenetic analysis using morphological data: A brief overview (Du et al., 2025, *Acta Palaeontologica Sinica*)  
 [DOI](https://doi.org/10.19800/j.cnki.aps.2024041)
 
 「エディアカラン紀の水族館：ニルペナ・エディアカラ国立公園の1T-F海洋生態系（エディアカラ部層，Rawnsley珪岩）からの洞察」（オープンアクセス）  

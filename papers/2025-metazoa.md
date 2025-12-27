@@ -1051,6 +1051,11 @@ Astronomically calibrating early Ediacaran evolution (Zhang et al., 2025, *Natur
 [DOI](https://doi.org/10.1038/s41467-025-57201-1)
 
 ## 3月
+「形態データを用いたベイズ系統解析における不確実性：簡潔な概説」（中国語）  
+浅析基于形态特征的贝叶斯系统发育分析的不确定性  
+Uncertainty in Bayesian phylogenetic analysis using morphological data: A brief overview (Du et al., 2025, *Acta Palae ontologica Sinica*)  
+[DOI](https://doi.org/10.19800/j.cnki.aps.2024041)
+
 「エディアカラン紀の水族館：ニルペナ・エディアカラ国立公園の1T-F海洋生態系（エディアカラ部層，Rawnsley珪岩）からの洞察」（オープンアクセス）  
 The Ediacaran Aquarium: insights from the Nilpena Ediacara National Park 1T-F Marine Ecosystem (Ediacara Member, Rawnsley Quartzite) (Weyland & Droser, 2025, *Australian Journal of Earth Sciences*)  
 [DOI](https://doi.org/10.1080/08120099.2025.2462660)

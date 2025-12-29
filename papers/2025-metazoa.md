@@ -510,7 +510,7 @@ A phylogeny for Heterostraci (stem-gnathostomes) (Randle et al., 2025, *Papers i
 Brain anatomy of the Cambrian fossil *Jianfengia multisegmentalis* informs euarthropod phylogeny (Strausfeld et al., 2025, *Nature Communications*)  
 [DOI](https://doi.org/10.1038/s41467-025-62849-w)
 
-「珪質のカンブリア紀の微化石における分類学的曖昧さの解決：*Blastulospongia*の海綿動物としての類縁性とarchaeospicularians（放散虫類）の系統」（オープンアクセス）  
+「珪質のカンブリア紀の微化石における分類学的曖昧さの解決：*Blastulospongia*の海綿動物との類縁性とarchaeospicularians（放散虫類）の系統」（オープンアクセス）  
 Resolution of taxonomic ambiguities among siliceous Cambrian microfossils: poriferan affinity of *Blastulospongia* and phylogeny of archaeospicularians (Radiolaria) (Sheng & Aitchison, 2025, *Journal of Paleontology*)  
 [DOI](https://doi.org/10.1017/jpa.2025.10131)
 

@@ -8,12 +8,16 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年12月27日</div>
-<div style="text-align: right;">最終確認日：2025年12月27日</div><br>
+<div style="text-align: right;">最終追加日：2025年12月29日</div>
+<div style="text-align: right;">最終確認日：2025年12月29日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「新属新種*Verrocaris kerrymatti*，ペンシルベニア州のKinzers Formation（カンブリア紀，シリーズ2，ステージ4）からの新たな『異端』なアノマロカリス科のラディオドンタ類（真節足動物）およびその意味合い」（オープンアクセス）  
+*Verrocaris kerrymatti* n. gen. n. sp., a new “misfit” anomalocaridid radiodont (Euarthropoda) from the Kinzers Formation (Cambrian, Series 2, Stage 4) of Pennsylvania and its implications (Oxman et al., 2025, *Journal of Paleontology*)  
+[DOI](https://doi.org/10.1017/jpa.2025.10194)
+
 「カマドウマ類の系統と生物地理学における不確実性」（オープンアクセス）  
 Uncertainties in the phylogeny and biogeography of cave crickets (Wang et al., 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-09324-w)

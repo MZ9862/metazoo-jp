@@ -337,6 +337,10 @@ The first leech body fossil predates estimated hirudinidan origins by 200 millio
 [DOI](https://doi.org/10.7717/peerj.19962)
 
 ## 9月
+「サイエンスコミュニケーションのための，高品質な生物イラストのフリーかつオープンアクセスのライブラリ」（オープンアクセス）  
+A free, open-access library of high-quality organism illustrations for science communication (Bell et al., 2025, *The Stacks*)  
+[DOI](https://doi.org/10.57844/arcadia-4gbv-pzkv)
+
 「冠輪動物の進化と系統」（書籍のチャプター）  
 Evolution and Phylogeny of Lophotrochozoa (Barroso & Contins, 2025, *Encyclopedia of Evolutionary Biology (Second Edition)*, Elsevier)  
 [DOI](https://doi.org/10.1016/B978-0-443-15750-9.00106-3)

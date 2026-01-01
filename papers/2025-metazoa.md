@@ -8,12 +8,24 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2025年12月31日</div>
-<div style="text-align: right;">最終確認日：2025年12月31日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月1日</div>
+<div style="text-align: right;">最終確認日：2026年1月1日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（一部プレプリント・書籍等が入る場合もあり）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 ## 12月
+「微粒化された3D形態計測データからの系統推論：カンガルーを用いた事例研究」（オープンアクセス）  
+Phylogenetic Inference from Atomised 3D Morphometric Data: a Case Study using Kangaroos (Celik et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf091)
+
+「イングランド，Charnwood Forestのエディアカラン紀の岩石と化石の再考」（オープンアクセス）  
+Another look at Ediacaran rocks and fossils of Charnwood Forest, England (Retallack, 2025, *Journal of Palaeosciences*)  
+[DOI](https://doi.org/10.54991/jop.2025.1908)
+
+「脊椎動物の全ゲノム配列における8-merスペクトル分布特性に基づく系統関係の構築」（オープンアクセス）  
+Construction of Phylogenetic Relationships Based on 8-mer Spectra Distribution Characteristics of Vertebrate Whole Genome Sequences (Yang et al., 2025, *Genes*)  
+[DOI](https://doi.org/10.3390/genes17010039)
+
 「*Hallucigenia*の食性により，カンブリア紀の葉足動物の摂食生態が明らかになる」（プレプリント・閲覧可能）  
 *Hallucigenia*’s diet illuminates the feeding ecology of Cambrian lobopodians (Ortega-Hernández, 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.64898/2025.12.28.696761)

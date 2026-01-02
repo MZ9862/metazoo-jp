@@ -10,8 +10,10 @@
 ## 系統・進化論文紹介
 分類群ごと（現状は後生動物のみ）に、系統・進化に関する文献を出版年・月ごとに紹介しています。
 ### 2026
-- [後生動物Metazoa](papers/2026-metazoa.md)  
+
+- [後生動物Metazoa](papers/2026-metazoa.md)
 ### 2025
+
 - [後生動物Metazoa](papers/2025-metazoa.md)
 
 ## 系統解析論文紹介

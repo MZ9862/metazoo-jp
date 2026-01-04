@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月1日</div>
-<div style="text-align: right;">最終確認日：2026年1月1日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月4日</div>
+<div style="text-align: right;">最終確認日：2026年1月4日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2025年に出版された論文（プレプリント・書籍等も含む）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -837,6 +837,10 @@ Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmenta
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 5月
+「系統樹上での出芽種分化の影響」（オープンアクセス）  
+The Consequences of Budding Speciation on Trees (Parins-Fukuchi et al., 2025, *Systematic Biology*)  
+[DOI](https://doi.org/10.1093/sysbio/syaf012)
+
 「無肺類のクモガタ類の多分岐の解決のための，系統的形質の情報源としてのゲノム構造の探究」  
 Exploring genome architecture as a source of phylogenetic characters for resolving the apulmonate arachnid polytomy (Klementz et al., 2025, *Molecular Phylogenetics and Evolution*)  
 [DOI](https://doi.org/10.1016/j.ympev.2025.108380)

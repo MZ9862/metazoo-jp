@@ -14,6 +14,10 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2026年に出版された論文（プレプリント・書籍等も含む）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 # 1月
+「マレーセンザンコウから分離された*Armillifer moniliformis*の完全ミトコンドリアゲノム，病理学的特性および走査型電子顕微鏡観察」（オープンアクセス）  
+Complete mitochondrial genome pathological characteristics and scanning electron microscopic observations of *Armillifer moniliformis* isolated from *Manis javanica* (Wang et al., 2026, *International Journal for Parasitology: Parasites and Wildlife*)  
+[DOI](https://doi.org/10.1016/j.ijppaw.2025.101183)
+
 「クモガタ類の脳のカンブリア紀の起源」（訂正記事・オープンアクセス）  
 Cambrian origin of the arachnid brain (Strausfeld et al., 2026, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2025.12.019)

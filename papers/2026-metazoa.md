@@ -8,12 +8,24 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2026（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月7日</div>
-<div style="text-align: right;">最終確認日：2026年1月7日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月8日</div>
+<div style="text-align: right;">最終確認日：2026年1月8日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する、2026年に出版された論文（プレプリント・書籍等も含む）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 # 1月
+「骨片の独立起源により、海綿動物の進化史の古生物学的および分子的証拠が調和される」（オープンアクセス）  
+Independent origins of spicules reconcile paleontological and molecular evidence of sponge evolutionary history (Rossi et al., 2026, *Science Advances*)  
+[DOI](https://doi.org/10.1126/sciadv.adx1754)
+
+「大葉植物の大規模系統樹」（プレプリント・閲覧可能）  
+A large phylogenetic tree for euphyllophytes (Carruthers et al., 2026 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.64898/2026.01.06.695000)
+
+「動物の起源およびカンブリア爆発の駆動要因としての細胞捕食と運動性」（オープンアクセス）  
+Cellular predation and motility as drivers of animal origins and the Cambrian radiation (Zhang, 2026, *Frontiers in Ecology and Evolution*)  
+[DOI](https://doi.org/10.3389/fevo.2025.1736160)
+
 「マレーセンザンコウから分離された*Armillifer moniliformis*の完全ミトコンドリアゲノム，病理学的特性および走査型電子顕微鏡観察」（オープンアクセス）  
 Complete mitochondrial genome pathological characteristics and scanning electron microscopic observations of *Armillifer moniliformis* isolated from *Manis javanica* (Wang et al., 2026, *International Journal for Parasitology: Parasites and Wildlife*)  
 [DOI](https://doi.org/10.1016/j.ijppaw.2025.101183)

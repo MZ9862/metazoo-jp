@@ -738,10 +738,6 @@ Recombination-aware phylogenomics (Burbrink et al., 2025, *Trends in Ecology & E
 OrthoFinder: scalable phylogenetic orthology inference for comparative genomics (Emms et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.15.664860)
 
-「骨片の独立起源により、海綿動物の進化史の古生物学的および分子的証拠が調和させられる」（プレプリント・閲覧可能）  
-Independent origins of spicules reconcile palaeontological and molecular evidence of sponge evolutionary history (Rossi et al., 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2024.06.24.600355)
-
 「不均一な多様化速度を考慮したfossilized birth deathプロセスにより、Nimravidae（Carnivoraformes）における、多様化と肉食性への特殊化との関係が明らかになる」（プレプリント・閲覧可能）  
 The Fossilized Birth Death Process with heterogeneous diversification rates unravels the link between diversification and specialisation to a carnivorous diet in Nimravidae (Carnivoraformes) (Chabrol et al., 2025 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.1101/2025.07.15.664897)

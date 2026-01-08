@@ -22,7 +22,7 @@ Independent origins of spicules reconcile paleontological and molecular evidence
 A large phylogenetic tree for euphyllophytes (Carruthers et al., 2026 preprint, *bioRxiv*)  
 [DOI](https://doi.org/10.64898/2026.01.06.695000)
 
-「動物の起源およびカンブリア爆発の駆動要因としての細胞捕食と運動性」（オープンアクセス）  
+「動物の起源およびカンブリア紀における放散の駆動要因としての細胞捕食と運動性」（オープンアクセス）  
 Cellular predation and motility as drivers of animal origins and the Cambrian radiation (Zhang, 2026, *Frontiers in Ecology and Evolution*)  
 [DOI](https://doi.org/10.3389/fevo.2025.1736160)
 

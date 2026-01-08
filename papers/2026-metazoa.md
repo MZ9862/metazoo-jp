@@ -14,7 +14,7 @@ lang: ja_JP
 後生動物Metazoaの初期の系統・進化に関する、2026年に出版された論文（プレプリント・書籍等も含む）を出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 # 1月
-「骨片の独立起源により、海綿動物の進化史の古生物学的および分子的証拠が調和される」（オープンアクセス）  
+「骨片の独立起源により，海綿動物の進化史の古生物学的および分子的証拠が調和される」（オープンアクセス）  
 Independent origins of spicules reconcile paleontological and molecular evidence of sponge evolutionary history (Rossi et al., 2026, *Science Advances*)  
 [DOI](https://doi.org/10.1126/sciadv.adx1754)
 

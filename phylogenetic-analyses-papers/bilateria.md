@@ -22,7 +22,7 @@ lang: ja_JP
 
 従来は、歩帯動物と脊索動物から構成される後口動物Deuterostomia（珍無腸形動物門が含まれるかは議論があった）が単系統群として認められてきましたが、主に2019年以降、立て続けに分子系統学の観点からこれを疑問視する論文が出ていて、現在その単系統性は激しく議論されています。
 
-本ページでは、左右相称動物の主要系統の相互的な系統関係およびそれに関連する古生物の系統的位置について、定量的な系統解析によりアプローチした2015年以降の論文等を、分子データ、形態データ、その他のデータの3つに分けて可能な限り網羅的に紹介します。左右相称動物以外の分類群や左右相称動物内部の特定の分類群に焦点を当てていて、左右相称動物全体のタクソンサンプリングが少なくほとんど意味をなさないと考えられたものについては除外しました。
+本ページでは、左右相称動物の主要系統の相互的な系統関係およびそれに関連する絶滅分類群の系統的位置について、系統解析によりアプローチした2015年以降の論文等を、分子データ、形態データ、その他のデータの3つに分けて可能な限り網羅的に紹介します。左右相称動物以外の分類群や左右相称動物内部の特定の分類群に焦点を当てていて、左右相称動物全体のタクソンサンプリングが少なくほとんど意味をなさないと考えられたものについては除外しました。
 
 もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。
 
@@ -40,7 +40,7 @@ Unveiling the hidden connection: Hemichordates and vertebrates share surprising 
 「新たなゲノムアプローチにより、珍無腸形動物が全ての左右相称動物の姉妹群として支持される」（プレプリント・閲覧可能）  
 Novel genomic approaches support Xenacoelomorpha as sister to all Bilateria (Álvarez-Presas et al., 2024, *Research Square*)  
 [DOI](https://doi.org/10.21203/rs.3.rs-5529390/v1)  
-補足：プレプリントのコメントで指摘されていますが、タイトルが少し変です。珍無腸形動物はれっきとした左右相称動物（Bilateria）であり、タイトルの「sister to all Bilateria」は「sister to all other Bilateria」、「sister to other Bilateria」、「sister to remaining Bilateria」などに修正されるべきです。
+補足：コメント欄で指摘されていますが、タイトルが少し変です。珍無腸形動物はれっきとした左右相称動物（Bilateria）であり、タイトルの「sister to all Bilateria」は「sister to all other Bilateria」、「sister to other Bilateria」、「sister to remaining Bilateria」などに修正されるべきです。
 
 「分類群豊富でゲノム規模なオピストコンタの系統」（オープンアクセス）  
 A taxon-rich and genome-scale phylogeny of Opisthokonta (Liu et al., 2024, *PLOS Biology*)  
@@ -51,10 +51,6 @@ Acoelomorph flatworm monophyly is a long-branch attraction artefact obscuring a 
 [DOI](https://doi.org/10.1098/rspb.2024.0329)
 
 ### 2022
-「ゲノム系統解析における問題のある条件により、単系統の後口動物に対する支持が増加する」（博士論文チャプター・閲覧可能）  
-Problematic conditions in phylogenomic analysis increase support for monophyletic Deuterostomia (Natsidis, 2022, University College London)  
-[博士論文URL](https://discovery.ucl.ac.uk/id/eprint/10148450/)
-
 「人工的なシグナルをフィルタリングすることで、動物の生命の樹における珍無腸形動物と歩帯動物の姉妹群関係に対する支持が増加する」（オープンアクセス）  
 Filtering artifactual signal increases support for Xenacoelomorpha and Ambulacraria sister relationship in the animal tree of life (Mulhair et al., 2022, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2022.10.036)
@@ -70,7 +66,7 @@ Topology-dependent asymmetry in systematic errors affects phylogenetic placement
 [DOI](https://doi.org/10.1126/sciadv.abc5162)
 
 ### 2019
-「螺旋動物の新しい系統により、謎めいたヤムシ類が担顎動物の中に位置付けられる」（オープンアクセス）  
+「螺旋動物の新たな系統により、謎めいたヤムシ類が担顎動物の中に位置付けられる」（オープンアクセス）  
 A New Spiralian Phylogeny Places the Enigmatic Arrow Worms among Gnathiferans (Marlétaz et al., 2019, *Current Biology*)  
 [DOI](https://doi.org/10.1016/j.cub.2018.11.042)
 

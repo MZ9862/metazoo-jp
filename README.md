@@ -1,8 +1,7 @@
 # MetaZoo JP
 
 <div style="text-align: right;">
-  中の人：Hoyaboya<br>
-  <a href="https://x.com/Hoyaboya11">X</a>・<a href="https://bsky.app/profile/hoyaboya1.bsky.social">Bluesky</a>
+  中の人：Hoyaboya<br>（<a href="https://x.com/Hoyaboya11">X</a>・<a href="https://bsky.app/profile/hoyaboya1.bsky.social">Bluesky</a>）
 </div>
 
 この分野に限られたことではありませんが、後生動物（動物）の初期の系統・進化の研究の動向について、日本語で最新の情報を入手できるようなWeb上の情報源はほとんどありません。本サイトでは、この分野の最新の研究動向について、日本語でなるべく網羅的に紹介することを目指します。

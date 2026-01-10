@@ -419,10 +419,6 @@ A problematic soft-bodied fossil from the Cambrian (Miaolingian, Wuliuan) of Uta
 HIPSTR: highest independent posterior subtree reconstruction in TreeAnnotator X (Baele et al., 2025, *Bioinformatics*)  
 [DOI](https://doi.org/10.1093/bioinformatics/btaf488)
 
-「大量絶滅が顎口脊椎動物とその近縁群（顎口類）の初期の放散を引き起こした」（プレプリント・閲覧可能）  
-Mass Extinction Triggered the Early Radiations of Jawed Vertebrates and Relatives (Gnathostomes) (Hagiwara & Sallan, 2025 preprint, *bioRxiv*)  
-[DOI](https://doi.org/10.1101/2025.09.11.673971)
-
 「固着性のポリプ状のdinomischids（ステム有櫛動物）として再解釈された最古の多様なクラゲ相」（オープンアクセス）  
 The oldest diverse jellyfish fauna reinterpreted as sessile polypoid dinomischids (stem-group Ctenophora) (Parry et al., 2025, *Journal of Systematic Palaeontology*)  
 [DOI](https://doi.org/10.1080/14772019.2025.2545834)

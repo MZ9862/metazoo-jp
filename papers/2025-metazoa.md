@@ -1284,3 +1284,7 @@ Fossilized soft tissues in tentaculitids from the Upper Devonian of Armenia: Tow
 「エストニアのカンブリア系最上部からの凝集した蠕虫の管の最初の記録」（オープンアクセス）  
 First record of agglutinated worm tubes from the uppermost Cambrian of Estonia (Vinn et al., 2025, *Acta Geologica Polonica*)  
 [DOI](https://doi.org/10.24425/agp.2024.152663)
+
+「軟甲類の分類：Schram & Koenemann (2021) への返信」（オープンアクセス）  
+The classification of Malacostraca – A response to Schram & Koenemann (2021) (Tabacaru & Giurginca, 2025, *Travaux de l`Institut de Spéologie "Émile Racovitza"*)  
+[DOI](https://doi.org/10.59277/TISER.2025.02)

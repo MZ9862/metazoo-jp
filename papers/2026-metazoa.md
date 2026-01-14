@@ -8,14 +8,19 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2026（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月13日</div>
-<div style="text-align: right;">最終確認日：2026年1月13日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月14日</div>
+<div style="text-align: right;">最終確認日：2026年1月14日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する2026年に出版された文献（論文以外にプレプリント・書籍等も含む）を，タイトルの日本語訳付きで出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 妥当性に疑義があったり，学術的信頼性に大きな問題がある文献も世にはしばしば見られますが，それらについても本ページではあえて除外せずに収録しています．ただし，明らかなハゲタカジャーナル（predatory journal）に掲載された文献は除外しています．本ページに掲載されている文献は，各自の責任において内容を十分に吟味した上でご利用ください．管理人は，これらの文献の内容について一切の責任を負いません．
 
 # 1月
+「「海綿動物か有櫛動物か？動物の系統の根に関する証拠の統合」（プレプリント・閲覧可能）  
+Sponges or Ctenophores? A Synthesis of Evidence on the Root of the Animal Phylogeny (Yue, 2026 preprint, *Preprints*)  
+[DOI（2026年1月14日現在無効）](https://doi.org/10.20944/preprints202601.1072.v1)  
+[URL](https://www.preprints.org/manuscript/202601.1072)
+
 「輪形動物門における将来の研究の方向性に関するコンセンサス」（プレプリント・閲覧可能）  
 Consensus on future research directions in the Phylum Rotifera (Macedo et al., 2026 preprint, *EcoEvoRxiv*)  
 [DOI](https://doi.org/10.32942/X2J36W)

@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月10日</div>
-<div style="text-align: right;">最終確認日：2026年1月10日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月14日</div>
+<div style="text-align: right;">最終確認日：2026年1月14日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する2025年に出版された文献（論文以外にプレプリント・書籍等も含む）を，タイトルの日本語訳付きで出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -139,6 +139,10 @@ A new giant nektobenthic radiodont benthivore from the Early Ordovician Fezouata
 [DOI](https://doi.org/10.4202/app.01278.2025)
 
 ## 11月
+動物分類表（書籍のチャプター・日本語）  
+（国立天文台編，2025，理科年表 2026，pp. 906–916，丸善出版）  
+[Amazon](https://www.amazon.co.jp/%E7%90%86%E7%A7%91%E5%B9%B4%E8%A1%A8-2026-%E5%9B%BD%E7%AB%8B%E5%A4%A9%E6%96%87%E5%8F%B0/dp/4621311824)
+
 「腹毛動物の進化的関係のゲノム系統学的枠組み」（プレプリント・ResearchGateから全文のPDFが入手可能）  
 A Phylogenomic Framework of Gastrotricha Evolutionary Relationships (Wallnoefer et al., 2025 preprint, *SSRN*)  
 [DOI](https://dx.doi.org/10.2139/ssrn.5818579)  
@@ -429,7 +433,7 @@ Biostratigraphy and correlation of the Cambrian Series 2 (Stage 4) to Miaoli
 
 「動物の系統分類進化学」（書籍［教科書］・日本語）  
 （朝倉ら編，2025，丸善出版）  
-[Amazon URL](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)
+[Amazon](https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E9%80%B2%E5%8C%96%E5%AD%A6-%E6%9C%9D%E5%80%89-%E5%BD%B0/dp/4621311719)
 
 「『バタフライアニマル』，新属新種*Papiliomaris kluessendorfae*：Waukesha biotaからの二枚の殻を持つ謎めいた節足動物」（オープンアクセス）  
 The ‘butterfly animal,’ *Papiliomaris kluessendorfae* n. gen. n. sp.: An enigmatic bivalved arthropod of the Waukesha biota (Anderson et al., 2025, *Journal of Paleontology*)  
@@ -494,7 +498,7 @@ The perplexing body plan of arrow worms decoded (Lewin & Luo, 2025, *Nature*)
 
 カラー図解 水の中の小さな美しい生き物たち: 小型ベントス・プランクトン百科（書籍［図鑑］・日本語）  
 （仲村ほか編，2025，朝倉書店）  
-[Amazon URL](https://www.amazon.co.jp/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9B%B3%E8%A7%A3-%E6%B0%B4%E3%81%AE%E4%B8%AD%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E7%BE%8E%E3%81%97%E3%81%84%E7%94%9F%E3%81%8D%E7%89%A9%E3%81%9F%E3%81%A1-%E5%B0%8F%E5%9E%8B%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%88%E3%83%B3%E7%99%BE%E7%A7%91-%E4%BB%B2%E6%9D%91-%E5%BA%B7%E7%A7%80/dp/4254171951)
+[Amazon](https://www.amazon.co.jp/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9B%B3%E8%A7%A3-%E6%B0%B4%E3%81%AE%E4%B8%AD%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E7%BE%8E%E3%81%97%E3%81%84%E7%94%9F%E3%81%8D%E7%89%A9%E3%81%9F%E3%81%A1-%E5%B0%8F%E5%9E%8B%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%88%E3%83%B3%E7%99%BE%E7%A7%91-%E4%BB%B2%E6%9D%91-%E5%BA%B7%E7%A7%80/dp/4254171951)
 
 「JOGSラーガーシュテッテ：Nama Groupからのエディアカラン紀の軟体性の化石」  
 JOGS Lagerstätten: Ediacaran soft-bodied fossils from the Nama Group (Darroch et al., 2025, *Journal of the Geological Society*)  
@@ -824,7 +828,7 @@ A deep dive into the coelacanth phylogeny (Ferrante & Cavin, 2025, *PLOS One*)
 
 ゆびでたどる進化のえほん（書籍［絵本］・日本語）  
 （三上，2025，KADOKAWA）  
-[Amazon URL](https://www.amazon.co.jp/dp/4041157293)
+[Amazon](https://www.amazon.co.jp/dp/4041157293)
 
 「エディアカラン紀の移動性の生痕化石の形態の定量的解読：細長い前後軸の体形の出現の証拠」（オープンアクセス）  
 Quantitative decoding of Ediacaran locomotory trace fossil morphologies: Evidence for the emergence of slender anterior-posterior body profiles (Wang & Miguez-Salas, 2025, *Geology*)  
@@ -835,6 +839,10 @@ Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmenta
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 5月
+「相互比較可能な指標を用いた，離散的系統データセットにおける同形形質のパターンの解明」（オープンアクセス）  
+Revealing patterns of homoplasy in discrete phylogenetic datasets with a cross-comparable index (Steell et al., 2025, *Zoological Journal of the Linnean Society*)  
+[DOI](https://doi.org/10.1093/zoolinnean/zlaf024)
+
 「系統樹上での出芽種分化の影響」（オープンアクセス）  
 The Consequences of Budding Speciation on Trees (Parins-Fukuchi et al., 2025, *Systematic Biology*)  
 [DOI](https://doi.org/10.1093/sysbio/syaf012)
@@ -1057,8 +1065,8 @@ Fortunian archaeocyath sponges acquired biomineralization in the beginning of th
 
 「生命の樹：科学最大のパズルを解く」（書籍・Kindle版あり）  
 The Tree of Life: Solving Science's Greatest Puzzle (Telford, 2025, John Murray Publishers Ltd or W. W. Norton & Company)  
-[Amazon URL 1](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1399806378)  
-[Amazon URL 2](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1324065427)
+[Amazon 1](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1399806378)  
+[Amazon 2](https://www.amazon.co.jp/Tree-Life-Solving-Sciences-Greatest/dp/1324065427)
 
 「堅牢な系統学」（プレプリント・閲覧可能）  
 Robust Phylogenetics (Liu et al., 2025 preprint, *bioRxiv*)  

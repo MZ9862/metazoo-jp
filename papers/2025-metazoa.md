@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月14日</div>
-<div style="text-align: right;">最終確認日：2026年1月14日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月18日</div>
+<div style="text-align: right;">最終確認日：2026年1月18日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する2025年に出版された文献（論文以外にプレプリント・書籍等も含む）を，タイトルの日本語訳付きで出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -839,6 +839,14 @@ Aguinaldo et al. (1997) and the birth of Evo/Devo (Weisblat, 2025, *Developmenta
 [DOI](https://doi.org/10.1016/j.ydbio.2025.05.023)
 
 ## 5月
+「動物の起源における凝集の重要性を検討するための新規モデルシステム」（プレプリント・閲覧可能）  
+A novel model system to address the relevance of aggregation in animal origins (Bercedo-Saborido et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.05.14.653760)
+
+「近縁な単細胞生物により，凝集的な多細胞性が動物の進化の鍵であったことが明らかになる」（プレプリント・閲覧可能）  
+A close unicellular relative reveals aggregative multicellularity was key to the evolution of animals (Li et al., 2025 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.1101/2025.05.14.654023)
+
 「相互比較可能な指標を用いた，離散的系統データセットにおける同形形質のパターンの解明」（オープンアクセス）  
 Revealing patterns of homoplasy in discrete phylogenetic datasets with a cross-comparable index (Steell et al., 2025, *Zoological Journal of the Linnean Society*)  
 [DOI](https://doi.org/10.1093/zoolinnean/zlaf024)

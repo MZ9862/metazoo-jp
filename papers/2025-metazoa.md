@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2025（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月18日</div>
-<div style="text-align: right;">最終確認日：2026年1月18日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月21日</div>
+<div style="text-align: right;">最終確認日：2026年1月21日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する2025年に出版された文献（論文以外にプレプリント・書籍等も含む）を，タイトルの日本語訳付きで出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
@@ -1175,6 +1175,10 @@ The last jellyfish of the Precambrian (Ivantsov & Zakrevskaya, 2025, *Invertebra
 [DOI](https://doi.org/10.15298/invertzool.22.1.05)
 
 ## 2月
+「南オーストラリア州・フルリオ半島のOchre Pointにおけるエディアカラン系（新原生界）から産出した新たな化石」（オープンアクセス）  
+New fossils from the early Ediacaran (Neoproterozoic) at Ochre Point, Fleurieu Peninsula, South Australia (Plummer & Milnes, 2025, *Transactions of the Royal Society of South Australia*)  
+[DOI](https://doi.org/10.1080/03721426.2025.2457170)
+
 「カイアシ類のゲノム系統学により、カヌエラ目がハルパクチクス目とは独立した有効な目であることが支持される」  
 Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida (Bernot et al., 2025, *Molecular Phylogenetics and Evolution*)  
 [DOI](https://doi.org/10.1016/j.ympev.2025.108311)

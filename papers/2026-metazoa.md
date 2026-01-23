@@ -8,14 +8,26 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2026（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月21日</div>
-<div style="text-align: right;">最終確認日：2026年1月21日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月23日</div>
+<div style="text-align: right;">最終確認日：2026年1月23日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する2026年に出版された文献（論文以外にプレプリント・書籍等も含む）を，タイトルの日本語訳付きで出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 妥当性に疑義があったり，学術的信頼性に大きな問題がある文献も世にはしばしば見られますが，それらについても本ページではあえて除外せずに収録しています．ただし，明らかなハゲタカジャーナル（predatory journal）に掲載された文献は除外しています．本ページに掲載されている文献は，各自の責任において内容を十分に吟味した上でご利用ください．管理人は，これらの文献の内容について一切の責任を負いません．
 
 # 1月
+「カンブリア紀からの最初期の脊椎動物における4つのカメラ型眼」  
+Four camera-type eyes in the earliest vertebrates from the Cambrian Period (Lei et al., 2026, *Nature*)  
+[DOI](https://doi.org/10.1038/s41586-025-09966-0)
+
+「目を見張る発見：初期の脊椎動物は2つではなく4つの眼をもっていた」  
+An eye-popping discovery: early vertebrates had four eyes rather than two (Levine, 2026, *Nature*)  
+[DOI](https://doi.org/10.1038/d41586-025-04096-z)
+
+「マルチプルアライメントのアルゴリズムの包括的かつ体系的な文献レビュー」（オープンアクセス）  
+A comprehensive systematic literature review of multiple sequence alignment algorithms (Sabonsolin & Lao, 2026, *Discover Computing*)  
+[DOI](https://doi.org/10.1007/s10791-026-09911-3)
+
 「『ゲノム系統学におけるconcordance factorの意味と測定』の訂正」（オープンアクセス）  
 Correction to: The Meaning and Measure of Concordance Factors in Phylogenomics (2026, *Molecular Biology and Evolution*)  
 [DOI](https://doi.org/10.1093/molbev/msag013)

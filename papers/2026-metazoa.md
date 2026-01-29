@@ -8,14 +8,30 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 系統・進化論文紹介2026（後生動物Metazoa）</span>
 </div>
-<div style="text-align: right;">最終追加日：2026年1月23日</div>
-<div style="text-align: right;">最終確認日：2026年1月23日</div><br>
+<div style="text-align: right;">最終追加日：2026年1月29日</div>
+<div style="text-align: right;">最終確認日：2026年1月29日</div><br>
 
 後生動物Metazoaの初期の系統・進化に関する2026年に出版された文献（論文以外にプレプリント・書籍等も含む）を，タイトルの日本語訳付きで出版月ごとになるべく網羅的に紹介しています。比較的、管理人の興味（主に門レベル以上の系統）に偏っています。もし明らかな抜けがあれば、[GitHub Issues](https://github.com/MZ9862/metazoo-jp/issues)またはメール（<mz9862.github@gmail.com>）にて報告していただけると幸いです。論文タイトルはなるべく原文の意味からずれないように直訳することを心掛けているので、日本語にすると不自然なところも多いです。
 
 妥当性に疑義があったり，学術的信頼性に大きな問題がある文献も世にはしばしば見られますが，それらについても本ページではあえて除外せずに収録しています．ただし，明らかなハゲタカジャーナル（predatory journal）に掲載された文献は除外しています．本ページに掲載されている文献は，各自の責任において内容を十分に吟味した上でご利用ください．管理人は，これらの文献の内容について一切の責任を負いません．
 
 # 1月
+「大量絶滅が，有顎脊椎動物とその無顎の近縁群（顎口類）の初期放散を引き起こした」（オープンアクセス）  
+Mass extinction triggered the early radiations of jawed vertebrates and their jawless relatives (gnathostomes) (Hagiwara & Sallan, 2026, *Science Advances*)  
+[DOI](https://doi.org/10.1126/sciadv.aeb2297)
+
+「顕生代最初の大量絶滅後におけるカンブリア紀の軟体性の生物群」  
+A Cambrian soft-bodied biota after the first Phanerozoic mass extinction (Zeng et al., 2026, *Nature*)  
+[DOI](https://doi.org/10.1038/s41586-025-10030-0)
+
+「シルル紀の無顎魚類のシンクロトロンX線解析によって明らかになった，初期の脊椎動物のバイオミネラリゼーションと眼の構造」（オープンアクセス）  
+Early vertebrate biomineralization and eye structure determined by synchrotron X-ray analyses of Silurian jawless fish (Reeves et al., 2026, *Proceedings of the Royal Society B: Biological Sciences*)  
+[DOI](https://doi.org/10.1098/rspb.2025.2248)
+
+「螺旋動物の門間の関係は解決可能か？」（プレプリント・閲覧可能）  
+Are interphylum spiralian relationships resolvable? (Serra Silva & Telford, 2026 preprint, *bioRxiv*)  
+[DOI](https://doi.org/10.64898/2026.01.25.701568)
+
 「カンブリア紀からの最初期の脊椎動物における4つのカメラ型眼」  
 Four camera-type eyes in the earliest vertebrates from the Cambrian Period (Lei et al., 2026, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-09966-0)

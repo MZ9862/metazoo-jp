@@ -612,7 +612,7 @@ The genomic origin of the unique chaetognath body plan (Piovani et al., 2025, *N
 An extinct clade of the basal Epitheliozoa: phylogenetic position and implication of the enigmatic Cambrian chancelloriids (Yun et al., 2025, *Communications Biology*)  
 [DOI](https://doi.org/10.1038/s42003-025-08655-y)
 
-「顎口脊椎動物の姉妹群における頭部と胴部の接合面の新たな形成様式」（ResearchGateから全文のPDFが入手可能）  
+「有顎脊椎動物の姉妹群における頭部と胴部の接合面の新たな形成様式」（ResearchGateから全文のPDFが入手可能）  
 Novel assembly of a head–trunk interface in the sister group of jawed vertebrates (Miyashita et al., 2025, *Nature*)  
 [DOI](https://doi.org/10.1038/s41586-025-09329-9)  
 [ResearchGate全文PDF](https://www.researchgate.net/publication/394356524_Novel_assembly_of_a_head-trunk_interface_in_the_sister_group_of_jawed_vertebrates)
